@@ -4,15 +4,15 @@ You can treat your custom-made blocks like any other block in snap, including us
 
 We'll look more closely at this sort of composition of blocks in a later topic, because it is important.
 
-For now, use the ![](../.gitbook/assets/image%20%2870%29.png) block to create a block that draws the petals of a flower, like:
+For now, use the ![](../.gitbook/assets/image%20%2881%29.png) block to create a block that draws the petals of a flower, like:
 
-![](../.gitbook/assets/image%20%28128%29.png)
+![](../.gitbook/assets/image%20%28143%29.png)
 
 If you look at this flower, you'll see it has 6 squares drawn at equal angles around a full 360-degree rotation.
 
-Create the block ![](../.gitbook/assets/image%20%2857%29.png) that will draw a square-leaved flower with any number of square-shaped petals with the specified size. In this block, you will turn the sprite between calls to `draw square`using an angle of ![](../.gitbook/assets/image%20%28114%29.png) . 
+Create the block ![](../.gitbook/assets/image%20%2861%29.png) that will draw a square-leaved flower with any number of square-shaped petals with the specified size. In this block, you will turn the sprite between calls to `draw square`using an angle of ![](../.gitbook/assets/image%20%28127%29.png) . 
 
-An invocation of ![](../.gitbook/assets/image%20%2845%29.png) should draw the example picture above.
+An invocation of ![](../.gitbook/assets/image%20%2848%29.png) should draw the example picture above.
 
 {% embed url="https://beautyjoy.github.io/bjc-r/cur/programming/functions/intro/buggy-house-and-square.html?1&2&3&4&topic=berkeley\_bjc%2Fintro\_pair%2F2-loops-variables.topic&course=cs10\_sp19.html&novideo&noreading&noassignment" %}
 
@@ -20,7 +20,7 @@ An invocation of ![](../.gitbook/assets/image%20%2845%29.png) should draw the ex
 
 Write a block that draws a full flower in the middle of the stage.
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2882%29.png)
 
 Write simple custom blocks, or borrow from blocks you have already written, and then use those blocks inside your `draw a flower` block. If you can, write blocks of intermediate complexity that use and are used by other blocks you write.  
   
