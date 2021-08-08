@@ -4,7 +4,7 @@
 
 In the code sample below, we have implemented a simple number-guessing game. The computer chooses a random number and then asks the player to guess the random number. The code is available in [this file](http://snap.berkeley.edu/snapsource/snap.html#open:https://beautyjoy.github.io/bjc-r/prog/conditionals/guess-number.xml).
 
-![](../.gitbook/assets/image%20%28104%29.png)
+![](../.gitbook/assets/image%20%28124%29.png)
 
 ## Version 2
 

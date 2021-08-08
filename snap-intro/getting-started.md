@@ -16,9 +16,9 @@ Snap_!_ is different that many other languages in another way— you run it in a
 
 In order to save your programs, the first thing you'll need to do is make an account. In the Snap_!_ browser window, find the cloud-shaped button in the top toolbar on the upper left corner of the window:
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 Click it, select the "sign up" option in the menu, and follow the instructions there. You will need to check your email after creating your account to get your initial password.
 
-![](../.gitbook/assets/image%20%28242%29.png)
+![](../.gitbook/assets/image%20%28288%29.png)
 

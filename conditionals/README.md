@@ -19,5 +19,5 @@ Notice how the three latter bullets all follow the same format: "if **A**, then 
 
 Fortunately, the Snap_!_ blocks that represent "if-then" statements are very similar to English. Below is an example of what the banking program might look like. Try reading the program aloud. It should sound like pretty reasonable English! However, if you don't understand parts of it, don't worry. We'll get there soon!
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2867%29.png)
 

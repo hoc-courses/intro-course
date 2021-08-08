@@ -8,17 +8,17 @@ Edit the block to accept an _input_ \(or _argument_\), which tells it the length
 
 Right-click or control-click on the new block \(either in the palette or in a script\) and select `edit` to go back to the block editor.
 
-![](../.gitbook/assets/image%20%28134%29.png)
+![](../.gitbook/assets/image%20%28161%29.png)
 
 In the `Block Editor`, hover your cursor over the words and plus signs \(**`+`**\) in the top block. \(This top block is called a "hat" block because of the curved top. Hat blocks can never be in the middle of a script, only at the top\).
 
 Clicking on a word will let you change that word; clicking on a **`+`** will let you add something in that position. We want to add an input at the end of the block, so clickon the **`+`** at the end.
 
-![](../.gitbook/assets/image%20%28209%29.png)
+![](../.gitbook/assets/image%20%28251%29.png)
 
 You should get the following dialog box.
 
-![](../.gitbook/assets/image%20%28149%29.png)
+![](../.gitbook/assets/image%20%28183%29.png)
 
 You have two choices about what you want to add or modify to the block definition:
 
@@ -29,7 +29,7 @@ We want to add an input named `size` to our block definition. Type "size" in the
 
 Your block title has changed: there is now a variable named `size` at the end of the title.
 
-![](../.gitbook/assets/image%20%28139%29.png)
+![](../.gitbook/assets/image%20%28168%29.png)
 
 In order to use the `size` variable within the `draw square` block, drag the variable `size` down into the move block. Whenever you need a new copy of a variable, just drag another down. \(If you have extra copies you want to get rid of, you can drag the copy all the way to the palette at the left of the Snap_!_ window.\)  
   
@@ -39,5 +39,5 @@ Snap_!_ will determine the value of the `size` variable automatically for you wh
 
 When you click `OK`, you'll see that the `draw square` block in the scripting area now takes an argument. You can put different numbers in the blank and draw squares of different sizes.
 
-![](../.gitbook/assets/image%20%2858%29.png)
+![](../.gitbook/assets/image%20%2869%29.png)
 
