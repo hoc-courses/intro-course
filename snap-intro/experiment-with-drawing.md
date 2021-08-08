@@ -2,15 +2,7 @@
 
 Try to get comfortable with the blocks under the **Motion** tab and the **Pen** tab. Figure out what each one does, and try to use these blocks to draw a square or a simple picture. Get started by testing these blocks:
 
-![Move 10 Steps Block](https://beautyjoy.github.io/bjc-r/img/blocks/move-10-steps.png)
-
-![Turn Right 15 Degrees Block](https://beautyjoy.github.io/bjc-r/img/blocks/turn-right-15.png)
-
-![Clear Block](https://beautyjoy.github.io/bjc-r/img/blocks/clear.png)
-
-![Pen Up Block](https://beautyjoy.github.io/bjc-r/img/blocks/pen-up.png)
-
-![Pen Down Block](https://beautyjoy.github.io/bjc-r/img/blocks/pen-down.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 ### Tips and Tricks:
 
