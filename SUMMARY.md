@@ -28,6 +28,7 @@
   * [For Loop](loops-and-custom-blocks/for-loop.md)
   * [Random Block](loops-and-custom-blocks/random-block.md)
   * [Custom Command Blocks](loops-and-custom-blocks/custom-command-blocks.md)
+  * [Input Parameters](loops-and-custom-blocks/input-parameters.md)
   * [Drawing Polygons Project](loops-and-custom-blocks/drawing-project.md)
   * [Composition of Blocks](loops-and-custom-blocks/composition-of-blocks.md)
   * [The DRY Principle](loops-and-custom-blocks/the-dry-principle.md)
