@@ -4,23 +4,23 @@ You can treat your custom-made blocks like any other block in snap, including us
 
 We'll look more closely at this sort of composition of blocks in a later topic, because it is important.
 
-For now, use the ![](https://beautyjoy.github.io/bjc-r/img/blocks/draw-square-empty-parameter.png) block to create a block that draws the petals of a flower, like:![flower with 6 square petals](https://beautyjoy.github.io/bjc-r/img/drawing/flower-with-6-square-petals.png)
+For now, use the ![](../.gitbook/assets/image%20%2868%29.png) block to create a block that draws the petals of a flower, like:
+
+![](../.gitbook/assets/image%20%28121%29.png)
 
 If you look at this flower, you'll see it has 6 squares drawn at equal angles around a full 360-degree rotation.
 
-Create the block  
-![block: draw square-leaved flower with \[\] leaves of size \[\]](https://beautyjoy.github.io/bjc-r/img/drawing/draw-square-leaved-flower-empty-paramters.png)  
-that will draw a square-leaved flower with any number of square-shaped petals with the specified size. In this block, you will turn the sprite between calls to `draw square`using an angle of ![360 divided by the number of leaves](https://beautyjoy.github.io/bjc-r/img/drawing/calculating-turn-angle-for-draw-flower.png). 
+Create the block ![](../.gitbook/assets/image%20%2856%29.png) that will draw a square-leaved flower with any number of square-shaped petals with the specified size. In this block, you will turn the sprite between calls to `draw square`using an angle of ![](../.gitbook/assets/image%20%28108%29.png) . 
 
-An invocation of ![block: draw square-leaved flower with 6 leaves of size 50](https://beautyjoy.github.io/bjc-r/img/drawing/draw-square-leaved-flower-6-50-parameters.png) should draw the example picture above.
-
-### Test for Understanding
+An invocation of ![](../.gitbook/assets/image%20%2845%29.png) should draw the example picture above.
 
 {% embed url="https://beautyjoy.github.io/bjc-r/cur/programming/functions/intro/buggy-house-and-square.html?1&2&3&4&topic=berkeley\_bjc%2Fintro\_pair%2F2-loops-variables.topic&course=cs10\_sp19.html&novideo&noreading&noassignment" %}
 
-## Compose a draw flower Block
+## Compose a _draw flower_ Block
 
-Write a block that draws a full flower in the middle of the stage.![draw a flower block](https://beautyjoy.github.io/bjc-r/img/drawing/draw-a-flower.png)
+Write a block that draws a full flower in the middle of the stage.
+
+![](../.gitbook/assets/image%20%2869%29.png)
 
 Write simple custom blocks, or borrow from blocks you have already written, and then use those blocks inside your `draw a flower` block. If you can, write blocks of intermediate complexity that use and are used by other blocks you write.  
   
