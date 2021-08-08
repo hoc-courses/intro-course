@@ -1,6 +1,6 @@
 # Complex Predicates - Comparison Operators
 
-Simple predicates have a single built-in block \(like ![](../.gitbook/assets/image%20%2863%29.png) \). Let's take a look at a few more complex examples:
+Simple predicates have a single built-in block \(like ![](../.gitbook/assets/image%20%2874%29.png) \). Let's take a look at a few more complex examples:
 
 * "If I am hungry and with my friends, I will order pizza." 
 * "If I see George and Lisa at the mall, I will say "hello" to them."
@@ -11,7 +11,7 @@ Simple predicates have a single built-in block \(like ![](../.gitbook/assets/ima
 
 This brings us to three special predicates: `and`, `or`, and `not`.
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 `And`, `or`, and `not` are all predicates that take in other predicates. These three predicates behave in ways you might expect from their meanings in English. 
 

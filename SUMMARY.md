@@ -42,7 +42,14 @@
   * [The Guessing Game Project](conditionals/the-guessing-game-project.md)
 * [Abstraction](abstraction/README.md)
   * [Custom Reporter Blocks](abstraction/custom-reporter-blocks.md)
+  * [Composition of Functions](abstraction/composition-of-functions.md)
+  * [Debugging - 1](abstraction/debugging-1.md)
+  * [Functional Decomposition](abstraction/functional-decomposition.md)
+  * [Debugging - 2](abstraction/debugging-2.md)
   * [Brick Wall Project](abstraction/brick-wall-project.md)
+* [Lists](lists.md)
+* [The List Block](the-list-block.md)
+* [Transforming List Elements](transforming-list-elements.md)
 
 ## HTML/CSS
 

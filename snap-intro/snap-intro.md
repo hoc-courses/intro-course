@@ -2,5 +2,5 @@
 
  You may have noticed that there are a few main sections of the _Snap!_ window. These regions are named as shown below.
 
-![](../.gitbook/assets/image%20%2883%29.png)
+![](../.gitbook/assets/image%20%2898%29.png)
 

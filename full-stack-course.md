@@ -6,7 +6,7 @@ The full stack curriculum encompasses a set of technologies that enables an enti
 
 The stack that CYF teaches is the MERN Stack, with the addition of the SQL Server component for database access. 
 
-![](.gitbook/assets/image%20%2857%29.png)
+![](.gitbook/assets/image%20%2868%29.png)
 
 The MERN Stack stands for **M**ongoDB **E**xpress **R**eact **N**ode. 
 
