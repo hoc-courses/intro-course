@@ -1,11 +1,13 @@
 # Complex Predicates - Comparison Operators
 
-Simple predicates have a single built-in block \(like ![](../.gitbook/assets/image%20%2858%29.png) \). Let's take a look at a few more complex examples:
+Simple predicates have a single built-in block \(like ![](../.gitbook/assets/image%20%2859%29.png) \). Let's take a look at a few more complex examples:
 
 * "If I am hungry and with my friends, I will order pizza." 
 * "If I see George and Lisa at the mall, I will say "hello" to them."
 * "If we are out of milk or eggs, go to the store."
 * "If you are not enjoying the party, go home."
+
+ In past examples, we've seen conditionals that contain a single predicate \(![=](https://beautyjoy.github.io/bjc-r/img/blocks/equals.png), ![&amp;lt;](https://beautyjoy.github.io/bjc-r/img/blocks/less-than.png), etc.\). We could write a single block for each of the above conditionals, but that might be a bit weird. In the first sentence, for example, this would entail writing an "am hungry and with friends?" predicate. This seems a little strange because the "am hungry" and the "with my friends" parts aren't necessarily related; it doesn't make sense to put them as a single predicate. So, instead, we might write separate "am hungry?" and "with friends?" predicates and combine them in some way. 
 
 This brings us to three special predicates: `and`, `or`, and `not`.
 

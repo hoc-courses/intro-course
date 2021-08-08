@@ -2,9 +2,9 @@
 
 We can generate a random number between any two whole numbers using the `random` block:
 
-![](../.gitbook/assets/image%20%2865%29.png)
+![](../.gitbook/assets/image%20%2867%29.png)
 
-This block generates numbers with about equal likelihood, and can generate the both the lower and upper bounds that you give it. So, ![](../.gitbook/assets/image%20%2865%29.png) can generate 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10.
+This block generates numbers with about equal likelihood, and can generate the both the lower and upper bounds that you give it. So, ![](../.gitbook/assets/image%20%2867%29.png) can generate 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10.
 
 This block \(and others with round edges\) is a **reporter** block—it _reports_ a value. Use this block inside other blocks that take an input:
 
@@ -14,9 +14,9 @@ This block \(and others with round edges\) is a **reporter** block—it _reports
 
 ## Randomly Moving a Character
 
-Make a sprite keep moving around the screen randomly, using ![](../.gitbook/assets/image%20%2865%29.png) blocks \(with the correct inputs\) inside ![](../.gitbook/assets/image%20%2886%29.png) and ![](../.gitbook/assets/image%20%2887%29.png) blocks. Some things to keep track of:
+Make a sprite keep moving around the screen randomly, using ![](../.gitbook/assets/image%20%2867%29.png) blocks \(with the correct inputs\) inside ![](../.gitbook/assets/image%20%2888%29.png) and ![](../.gitbook/assets/image%20%2889%29.png) blocks. Some things to keep track of:
 
-* You'll want to use a ![](../.gitbook/assets/image%20%2818%29.png) or ![](../.gitbook/assets/image%20%2885%29.png) to keep your sprite moving continuously.
+* You'll want to use a ![](../.gitbook/assets/image%20%2818%29.png) or ![](../.gitbook/assets/image%20%2887%29.png) to keep your sprite moving continuously.
 * Make sure the sprite can travel in any direction.
 * How does your sprite's actions change if you have it move a fixed, rather than random, amount each time?
 * Keep the pen for your sprite down, and you'll see a two-dimensional [random walk](http://en.wikipedia.org/wiki/Random_walk).
@@ -29,9 +29,9 @@ Draw a field of flowers, and give each flower a different color, size, shape, po
   
 Use ![](../.gitbook/assets/image%20%2818%29.png) to draw lots of flowers, flowers with lots of petals, and so forth.  
   
-Use ![](../.gitbook/assets/image%20%2865%29.png) as much as you can to make the flowers interesting and different.
+Use ![](../.gitbook/assets/image%20%2867%29.png) as much as you can to make the flowers interesting and different.
 
 Here is a custom block \(from someone who went crazy\) to give you some ideas:
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 

@@ -6,7 +6,7 @@ Beyond its noble mission, their curriculum, and organization of the content, is 
 
 ![](.gitbook/assets/image%20%2841%29.png)
 
-![](.gitbook/assets/image%20%2847%29.png)
+![](.gitbook/assets/image%20%2848%29.png)
 
 They offer three phases to their program. It isn't until the third phase, the Full Stack Development Course, where they are using their own curriculum. 
 
