@@ -1,14 +1,14 @@
 # Intro Course
 
-Prior to their full course, Code Your Future is using available resources from the web, and have the students use them independently to cover the introductory topics. They just provide mentoring/tutors at weekly workshops to help students through the content when they get stuck.
+Prior to their full course, Code Your Future is using available curriculum from the web, and has the students proceed at their own pace independently to cover the introductory topics. The students attend weekly workshops with mentors available to keep them from getting stuck.  Students must successfully complete the Introductory material to proceed to the Full Stack course.
 
-* Khan Academy - [Intro to JavaScript: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
-* Code.org - [Intro to Programming Course 3](https://studio.code.org/s/course3)
-* FreeCodeCamp.org - [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/).
+This is the curriculum that they use for the Introductory course.
 
-I will use my own curriculum for the content that would prepare students for the Code Your Future Full Stack Web Development Course rather than the course from Khan Academy, Code.org, and FreeCodeCamp.org. 
+* Khan Academy - [Intro to JavaScript: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming) 
+* Code.org - [Intro to Programming Course 3](https://studio.code.org/s/course3) 
+* FreeCodeCamp.org - [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
 
-I think my curriculum will cover the same topics in a more engaging way and will allow me to adapt the curriculum to meet the needs to students completely new to web development, as well as those that have had prior experience.
+While these resources are good, I will use my own curriculum for this portion of the course, as I think it will be more engaging and I will be able to better meet the needs of students completely new to web development, as well as those that have had prior experience.
 
 ## Curriculum 
 
