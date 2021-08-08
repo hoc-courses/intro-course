@@ -15,6 +15,7 @@
 
 * [CS50 Intro](cs50-intro.md)
 * [Intro to Snap!](snap-intro/README.md)
+  * [Getting Started](snap-intro/getting-started.md)
   * [Overview of the Window](snap-intro/snap-intro.md)
   * [Blocks](snap-intro/blocks.md)
   * [Scripts](snap-intro/scripts.md)

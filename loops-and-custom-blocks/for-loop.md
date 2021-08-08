@@ -51,5 +51,5 @@ Also, try changing the turning angle and the move length to see how close you ca
 
 Predict what the following script will produce and then build the script to test your hypothesis.
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 

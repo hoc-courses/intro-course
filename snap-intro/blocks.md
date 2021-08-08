@@ -10,7 +10,7 @@ Look at the **Motion** tab. Under this tab you will find a bunch of blocks that 
 
 The block that you just dragged and dropped into the scripting area controls something that we call a _**sprite**_, which is the arrowhead-looking thing in the middle of the stage \(the white part of the window\).
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 Back to the scripting area, if you click on the ![Move 10 Steps Block](https://beautyjoy.github.io/bjc-r/img/blocks/move-10-steps.png) you just put there, the sprite will move 10 steps. You can see this visually depicted by the sprite moving in the stage. You can vary the input of the block, i.e., the number 10, to change the number of steps you want to the sprite to move. 
 
