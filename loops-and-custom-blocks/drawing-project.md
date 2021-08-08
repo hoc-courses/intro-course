@@ -49,3 +49,22 @@ _\*\*\*\*_![](https://github.com/hoc-labs/images/blob/main/random-polys-2.png?ra
 
 {% embed url="https://www.youtube.com/watch?v=qLU3PtaG3ww" %}
 
+## Extra Challenge
+
+### Nested Squares
+
+Build a **nest squares** block that uses a **for loop** block and your **draw polygon** block to draw nested squares. Give it an input so that it will draw whatever number of squares you specify, with each square larger than the previous.
+
+Use a **for loop** to nest squares this way. 
+
+![](https://github.com/hoc-labs/images/blob/main/concentric-squares.png?raw=true)
+
+Build your block with two inputs that let you specify how many squares the design will contain and how much bigger each square will be than the previous one.
+
+### Nested Polygons
+
+* Build a **nest polygons** block that accepts the number of polygons and the number of sides for the polygons.
+* Build a script that draws 12 regular polygons, each with one more side than the previous one, as shown below.
+
+![](https://github.com/hoc-labs/images/blob/main/polygons.png?raw=true)
+
