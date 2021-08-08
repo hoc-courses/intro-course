@@ -2,15 +2,15 @@
 
 In the last activity we made this list of nouns:
 
-![](.gitbook/assets/image%20%28118%29.png)
+![](../.gitbook/assets/image%20%28157%29.png)
 
 Now suppose we'd like to be able to vary our noun phrases by sometimes using one of these nouns in the plural. So we need a way to add the letter "s" to each item of the list. Find the **map** block near the bottom of the Variables palette and use it this way:
 
-![](.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 The first input to the `map` block has a form you haven't seen before this:
 
-![](.gitbook/assets/image%20%28112%29.png)
+![](../.gitbook/assets/image%20%28150%29.png)
 
 The grey ring means that the input should be a function. What we mean by this is basically the same thing as the f\(x\)=3x+7 kind of function in algebra, except that it doesn't have to be a numeric function. In this case the function we want is "join the letter 's' after the given word." When you drag the `join` block into the `map` input slot, the grey ring is still visible, to remind you that the input is a function, not the word that you'd get from some particular `join`ing.
 
@@ -22,11 +22,11 @@ Instead of using a variable, like the x in f\(x\), to represent the input to the
   
 Here are some more examples of using `map` to compute some function of every item of a list:
 
-![](.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
-![](.gitbook/assets/image%20%28171%29.png)
+![](../.gitbook/assets/image%20%28221%29.png)
 
-![](.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 In that third example, there are two empty boxes in the function, so it's ☐×☐, which squares each number.
 
@@ -34,12 +34,12 @@ In that third example, there are two empty boxes in the function, so it's ☐×�
 **Try this:**  
 In the last activity we made a list of Beatles:
 
-![](.gitbook/assets/image%20%28132%29.png)
+![](../.gitbook/assets/image%20%28174%29.png)
 
   
 Use `map` and this list to get a list of just the first names of the Beatles.
 
-![](.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
   
 A function that, like `map`, takes another function as an input is called a higher order function. In the next two activities you'll meet two more higher order functions.

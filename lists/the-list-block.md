@@ -6,19 +6,19 @@ Look in the Variables palette below the orange variable-related blocks for a bun
 
 The first red block is the `list` block, used to create a list:
 
-![](.gitbook/assets/image%20%28106%29.png)
+![](../.gitbook/assets/image%20%28143%29.png)
 
 Drag a `list` block into the scripting area to experiment with.
 
 This block uses a Snap_!_ feature you've seen once before, in the `join` block: a variadic input. This means that, even though you see one input slot in the block, you can give it any number of inputs. The left and right arrowheads at the end of the block are used to delete or add input slots:
 
-![](.gitbook/assets/image%20%2876%29.png)
+![](../.gitbook/assets/image%20%2898%29.png)
 
   
   
 Like any reporter block, the `list` block can be dragged into an input slot of another block:
 
-![](.gitbook/assets/image%20%28116%29.png) ![](.gitbook/assets/image%20%2847%29.png) 
+![](../.gitbook/assets/image%20%28154%29.png) ![](../.gitbook/assets/image%20%2859%29.png) 
 
 The grey rounded rectangle with red rounded rectangles inside it is the visual representation of a list. Each red rectangle is one list item.
 
@@ -35,11 +35,11 @@ What happens if you drag a `list` block into an input slot that expects a number
 
 Let's say you're writing a program to generate English sentences. Your starting point might be various lists of words:
 
-![](.gitbook/assets/image%20%2899%29.png)
+![](../.gitbook/assets/image%20%28127%29.png)
 
 You could build up a sentence out of phrases. For example, to make a noun phrase, you want to pick one item from the `articles` list, one from the `adjectives` list, and one from the `nouns` list. To select one item from a list, use the `item` block:
 
-![](.gitbook/assets/image%20%28148%29.png)
+![](../.gitbook/assets/image%20%28195%29.png)
 
 List items are numbered from 1, so, for example, item 3 of the `nouns` list above is `pizza`. The first input slot accepts a number like other rounded input slots, but it also has a downward arrow that, when clicked, offers two special choices: `last` for the last item of the list, and `any` to pick an item at random.
 
@@ -47,11 +47,11 @@ The second input slot in the `item` block is something you haven't seen before: 
 
 Use the `item random` feature to make a noun phrase by choosing a random article, a random adjective, and a random noun:
 
-![](.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2860%29.png)
 
 Because of the random item choices, we get a different result each time we call `noun phrase`:
 
-![](.gitbook/assets/image%20%28103%29.png)
+![](../.gitbook/assets/image%20%28135%29.png)
 
 **Try this:**
 
@@ -59,5 +59,5 @@ Create blocks `prepositional phrase`, `verb phrase`, and anything else you need,
 
 Besides lists of words, you'll find uses for lists of numbers, to keep track of your grades in this course, for example, or to represent a sprite's position as a single vector \(list\) containing the X and Y position numbers. And you can even use lists of lists for more complicated data structures:
 
-![](.gitbook/assets/image%20%2850%29.png)
+![](../.gitbook/assets/image%20%2862%29.png)
 
