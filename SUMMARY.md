@@ -87,6 +87,18 @@
   * [Interacting with the Board](tic-tac-toe-game/interacting-with-the-board.md)
   * [Put Stuff on the Board](tic-tac-toe-game/put-stuff-on-the-board.md)
   * [Build a Maze](tic-tac-toe-game/build-a-maze.md)
+  * [Multiple Agents](tic-tac-toe-game/multiple-agents.md)
+* [Recursion](recursion/README.md)
+  * [Recursion - Part 1](recursion/recursion-part-1.md)
+  * [Recursion - Part 2](recursion/recursion-part-2.md)
+  * [Recursion - Part 3](recursion/recursion-part-3.md)
+  * [Base Case and Recursive Case](recursion/base-case-and-recursive-case.md)
+  * [Input Sliders](recursion/input-sliders.md)
+  * [Vary Your Tree](recursion/vary-your-tree.md)
+  * [Random Tree](recursion/random-tree.md)
+  * [Snowflake](recursion/snowflake.md)
+  * [C-Curve](recursion/c-curve.md)
+  * [Fractals in Nature](recursion/fractals-in-nature.md)
 
 ## HTML/CSS
 

@@ -44,11 +44,11 @@ Here is how we can convert `mouse x` into `column`:
 
 Here is how we can convert `mouse y` into `row`:
 
-![](../.gitbook/assets/image%20%28230%29.png)
+![](../.gitbook/assets/image%20%28238%29.png)
 
 Let's put it all together to get a functioning click detector!
 
-![](../.gitbook/assets/image%20%28229%29.png)
+![](../.gitbook/assets/image%20%28237%29.png)
 
 Try clicking on a spot outside of the board. What coordinates do we get? Does this make sense?
 

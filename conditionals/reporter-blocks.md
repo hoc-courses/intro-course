@@ -4,11 +4,11 @@ So far, all of the blocks you've defined have been "command" blocks. These actua
 
 Sometimes, we aren't interested in any side effects, and just want a block that performs a calculation for us. These are called "reporters," because rather than causing the program to do something, they simply give us back a value. Many blocks on the "operators" palette are reporters. Here are just a few:
 
-![](../.gitbook/assets/image%20%28115%29.png)
+![](../.gitbook/assets/image%20%28119%29.png)
 
 Notice how all of these are rounded, and can't be attached directly to other blocks. Because of this, we need to use them in combination with other blocks, like `say` or `set`. For example:
 
-![](../.gitbook/assets/image%20%28108%29.png)
+![](../.gitbook/assets/image%20%28112%29.png)
 
 \(I'm sure you've been doing things like this since you started using Snap_!_\)
 
@@ -18,7 +18,7 @@ The first step is, as usual, to select "make a block" from the bottom of the "va
 
 Next, we'll select "reporter" rather than the usual "command."
 
-![](../.gitbook/assets/image%20%28248%29.png)
+![](../.gitbook/assets/image%20%28258%29.png)
 
 Note: you don't have to necessarily put all reporters in the "operators" palette; it's just the most frequent place for them.
 
@@ -32,7 +32,7 @@ Fill in the body with whatever you want, and you're done!
 
 Let's take a look at an example:
 
-![](../.gitbook/assets/image%20%28136%29.png)
+![](../.gitbook/assets/image%20%28140%29.png)
 
 This block will take in a parameter `x`, and report `x2`.
 
@@ -44,11 +44,11 @@ This block is a home-made version of the `abs` \(absolute value\) block that we 
 
 Let's try writing our own reporter block! Try writing a `max` block that takes in two numbers and reports the larger of the two. Hint: you'll need to use `if`.
 
-![](../.gitbook/assets/image%20%28263%29.png)
+![](../.gitbook/assets/image%20%28273%29.png)
 
 Here's a more complex block that we wrote. Predict what it will report when run with inputs "hello" and 
 
-![](../.gitbook/assets/image%20%28267%29.png)
+![](../.gitbook/assets/image%20%28277%29.png)
 
 "Predicates" are special kinds of reporter blocks that only report `true` or `false`. You'll see in the next slide how to write them.
 

@@ -4,7 +4,7 @@
 
 Repeating a part of your program is a very common practice in programming. We'll call this _looping_, and there many different blocks you can use to do it in many different ways.
 
-The ![](../.gitbook/assets/image%20%28195%29.png) block is appropriate if you want to repeat the same behavior for... ever.  
+The ![](../.gitbook/assets/image%20%28200%29.png) block is appropriate if you want to repeat the same behavior for... ever.  
   
 The ![](../.gitbook/assets/image%20%2834%29.png) block is great if you want to loop the same behavior a certain number of times. 
 
@@ -23,11 +23,11 @@ The numbers in the `for` block work as you probably think they do: the inner scr
 
 What's new to you here, though, is the orange oval with "`i`" in it. By using this `i`, your inner blocks can know which time through the loop they are currently on. Here's how:
 
-The ![](../.gitbook/assets/image%20%28105%29.png) block is a _variable_ that acts like a counter. You use it any place you would use a number, and it will report the value that it currently holds.
+The ![](../.gitbook/assets/image%20%28109%29.png) block is a _variable_ that acts like a counter. You use it any place you would use a number, and it will report the value that it currently holds.
 
 Think of the _variable_ like a box with a name—this one has the name `i`. This box is made for you by the ![](../.gitbook/assets/image%20%2852%29.png) block, and holds a different number each time through the loop. The first time it will hold `1`, or whatever is the left number in the `for` block.
 
-You use it by dragging ![](../.gitbook/assets/image%20%28105%29.png) from the source within the `for` block down to the slot in which you will use it.
+You use it by dragging ![](../.gitbook/assets/image%20%28109%29.png) from the source within the `for` block down to the slot in which you will use it.
 
 For instance:![](https://beautyjoy.github.io/bjc-r/img/looping/for-loop-drag-i.gif)
 
@@ -37,7 +37,7 @@ is the equivalent of ![](../.gitbook/assets/image%20%2836%29.png)
 
 Click this [link ](http://snap.berkeley.edu/snapsource/snap.html#open:https://beautyjoy.github.io/bjc-r/prog/loop/draw-squirral.xml)to load the script below in a new Snap_!_ window:
 
-![](../.gitbook/assets/image%20%28212%29.png)
+![](../.gitbook/assets/image%20%28218%29.png)
 
 Note that we changed the name of the variable, by clicking on the orange oval _without_ dragging it.
 

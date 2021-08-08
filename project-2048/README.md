@@ -11,7 +11,7 @@ Exactly how many blocks are you supposed to implement for project 3? If you didn
 
 Now that you've read over the basics of the assignment, let's refine our understanding. Begin this lab by opening up the starter file linked on the assignment spec. You should see:
 
-![](../.gitbook/assets/image%20%28260%29.png)
+![](../.gitbook/assets/image%20%28270%29.png)
 
 Click on the "Game Code" Sprite, and you should see a ton of code. **For this project, you should NOT change any existing code in this sprite \(otherwise you might break the game\),** unless you are doing some of the extra credit options.
 
@@ -23,7 +23,7 @@ Without changing any existing code, add a script to the scripting area of the Ga
 
 Modify the script above so that it displays the board pictured below. This is an opportunity for you to use the ![](../.gitbook/assets/image%20%2871%29.png) ****block and learn how the grid works for the 2048 game. **Note:** if you want the images to appear you will need to use the update display block after setting the appropriate values in the board \(as is shown above\).
 
-![](../.gitbook/assets/image%20%28258%29.png)
+![](../.gitbook/assets/image%20%28268%29.png)
 
 In the above image, what is the position of the **16** tile?
 

@@ -1,18 +1,18 @@
 # Debugging - Part 2
 
-The code contained in [this file](http://snap.berkeley.edu/snapsource/snap.html#open:https://beautyjoy.github.io/bjc-r/prog/debugging/house-buggy) is supposed to draw a house, but something is wrong. See if you can figure out what the problem is and try to fix it so that the ![](../.gitbook/assets/image%20%28123%29.png) draws a proper house as shown below.
+The code contained in [this file](http://snap.berkeley.edu/snapsource/snap.html#open:https://beautyjoy.github.io/bjc-r/prog/debugging/house-buggy) is supposed to draw a house, but something is wrong. See if you can figure out what the problem is and try to fix it so that the ![](../.gitbook/assets/image%20%28127%29.png) draws a proper house as shown below.
 
-![](../.gitbook/assets/image%20%28221%29.png) 
+![](../.gitbook/assets/image%20%28227%29.png) 
 
 ## The Check Block
 
-What happens, however, if our code does not give us a visual representation of our output \(such as a picture of a house\) and we are receiving wrong results? These cases can be a bit trickier to debug yet there are tools at our disposal. Enter the Check Block: ![](../.gitbook/assets/image%20%28181%29.png) 
+What happens, however, if our code does not give us a visual representation of our output \(such as a picture of a house\) and we are receiving wrong results? These cases can be a bit trickier to debug yet there are tools at our disposal. Enter the Check Block: ![](../.gitbook/assets/image%20%28186%29.png) 
 
 **You must import tools to access the check block.** To do this, go to the dogeared page icon in the top left &gt; Libraries &gt; Iteration, Composition. Then click import, and this block will show up under the Control tab in Snap! This block works by first evaluating the predicate block passed into the diamond shaped slot, which will return either a true or false value. 
 
 If this predicate returns true then the check block executes the commands within the C-shaped area and then pauses all of the scripts currently running. To un-pause these scripts click on the yellow button at the top right of your screen \( ![](../.gitbook/assets/image%20%2868%29.png) \). Pictured below is an easy example of how you can use the check block to debug your code:
 
-![](../.gitbook/assets/image%20%28182%29.png)
+![](../.gitbook/assets/image%20%28187%29.png)
 
 ![](../.gitbook/assets/image%20%2868%29.png)
 

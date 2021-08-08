@@ -6,15 +6,15 @@ Now that we have the idea of predicates under our belt, we can finally express f
 
 ![](../.gitbook/assets/image%20%2846%29.png)
 
-In the above example, we had several possible cases to consider. However, in many situations, there are only two main cases. Take for example, the following sentence: "If a number is divisible by 2, it is even. Otherwise it is odd." For these situations we have the ![](../.gitbook/assets/image%20%28133%29.png) block. It works like this:
+In the above example, we had several possible cases to consider. However, in many situations, there are only two main cases. Take for example, the following sentence: "If a number is divisible by 2, it is even. Otherwise it is odd." For these situations we have the ![](../.gitbook/assets/image%20%28137%29.png) block. It works like this:
 
-![](../.gitbook/assets/image%20%28276%29.png)
+![](../.gitbook/assets/image%20%28287%29.png)
 
 Here, we didn't need to have an additional "if," because all whole numbers are either even or odd. If the boolean expression \(`x mod 2 = 0`\) evaluates to `false`, we know that the number is not even and thus must be odd.
 
 #### mod Block
 
-If you haven't seen the ![](../.gitbook/assets/image%20%28193%29.png) block before, it reports the remainder \(or "modulus"\) when the first input is divided by the second. For example, `5 mod 2` reports `1` because `5 / 2 = 2 remainder 1`. This block is especially useful for checking whether a number is divisible by another, because the remainder will be 0. ![](../.gitbook/assets/image%20%2886%29.png) is the same as asking if `x` is divisible by 2 \(i.e. that `x` is even\).
+If you haven't seen the ![](../.gitbook/assets/image%20%28198%29.png) block before, it reports the remainder \(or "modulus"\) when the first input is divided by the second. For example, `5 mod 2` reports `1` because `5 / 2 = 2 remainder 1`. This block is especially useful for checking whether a number is divisible by another, because the remainder will be 0. ![](../.gitbook/assets/image%20%2889%29.png) is the same as asking if `x` is divisible by 2 \(i.e. that `x` is even\).
 
 ## Nested Conditions
 
@@ -22,7 +22,7 @@ A **nested conditional statement** is an `if` or `if else` statement inside the 
 
 Describe what this code segment will do.
 
-![](../.gitbook/assets/image%20%28271%29.png)
+![](../.gitbook/assets/image%20%28282%29.png)
 
 ## Predict the Output
 
@@ -30,9 +30,9 @@ Below are several blocks that use `if` and `if-else`. Predict what each one will
 
 #### abs block
 
-You'll notice that a couple of the scripts below use the ![](../.gitbook/assets/image%20%28270%29.png) block. This block actually allows you to use many different mathematical functions. It shows up in the palette as ![](../.gitbook/assets/image%20%28265%29.png) . Just click the drop-down menu to select which function to use. "abs" is short for "absolute value." In case you're not already familiar, the absolute value of a number is just that number turned positive. For example, `abs(10)` is just `10`, while `abs(-2.5)` is `2.5`.
+You'll notice that a couple of the scripts below use the ![](../.gitbook/assets/image%20%28280%29.png) block. This block actually allows you to use many different mathematical functions. It shows up in the palette as ![](../.gitbook/assets/image%20%28275%29.png) . Just click the drop-down menu to select which function to use. "abs" is short for "absolute value." In case you're not already familiar, the absolute value of a number is just that number turned positive. For example, `abs(10)` is just `10`, while `abs(-2.5)` is `2.5`.
 
-![](../.gitbook/assets/image%20%28216%29.png)
+![](../.gitbook/assets/image%20%28222%29.png)
 
 ![](../.gitbook/assets/image%20%2813%29.png)
 
@@ -44,7 +44,7 @@ You'll notice that a couple of the scripts below use the ![](../.gitbook/assets/
 
 Let's try making a few blocks that use if and if-else.
 
-* Make a ![](../.gitbook/assets/image%20%28202%29.png) block that when given a light color, makes the sprite say the appropriate action. For example ![](../.gitbook/assets/image%20%28225%29.png) should say "go!"
-* Make a ![](../.gitbook/assets/image%20%28214%29.png) block that takes in a percentage and makes the sprite say the associated letter grade. For example, ![](../.gitbook/assets/image%20%28239%29.png) should say "C."
+* Make a ![](../.gitbook/assets/image%20%28207%29.png) block that when given a light color, makes the sprite say the appropriate action. For example ![](../.gitbook/assets/image%20%28233%29.png) should say "go!"
+* Make a ![](../.gitbook/assets/image%20%28220%29.png) block that takes in a percentage and makes the sprite say the associated letter grade. For example, ![](../.gitbook/assets/image%20%28249%29.png) should say "C."
 * Make a ![](../.gitbook/assets/image%20%2823%29.png) block that takes in a temperature and says whether water will be liquid, solid, or gas.
 

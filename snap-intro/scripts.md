@@ -14,7 +14,7 @@ Try recreating the following script in the scripting area in Snap_!_. The purple
 
 What will happen if you run this script? Remember, a script will tell the sprite what to do. Click on the script and see what happens! You will know that your script is running if it has a highlighted border around it:
 
-![](../.gitbook/assets/image%20%28169%29.png)
+![](../.gitbook/assets/image%20%28173%29.png)
 
 Be sure to note: **blocks in a script run in a specific order, from the top of the script to the bottom**. Generally, Snap_!_ waits until one block has finished its job before continuing on to the block below it. \(One common exception is blocks that play sounds: a block's job can be to start the sound, which means the block below it will execute while the sound is still playing.
 

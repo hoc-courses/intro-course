@@ -11,5 +11,5 @@ Very occasionally you'll define a two-input custom reporter for use with `combin
 ****  
 We should try out the `average` block. Is that the answer you'd expect?
 
-![](../.gitbook/assets/image%20%2878%29.png)
+![](../.gitbook/assets/image%20%2879%29.png)
 

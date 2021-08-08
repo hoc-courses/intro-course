@@ -2,7 +2,7 @@
 
 We would like to add all the numbers from `1` to `N`, where `N` could be a big number. The obvious way to do this is to simply add them up, one by one.
 
-![](../.gitbook/assets/image%20%28173%29.png)
+![](../.gitbook/assets/image%20%28177%29.png)
 
 We can, however, also follow in the footsteps of the young Johann Carl Friedrich Gauss, a now-revered 18th century mathematician. As the story goes, he was punished by his elementary school teacher to do the same exercise: add all the numbers from `1` to `100`. The teacher, J. G. Büttner, assumed that the problem would take Gauss a long time to do, yet Gauss finished the problem in a matter of seconds. 
 

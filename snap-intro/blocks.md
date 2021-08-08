@@ -6,13 +6,13 @@ These tabs are an important organizational structure in Snap_!_ because they are
 
 ![](../.gitbook/assets/image%20%2859%29.png)
 
-Look at the **Motion** tab. Under this tab you will find a bunch of blocks that correspond to motion-like actions. For example, click on the ![](../.gitbook/assets/image%20%28231%29.png) block, drag it to the scripting area, and drop it anywhere in the scripting area.
+Look at the **Motion** tab. Under this tab you will find a bunch of blocks that correspond to motion-like actions. For example, click on the ![](../.gitbook/assets/image%20%28240%29.png) block, drag it to the scripting area, and drop it anywhere in the scripting area.
 
 ![animation of move block dragging from palette to scripting area](https://beautyjoy.github.io/bjc-r/img/intro/drag-a-block.gif)
 
 The block that you just dragged and dropped into the scripting area controls something that we call a _**sprite**_, which is the arrowhead-looking thing in the middle of the stage \(the white part of the window\).
 
-![](../.gitbook/assets/image%20%28179%29.png)
+![](../.gitbook/assets/image%20%28184%29.png)
 
-Back to the scripting area, if you click on the  ![](../.gitbook/assets/image%20%28103%29.png) you just put there, the sprite will move 10 steps. You can see this visually depicted by the sprite moving in the stage. You can vary the input of the block, i.e., the number 10, to change the number of steps you want to the sprite to move.  See if you can figure out how to change the block input so that the sprite moves backwards!
+Back to the scripting area, if you click on the  ![](../.gitbook/assets/image%20%28107%29.png) you just put there, the sprite will move 10 steps. You can see this visually depicted by the sprite moving in the stage. You can vary the input of the block, i.e., the number 10, to change the number of steps you want to the sprite to move.  See if you can figure out how to change the block input so that the sprite moves backwards!
 

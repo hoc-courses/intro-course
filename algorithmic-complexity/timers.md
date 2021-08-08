@@ -2,15 +2,15 @@
 
 We have seen how Snap_!_ can be used to wait for a certain time before reporting anything. Snap_!_ also allows us to do the converse: to report how long a program takes to finish. In the `Sensing` menu, you will see a command called `reset timer` and a reporter called `timer`:
 
-![](../.gitbook/assets/image%20%28177%29.png)
+![](../.gitbook/assets/image%20%28181%29.png)
 
 Activate \(tick-mark\) the `timer` reporter and you should see a timer ticking away in the top left corner.  It's been ticking ever since you opened up Snap_!_ , and counts in tenths of a second:
 
-![](../.gitbook/assets/image%20%28172%29.png)
+![](../.gitbook/assets/image%20%28176%29.png)
 
  We are going to be performing timing experiments in the following sections, so this timer will prove useful.  Add the following timing framework script into the space for Snap_!_ scripts:
 
-![](../.gitbook/assets/image%20%28170%29.png)
+![](../.gitbook/assets/image%20%28174%29.png)
 
 The script will reset the timer whenever the green flag is pressed. The sprite will then say `Hello!` for 1 second, and soon after that, the sprite will say the current time, less 1 second to account for how long the sprite said `Hello!`.  If we replace `Hello!` with a reporter, then the sprite will say the answer of the reporter, and one second later, how long the reporter took to generate the answer: this is the timing information that we need.  Save the script with the name `TimingFramework`.
 

@@ -8,7 +8,7 @@ One way to think of a board is as a collection of values at \(row, column\) coor
 
 Lists are groups of things in order, and we can group coordinates on a board into rows and columns:
 
-![](../.gitbook/assets/image%20%28158%29.png)
+![](../.gitbook/assets/image%20%28162%29.png)
 
 Let's choose to think of our board as a group of rows. Notice that each row is a group of values.
 
@@ -16,7 +16,7 @@ Let's choose to think of our board as a group of rows. Notice that each row is a
 
 It would make sense that each row be a list, right? The length of each list would then be the number of columns the board has. Since our board is made up of rows, it can be a list that stores all of the rows in it! Here's a visual representation of what this means:
 
-![](../.gitbook/assets/image%20%28118%29.png)
+![](../.gitbook/assets/image%20%28122%29.png)
 
 In the lab file, we have already written a block called `create board of length ( )` that builds this structure for us. Check inside it to make sure we're all on the same page. For a board of size N, meaning a board with N rows and N columns, the block will generate a list with N items. Each item is a list of length N representing a row. Just like we planned!
 

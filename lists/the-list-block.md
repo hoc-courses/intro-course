@@ -6,19 +6,19 @@ Look in the Variables palette below the orange variable-related blocks for a bun
 
 The first red block is the `list` block, used to create a list:
 
-![](../.gitbook/assets/image%20%28175%29.png)
+![](../.gitbook/assets/image%20%28179%29.png)
 
 Drag a `list` block into the scripting area to experiment with.
 
 This block uses a Snap_!_ feature you've seen once before, in the `join` block: a variadic input. This means that, even though you see one input slot in the block, you can give it any number of inputs. The left and right arrowheads at the end of the block are used to delete or add input slots:
 
-![](../.gitbook/assets/image%20%28117%29.png)
+![](../.gitbook/assets/image%20%28121%29.png)
 
   
   
 Like any reporter block, the `list` block can be dragged into an input slot of another block:
 
-![](../.gitbook/assets/image%20%28188%29.png) ![](../.gitbook/assets/image%20%2870%29.png) 
+![](../.gitbook/assets/image%20%28193%29.png) ![](../.gitbook/assets/image%20%2870%29.png) 
 
 The grey rounded rectangle with red rounded rectangles inside it is the visual representation of a list. Each red rectangle is one list item.
 
@@ -35,11 +35,11 @@ What happens if you drag a `list` block into an input slot that expects a number
 
 Let's say you're writing a program to generate English sentences. Your starting point might be various lists of words:
 
-![](../.gitbook/assets/image%20%28150%29.png)
+![](../.gitbook/assets/image%20%28154%29.png)
 
 You could build up a sentence out of phrases. For example, to make a noun phrase, you want to pick one item from the `articles` list, one from the `adjectives` list, and one from the `nouns` list. To select one item from a list, use the `item` block:
 
-![](../.gitbook/assets/image%20%28236%29.png)
+![](../.gitbook/assets/image%20%28245%29.png)
 
 List items are numbered from 1, so, for example, item 3 of the `nouns` list above is `pizza`. The first input slot accepts a number like other rounded input slots, but it also has a downward arrow that, when clicked, offers two special choices: `last` for the last item of the list, and `any` to pick an item at random.
 
@@ -51,7 +51,7 @@ Use the `item random` feature to make a noun phrase by choosing a random article
 
 Because of the random item choices, we get a different result each time we call `noun phrase`:
 
-![](../.gitbook/assets/image%20%28162%29.png)
+![](../.gitbook/assets/image%20%28166%29.png)
 
 **Try this:**
 

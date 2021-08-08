@@ -1,6 +1,6 @@
 # Complex Predicates - Comparison Operators
 
-Simple predicates have a single built-in block \(like ![](../.gitbook/assets/image%20%28114%29.png) \). Let's take a look at a few more complex examples:
+Simple predicates have a single built-in block \(like ![](../.gitbook/assets/image%20%28118%29.png) \). Let's take a look at a few more complex examples:
 
 * "If I am hungry and with my friends, I will order pizza." 
 * "If I see George and Lisa at the mall, I will say "hello" to them."

@@ -12,7 +12,7 @@
 
 For this section, we will be using [this timing framework](http://snap.berkeley.edu/snapsource/snap.html#open:https://beautyjoy.github.io/bjc-r/cur/programming/algorithms/timing/../../../../prog/algorithms/timing-framework.xml).  It is very similar to the framework you constructed earlier, but it also has the stubs for a few blocks that we will be filling in.  The first block that we will fill in is already on stage:
 
-![](../.gitbook/assets/image%20%28101%29.png)
+![](../.gitbook/assets/image%20%28105%29.png)
 
     This block should fill the input list with all of the numbers from `start` to `end`.  If working correctly, the version used on stage should generate all of the numbers from `1` to `max`, where `max` is a number that we will change when running timing experiments, and should add them to the `numbers` list.
 
