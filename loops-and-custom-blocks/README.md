@@ -1,2 +1,2 @@
-# Loops & Custom Blocks
+# Looping & Custom Blocks
 
