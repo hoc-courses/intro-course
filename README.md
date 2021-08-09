@@ -4,9 +4,9 @@ I have decided to base the curriculum on the open source project from [Code Your
 
 Beyond its noble mission, their curriculum, and organization of the content, is top-notch and curated and updated regularly to contain the most relevant and up-to-date material.  It also covers the technologies that are the most important for today's market if you want to have skills that will help you get a job at the end of this course.
 
-![](.gitbook/assets/image%20%2884%29.png)
+![](.gitbook/assets/image%20%2888%29.png)
 
-![](.gitbook/assets/image%20%2898%29.png)
+![](.gitbook/assets/image%20%28102%29.png)
 
 They offer three phases to their program. It isn't until the third phase, the Full Stack Development Course, where they are using their own curriculum. 
 

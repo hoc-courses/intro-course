@@ -20,5 +20,5 @@ In order to save your programs, the first thing you'll need to do is make an acc
 
 Click it, select the "sign up" option in the menu, and follow the instructions there. You will need to check your email after creating your account to get your initial password.
 
-![](../.gitbook/assets/image%20%28300%29.png)
+![](../.gitbook/assets/image%20%28310%29.png)
 

@@ -6,7 +6,7 @@ What is involved in putting something on our board? We need to do TWO things in 
 
 You'll find these blocks helpful:
 
-![](../.gitbook/assets/image%20%28185%29.png)
+![](../.gitbook/assets/image%20%28193%29.png)
 
 \(Hint: the idea behind displaying our object is that we should first go to the correct square, switch to the correct costume, and stamp\)
 

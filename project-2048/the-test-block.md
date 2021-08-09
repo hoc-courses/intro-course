@@ -4,11 +4,11 @@ We've provided a large number of blocks that you can use in 2048. A big part of 
 
 To understand how the testing block works, let's start by looking at its structure.
 
-![](../.gitbook/assets/image%20%28210%29.png)
+![](../.gitbook/assets/image%20%28218%29.png)
 
 Based on the structure of the block, we notice that the domain consists of a reporter \(inside the gray border, or ring\), a list, and two or more slots to pass in anything. This is very similar to the other HOFs we have already seen! The provided reporter will be the block we wish to test, the first set of slots will be for the input\(s\) to the function, and the final slot will hold the expected output of the provided reporter. Let's take a look at some examples.
 
-![list of nouns, verbs, etc.](../.gitbook/assets/image%20%2856%29.png)
+![list of nouns, verbs, etc.](../.gitbook/assets/image%20%2859%29.png)
 
 The above test is verifying that the subtraction block works properly. We leave the inputs of the subtraction block empty so that the provided inputs are fed into their spaces when we execute our test \(exactly like Combine!\), and then the provided output is checked against the actual output of the addition block. To add two inputs to the "input" section of the test block, you can hit the black arrow next to the input slot, just like you would do for a list! The output of the test block is a Boolean.
 

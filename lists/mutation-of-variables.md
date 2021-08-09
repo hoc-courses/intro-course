@@ -2,9 +2,9 @@
 
 Suppose I have a global variable named `foo` , and I define the following two blocks:
 
-![](../.gitbook/assets/image%20%28106%29.png)
+![](../.gitbook/assets/image%20%28110%29.png)
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](../.gitbook/assets/image%20%2884%29.png)
 
 Now I run the following script:
 
@@ -14,11 +14,11 @@ Will the final value of foo be 100? 105? 120? or 125? Try it and see.
 
 Now do the following similar experiment, but with a list as the value of `foo` :
 
-![](../.gitbook/assets/image%20%2866%29.png)
+![](../.gitbook/assets/image%20%2870%29.png)
 
-![](../.gitbook/assets/image%20%28130%29.png)
+![](../.gitbook/assets/image%20%28136%29.png)
 
-![](../.gitbook/assets/image%20%28103%29.png)
+![](../.gitbook/assets/image%20%28107%29.png)
 
 What items will be in `foo` after running this script?
 
@@ -32,7 +32,7 @@ As in most programming languages, the inputs you provide to a block in a Snap_!_
 
 If that went over your head because it's too abstract, consider this script:
 
-![](../.gitbook/assets/image%20%28194%29.png)
+![](../.gitbook/assets/image%20%28202%29.png)
 
 You wouldn't expect _that_ to change the value of `foo` to— To what? 123? 117? It just doesn't make sense to expect this to change `foo` at all. The input to the `add 20 to` block is the number 103–the _value_ of ![foo+3](https://beautyjoy.github.io/bjc-r/img/list/foo+3.png)–not the variable. The same is true in the original experiment; the input to `add 20 to` is the number 105 \(because the `add 5 to foo` block specifically changed `foo` \), not the variable `foo` itself.
 

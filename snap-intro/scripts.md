@@ -10,11 +10,11 @@ If you keep attaching blocks together in this way, you will create a _script_. A
 
 Try recreating the following script in the scripting area in Snap_!_. The purple `say...` blocks are available from the **Looks** tab.
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 What will happen if you run this script? Remember, a script will tell the sprite what to do. Click on the script and see what happens! You will know that your script is running if it has a highlighted border around it:
 
-![](../.gitbook/assets/image%20%28173%29.png)
+![](../.gitbook/assets/image%20%28180%29.png)
 
 Be sure to note: **blocks in a script run in a specific order, from the top of the script to the bottom**. Generally, Snap_!_ waits until one block has finished its job before continuing on to the block below it. \(One common exception is blocks that play sounds: a block's job can be to start the sound, which means the block below it will execute while the sound is still playing.
 

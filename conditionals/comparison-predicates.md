@@ -2,7 +2,7 @@
 
 ## Booleans
 
-In order to represent the yes/no nature of condition phrases, we need a special type of value called a Boolean \(named after the great logician [George Boole](http://en.wikipedia.org/wiki/George_Boole)\). There are only two possible boolean values: `true` and `false` \(which correspond to "yes" and "no"\). These are represented in Snap_!_ by the blocks: ![](../.gitbook/assets/image%20%28244%29.png) and ![](../.gitbook/assets/image%20%28243%29.png).
+In order to represent the yes/no nature of condition phrases, we need a special type of value called a Boolean \(named after the great logician [George Boole](http://en.wikipedia.org/wiki/George_Boole)\). There are only two possible boolean values: `true` and `false` \(which correspond to "yes" and "no"\). These are represented in Snap_!_ by the blocks: ![](../.gitbook/assets/image%20%28253%29.png) and ![](../.gitbook/assets/image%20%28252%29.png).
 
 Blocks that report `true` or `false` are called **predicates**. 
 
@@ -14,7 +14,7 @@ These functions are used to represent yes/no questions. Predicate functions in S
 
 Here are a few simple predicates that are built in to Snap_!_ Most of these can be found on the green "operators" tab:
 
- ![](../.gitbook/assets/image%20%28108%29.png) and ![](../.gitbook/assets/image%20%28104%29.png) 
+ ![](../.gitbook/assets/image%20%28112%29.png) and ![](../.gitbook/assets/image%20%28108%29.png) 
 
 ## Extra Challenge - Predicates Experiment
 
@@ -40,5 +40,5 @@ Changing the predicate in the `if` block changes the picture. Discuss why the pr
 
 Match the predicate with the pictures. There are more expressions than pictures.
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 

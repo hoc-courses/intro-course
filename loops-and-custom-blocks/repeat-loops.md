@@ -2,9 +2,9 @@
 
 ## Don't Repeat Yourself - let Snap! do it for you!
 
-We can use the ![](../.gitbook/assets/image%20%2834%29.png) block to make drawing shapes a lot easier! You can see below a script to draw a square. It is, of course, much easier to create this script.
+We can use the ![](../.gitbook/assets/image%20%2835%29.png) block to make drawing shapes a lot easier! You can see below a script to draw a square. It is, of course, much easier to create this script.
 
-![](../.gitbook/assets/image%20%28279%29.png)
+![](../.gitbook/assets/image%20%28289%29.png)
 
 than to create this one:
 
@@ -30,13 +30,13 @@ Which one\(s\) of these pictures could be drawn by running the following script?
 
 ## Drawing Regular Polygons with Repeat
 
-![](../.gitbook/assets/image%20%28285%29.png)
+![](../.gitbook/assets/image%20%28295%29.png)
 
 A regular polygon is a shape in which all the sides are the same length and all the turning angles are the same. A square is a regular 4-sided polygon.
 
 [![drawing a square and squiggle](https://beautyjoy.github.io/bjc-r/img/looping/drawing-regular-polygons.gif)](http://snap.berkeley.edu/snapsource/snap.html#open:https://beautyjoy.github.io/bjc-r/prog/loop/draw-square-and-squiggle.xml)
 
-Using a ![](../.gitbook/assets/image%20%2834%29.png) to draw the following regular shapes:
+Using a ![](../.gitbook/assets/image%20%2835%29.png) to draw the following regular shapes:
 
 * Equilateral Triangle
 * Pentagon
@@ -55,7 +55,7 @@ If you are having trouble with determining the angle to turn, think about the di
 
 Complete the code below to draw a star.
 
- ![](../.gitbook/assets/image%20%28110%29.png) ![](../.gitbook/assets/image%20%28117%29.png) 
+ ![](../.gitbook/assets/image%20%28114%29.png) ![](../.gitbook/assets/image%20%28123%29.png) 
 
 A regular star is closely related to a pentagon. And, remember, a turning angle of `72` draws a regular pentagon.
 

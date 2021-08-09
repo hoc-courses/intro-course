@@ -12,39 +12,39 @@ Set Git Bash as the default terminal. Follow the directions in this video.
 
 ## Essential Extensions
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
-![](../.gitbook/assets/image%20%2885%29.png)
+![](../.gitbook/assets/image%20%2889%29.png)
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
-![](../.gitbook/assets/image%20%28265%29.png)
+![](../.gitbook/assets/image%20%28274%29.png)
 
 ## Popular Editor Themes
 
 These optional extensions supply syntax and background coloring, as well as icons for different file types in the File Explorer View. Just search for themes in the Extensions list and you can browser through some of the most popular ones. Here are a few examples.
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
-![](../.gitbook/assets/image%20%28254%29.png)
+![](../.gitbook/assets/image%20%28263%29.png)
 
-![](../.gitbook/assets/image%20%28190%29.png)
+![](../.gitbook/assets/image%20%28198%29.png)
 
 ## JavaScript Extensions
 
 These don't need to be installed until we begin the JavaScript portion of the course.
 
-![](../.gitbook/assets/image%20%28131%29.png)
+![](../.gitbook/assets/image%20%28137%29.png)
 
-![](../.gitbook/assets/image%20%28146%29.png)
+![](../.gitbook/assets/image%20%28152%29.png)
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](../.gitbook/assets/image%20%2881%29.png)
 
 ## Client-Server
 
 This is useful when we start to build applications that communicate with servers.
 
-![](../.gitbook/assets/image%20%28236%29.png)
+![](../.gitbook/assets/image%20%28245%29.png)
 
 ## Resources
 

@@ -8,15 +8,15 @@ This would be a perfect case for a new type of display board, in which objects a
 
 Below is our update display. Notice that every time we click it, the entire board is redrawn.
 
-![update display block contents](../.gitbook/assets/image%20%2887%29.png)
+![update display block contents](../.gitbook/assets/image%20%2891%29.png)
 
 Here's where it gets good. To draw the objects on the board, we iterate over row and column values while moving the sprite at the same time! By reading the item at the current \(row, column\) from the board, we can stamp something if needed as we go.
 
-![draw object block contents](../.gitbook/assets/image%20%28281%29.png)
+![draw object block contents](../.gitbook/assets/image%20%28291%29.png)
 
 Let's make sure we know what's going on in the stamp block as well \(The "if object" is just a short way of saying "if something was there"\).
 
-![stamp object block contents](../.gitbook/assets/image%20%2886%29.png)
+![stamp object block contents](../.gitbook/assets/image%20%2890%29.png)
 
 Try it out if you'd like: use the `Set` block to set some bugs somewhere on the board, then run `update display`.
 
