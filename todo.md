@@ -70,6 +70,8 @@ Worksheet
 
 Project 1 - [Mastermind Intro](http://cs10.org/su19/assign.html?https://docs.google.com/document/d/e/2PACX-1vS4ipH0g8NW_ib56Du9UwD3GEPKKbyLeQX_cXEqlKNH9nePivXx91sHcpMo6DNYwLsb8Y6N7OvATAnU/pub)
 
+2015 - [Word Guessing](https://inst.eecs.berkeley.edu/~cs10/fa15/assign.html?//docs.google.com/document/d/1ybuatsrUMCI-tHHRPwxUpGoZoGxk_SEiGEArocQtIlI/pub)
+
 Discussion - Number Representation
 
 * [Yolanda](https://docs.google.com/presentation/d/1RopyzoNGjcpasKoJSFaBFz6YdoUx6Uz1GKPIKiD_ET0/edit#slide=id.g96f203c6b8_1_5)
@@ -191,6 +193,14 @@ Videos
 ### 2015 Lab Check-off Questions
 
 {% embed url="http://cs10.org/fa15/labquestions/" %}
+
+### Summer 2018 - Good Questions/Discussion/Reading
+
+{% embed url="https://cs10.org/su18/" %}
+
+### Summer 2016 - Good Slides
+
+{% embed url="https://cs10.org/su16/" %}
 
 
 
