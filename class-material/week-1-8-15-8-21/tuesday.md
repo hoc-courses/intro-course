@@ -13,5 +13,7 @@
 
 {% embed url="https://docs.google.com/presentation/d/1LZraU\_kle-Y6U5sHs09TH0-ZmlNPjULnXN4McnH3fHg/edit" %}
 
+### Labs
 
+* [Intro to Snap!](../../snap-intro/)
 
