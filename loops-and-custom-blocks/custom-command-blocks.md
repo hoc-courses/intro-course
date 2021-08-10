@@ -34,7 +34,7 @@ You can treat this dialog like you do the scripting area of the main Snap_!_ win
 
 Use the blocks from the Control and Motion palettes to create a script that draws a square, as shown below.
 
-![](../.gitbook/assets/image%20%28280%29.png)
+![](../.gitbook/assets/image%20%28281%29.png)
 
 When you click `OK`, you should be able to use this block as if it were a regular block. Since you created the block as a `Motion` block, it will end up at the bottom of the `Motion` tab.
 

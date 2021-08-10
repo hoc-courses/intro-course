@@ -39,7 +39,7 @@ Let's say you're writing a program to generate English sentences. Your starting 
 
 You could build up a sentence out of phrases. For example, to make a noun phrase, you want to pick one item from the `articles` list, one from the `adjectives` list, and one from the `nouns` list. To select one item from a list, use the `item` block:
 
-![](../.gitbook/assets/image%20%28254%29.png)
+![](../.gitbook/assets/image%20%28255%29.png)
 
 List items are numbered from 1, so, for example, item 3 of the `nouns` list above is `pizza`. The first input slot accepts a number like other rounded input slots, but it also has a downward arrow that, when clicked, offers two special choices: `last` for the last item of the list, and `any` to pick an item at random.
 

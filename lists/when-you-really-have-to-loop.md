@@ -6,7 +6,7 @@ Write a predicate `increasing?` that takes a list of numbers as input, and outpu
 
 ![](../.gitbook/assets/image%20%28209%29.png)
 
-![](../.gitbook/assets/image%20%28256%29.png)
+![](../.gitbook/assets/image%20%28257%29.png)
 
 Because this is a predicate, it's tempting to try to make it use `keep`:
 
@@ -34,5 +34,5 @@ You can work with the above script [here](http://snap.berkeley.edu/snapsource/sn
 
 ![](../.gitbook/assets/image%20%28182%29.png)
 
-![](../.gitbook/assets/image%20%28294%29.png)
+![](../.gitbook/assets/image%20%28295%29.png)
 

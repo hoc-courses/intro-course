@@ -8,7 +8,7 @@ Predicate blocks return a true or false value
 
 We want to make our own _predicate_, a kind of block that reports either `true` or `false`. We have a "greater than" operator \(`>`\), an "equal" operator \(`=`\), and a "less than" operator \(`<`\), but we want a new "greater than or equal to" \(`>=`\) operator.
 
-![](../.gitbook/assets/image%20%28148%29.png) ![](../.gitbook/assets/image%20%28298%29.png) ![](../.gitbook/assets/image%20%28154%29.png) 
+![](../.gitbook/assets/image%20%28148%29.png) ![](../.gitbook/assets/image%20%28299%29.png) ![](../.gitbook/assets/image%20%28154%29.png) 
 
 This isn't really a hard problem, but we've learned from experience that many students have a hard time with it at first. So here are some suggestions if you get stuck.
 
@@ -48,11 +48,11 @@ Create a new predicate block that determines if a number is between two other nu
 
 Now we're going to write some blocks that utilize predicates like `and`, `or`, and `not`.
 
-Write a ![](../.gitbook/assets/image%20%28237%29.png) block that reports whether a given day is a weekend. Let's assume that only Saturday and Sunday are part of the weekend.
+Write a ![](../.gitbook/assets/image%20%28238%29.png) block that reports whether a given day is a weekend. Let's assume that only Saturday and Sunday are part of the weekend.
 
-Write a ![](../.gitbook/assets/image%20%28144%29.png) block. You could write this with or without your ![](../.gitbook/assets/image%20%28237%29.png) block, but it'll be much easier if you do.
+Write a ![](../.gitbook/assets/image%20%28144%29.png) block. You could write this with or without your ![](../.gitbook/assets/image%20%28238%29.png) block, but it'll be much easier if you do.
 
 Here is a block definition. Give it a more descriptive name, then re-write using no `if` blocks.
 
-![](../.gitbook/assets/image%20%28299%29.png)
+![](../.gitbook/assets/image%20%28300%29.png)
 

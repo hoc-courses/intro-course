@@ -6,11 +6,11 @@ Suppose we want the squares of all the items of a list of numbers. That's a stra
 
  Now suppose instead that we want to select the odd numbers from a list of numbers. It's a little tricky figuring out how to tell if a number is odd, but apart from that it's a straightforward `keep` problem:
 
-![](../.gitbook/assets/image%20%28229%29.png)
+![](../.gitbook/assets/image%20%28230%29.png)
 
 But what if we want the squares of the odd numbers? This is neither a simple `map` nor a simple `keep`, but combines aspects of both. And we can solve the problem by using the value reported by the `keep` as the list input to `map`:
 
-![](../.gitbook/assets/image%20%28244%29.png)
+![](../.gitbook/assets/image%20%28245%29.png)
 
   
 Don't be confused about which inputs do and don't have rings. It's the square **function** and the are-you-odd? **function** that we use as the first input to each higher order function. But, even though `keep` itself is a function, it's the **list** reported by `keep` that we're using as the second input to `map`.
@@ -41,16 +41,16 @@ Once we have the list, we can use the tools we've already built to get a list of
 
 Here's the final result. Oops! The word "Joy" is shorter than five letters, but it's still an important word in the acronym. We need a better algorithm.
 
-![](../.gitbook/assets/image%20%28288%29.png)
+![](../.gitbook/assets/image%20%28289%29.png)
 
 ![](../.gitbook/assets/image%20%2858%29.png)
 
 **Try this:**  
 Modify the `acronym` block so that, instead of keeping long words, it keeps words that start with a capital letter. \(Hint: Experiment with the `unicode of` block.\)
 
-![](../.gitbook/assets/image%20%28308%29.png)
+![](../.gitbook/assets/image%20%28309%29.png)
 
-![](../.gitbook/assets/image%20%28251%29.png)
+![](../.gitbook/assets/image%20%28252%29.png)
 
 ![](../.gitbook/assets/image%20%28176%29.png)
 

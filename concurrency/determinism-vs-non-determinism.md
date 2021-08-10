@@ -18,7 +18,7 @@ If we run the following Snap_!_ code, we'll see that `result` variable will have
 
 ![](../.gitbook/assets/image%20%2892%29.png)
 
-![](../.gitbook/assets/image%20%28260%29.png)
+![](../.gitbook/assets/image%20%28261%29.png)
 
 ![](../.gitbook/assets/image%20%2857%29.png)
 

@@ -14,7 +14,7 @@ In the `Block Editor`, hover your cursor over the words and plus signs \(**`+`**
 
 Clicking on a word will let you change that word; clicking on a **`+`** will let you add something in that position. We want to add an input at the end of the block, so clickon the **`+`** at the end.
 
-![](../.gitbook/assets/image%20%28270%29.png)
+![](../.gitbook/assets/image%20%28271%29.png)
 
 You should get the following dialog box.
 

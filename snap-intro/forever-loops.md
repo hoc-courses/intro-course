@@ -6,7 +6,7 @@ What do you think the following script will do?
 
 ![](../.gitbook/assets/image%20%28147%29.png)
 
-**Hint**: ![](../.gitbook/assets/image%20%2823%29.png) and ![](../.gitbook/assets/image%20%28231%29.png) are reporters in the **Sensing** palette; they tell you where the mouse is pointing.
+**Hint**: ![](../.gitbook/assets/image%20%2823%29.png) and ![](../.gitbook/assets/image%20%28232%29.png) are reporters in the **Sensing** palette; they tell you where the mouse is pointing.
 
 Open [the program](http://snap.berkeley.edu/snapsource/snap.html#open:https://beautyjoy.github.io/bjc-r/prog/loop/follow-that-mouse.xml) \(click on the forever block to run it\). Did it follow your expectations?
 

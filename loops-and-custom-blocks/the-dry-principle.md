@@ -22,7 +22,7 @@ Let's start out with a simple example. We want to draw a square. Here is an algo
 
 Now let's draw a series of squares.
 
-![](../.gitbook/assets/image%20%28296%29.png)
+![](../.gitbook/assets/image%20%28297%29.png)
 
 Obviously, this is violating the DRY principle. There are a few common programming techniques to allow you to adhere to the DRY principle.
 
@@ -48,7 +48,7 @@ The main goal of abstraction is to handle complexity by hiding unnecessary detai
 
 We are going to apply that principle here to create a **command** block \(no return value\) that will be responsible for performing the instructions necessary to draw a square.
 
-![](../.gitbook/assets/image%20%28234%29.png)
+![](../.gitbook/assets/image%20%28235%29.png)
 
 And now the code has been greatly simplified. We no longer need to think about the individual instructions necessary to draw a square. We can simply use the `drawSquare` command to perform the instructions whenever we need to draw a square.
 
@@ -58,7 +58,7 @@ Another important feature of writing procedures is that they can receive input t
 
 In our `drawSquare` command, it currently hard-codes the size of the square. While this works for this particular use-case, it would be more re-usable if it allowed the user to specify the size of the square. This is done by adding input variables to a procedure.
 
-![](../.gitbook/assets/image%20%28300%29.png)
+![](../.gitbook/assets/image%20%28301%29.png)
 
 ### A DRY Solution
 

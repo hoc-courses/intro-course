@@ -2,7 +2,7 @@
 
 The code contained in [this file](http://snap.berkeley.edu/snapsource/snap.html#open:https://beautyjoy.github.io/bjc-r/prog/debugging/house-buggy) is supposed to draw a house, but something is wrong. See if you can figure out what the problem is and try to fix it so that the ![](../.gitbook/assets/image%20%28133%29.png) draws a proper house as shown below.
 
-![](../.gitbook/assets/image%20%28235%29.png) 
+![](../.gitbook/assets/image%20%28236%29.png) 
 
 ## The Check Block
 

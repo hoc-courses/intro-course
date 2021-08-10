@@ -18,7 +18,7 @@ Set Git Bash as the default terminal. Follow the directions in this video.
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
-![](../.gitbook/assets/image%20%28274%29.png)
+![](../.gitbook/assets/image%20%28275%29.png)
 
 ## Popular Editor Themes
 
@@ -26,7 +26,7 @@ These optional extensions supply syntax and background coloring, as well as icon
 
 ![](../.gitbook/assets/image%20%2834%29.png)
 
-![](../.gitbook/assets/image%20%28263%29.png)
+![](../.gitbook/assets/image%20%28264%29.png)
 
 ![](../.gitbook/assets/image%20%28198%29.png)
 
@@ -44,7 +44,7 @@ These don't need to be installed until we begin the JavaScript portion of the co
 
 This is useful when we start to build applications that communicate with servers.
 
-![](../.gitbook/assets/image%20%28245%29.png)
+![](../.gitbook/assets/image%20%28246%29.png)
 
 ## Resources
 

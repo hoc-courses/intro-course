@@ -4,7 +4,7 @@
 
 ### Searching Unsorted Data
 
-![](../.gitbook/assets/image%20%28259%29.png)
+![](../.gitbook/assets/image%20%28260%29.png)
 
 Unsorted data doesn't give you a lot to work with. Your knowledge is limited to strictly the most obvious information: the numbers themselves. This makes strategy somewhat non-existent; the best you can do, on average, is to simply start at the beginning and search through the list one by one. This approach can become incredibly slow if we're dealing with a lot of data, but is actually fairly quick when working with smaller amounts of data. In addition, the block is relatively straightforward to create and doesn't require the data to be put into a particular order to work. The block should return the location of the number in the list, or -1 if the number doesn't exist in the list.
 

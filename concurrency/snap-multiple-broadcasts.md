@@ -4,7 +4,7 @@ This section is to help you understand the machine model some more, so that you 
 
 Read the following _Snap!_ scripts:
 
-![](../.gitbook/assets/image%20%28223%29.png)
+![](../.gitbook/assets/image%20%28224%29.png)
 
 ![](../.gitbook/assets/image%20%28221%29.png)
 

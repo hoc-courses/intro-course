@@ -57,7 +57,7 @@ Labs
 
 Lab Checkoff
 
-![](.gitbook/assets/image%20%28239%29.png)
+![](.gitbook/assets/image%20%28240%29.png)
 
 ![](.gitbook/assets/image%20%28122%29.png)
 
@@ -216,7 +216,7 @@ All Videos
 
 
 
-![](.gitbook/assets/image%20%28287%29.png)
+![](.gitbook/assets/image%20%28288%29.png)
 
 {% embed url="https://drive.google.com/drive/folders/1aFKKrXskqycXK8oxSwOI1AMAsUJf2nmP" %}
 

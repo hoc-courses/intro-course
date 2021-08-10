@@ -37,7 +37,7 @@ is the equivalent of ![](../.gitbook/assets/image%20%2837%29.png)
 
 Click this [link ](http://snap.berkeley.edu/snapsource/snap.html#open:https://beautyjoy.github.io/bjc-r/prog/loop/draw-squirral.xml)to load the script below in a new Snap_!_ window:
 
-![](../.gitbook/assets/image%20%28226%29.png)
+![](../.gitbook/assets/image%20%28227%29.png)
 
 Note that we changed the name of the variable, by clicking on the orange oval _without_ dragging it.
 

@@ -24,7 +24,7 @@ Here are some more examples of using `map` to compute some function of every ite
 
 ![](../.gitbook/assets/image%20%2831%29.png)
 
-![](../.gitbook/assets/image%20%28285%29.png)
+![](../.gitbook/assets/image%20%28286%29.png)
 
 ![](../.gitbook/assets/image%20%2853%29.png)
 
@@ -34,7 +34,7 @@ In that third example, there are two empty boxes in the function, so it's ☐×�
 **Try this:**  
 In the last activity we made a list of Beatles:
 
-![](../.gitbook/assets/image%20%28225%29.png)
+![](../.gitbook/assets/image%20%28226%29.png)
 
   
 Use `map` and this list to get a list of just the first names of the Beatles.

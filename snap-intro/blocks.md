@@ -6,7 +6,7 @@ These tabs are an important organizational structure in Snap_!_ because they are
 
 ![](../.gitbook/assets/image%20%2862%29.png)
 
-Look at the **Motion** tab. Under this tab you will find a bunch of blocks that correspond to motion-like actions. For example, click on the ![](../.gitbook/assets/image%20%28249%29.png) block, drag it to the scripting area, and drop it anywhere in the scripting area.
+Look at the **Motion** tab. Under this tab you will find a bunch of blocks that correspond to motion-like actions. For example, click on the ![](../.gitbook/assets/image%20%28250%29.png) block, drag it to the scripting area, and drop it anywhere in the scripting area.
 
 ![animation of move block dragging from palette to scripting area](https://beautyjoy.github.io/bjc-r/img/intro/drag-a-block.gif)
 

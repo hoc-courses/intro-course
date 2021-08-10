@@ -15,7 +15,7 @@ Finish entering the complete script:
 
 Here is an example of how the block will be used: If we run the block with the arguments
 
-![](../.gitbook/assets/image%20%28227%29.png)
+![](../.gitbook/assets/image%20%28228%29.png)
 
 where `game board` is the list
 
