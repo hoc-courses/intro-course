@@ -117,5 +117,8 @@
     * [Git Commands - ACP](l2-setup-tools/assignment-walkthrough/git-commands-acp.md)
     * [Terminal/Command Line](l2-setup-tools/assignment-walkthrough/terminal-command-line.md)
 * [HTML/CSS Course Module](https://chnn-anne.gitbook.io/html-css/)
-* [TODO](todo.md)
+
+## MISC
+
+* [BJC](misc/bjc.md)
 

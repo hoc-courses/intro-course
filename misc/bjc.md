@@ -1,4 +1,4 @@
-# TODO
+# BJC
 
 {% embed url="http://cs10.org/su19/assign.html?https://docs.google.com/document/d/e/2PACX-1vQ2e81m2AavsfmzaZjU\_3w2s67nJecsKhpPDrQ2CrYOXqYY8v18-wycUsMhFPUhofnjjLBtewrNXTgr/pub" %}
 
@@ -57,11 +57,11 @@ Labs
 
 Lab Checkoff
 
-![](.gitbook/assets/image%20%28241%29.png)
+![](../.gitbook/assets/image%20%28241%29.png)
 
-![](.gitbook/assets/image%20%28122%29.png)
+![](../.gitbook/assets/image%20%28122%29.png)
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 Worksheet
 
@@ -94,11 +94,11 @@ Labs
 1. Abstraction
 2. Lists
 
-![](.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 Lab-Checkoffs
 
-![](.gitbook/assets/image%20%28190%29.png)
+![](../.gitbook/assets/image%20%28190%29.png)
 
 **Reading from 2015 Course**
 
@@ -141,7 +141,7 @@ Discussion
 * [Andrew](https://docs.google.com/presentation/d/1QUzGDz-khRlBozrlN70PUeSSWvYkJ-9UGISgHqxsBRw/edit)
 * [Yolanda](https://docs.google.com/presentation/d/1s52AdHCiYae0IhqAfYVAwinss4hNYGbY60pLz7JTlyw/edit#slide=id.g96998d0cd1_0_741)
 
-![](.gitbook/assets/image%20%28121%29.png)
+![](../.gitbook/assets/image%20%28121%29.png)
 
 Videos
 
@@ -168,7 +168,7 @@ Videos
 2. [BJCx Lab Intro: Abstraction and Testing](https://www.youtube.com/watch?v=nHgndGhh-Zw&list=UUFgeEw03-By2WVDMkqTDRsQ&index=92)
 3. [BJCx Lab Intro: Algorithms](https://www.youtube.com/watch?v=n3SdWdFkQB4&list=UUFgeEw03-By2WVDMkqTDRsQ&index=91)
 
-![](.gitbook/assets/image%20%28171%29.png)
+![](../.gitbook/assets/image%20%28171%29.png)
 
 ### Lists all the past courses
 
@@ -206,7 +206,7 @@ Videos
 
 
 
-![](.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2864%29.png)
 
 All Videos
 
@@ -216,7 +216,7 @@ All Videos
 
 
 
-![](.gitbook/assets/image%20%28289%29.png)
+![](../.gitbook/assets/image%20%28289%29.png)
 
 {% embed url="https://drive.google.com/drive/folders/1aFKKrXskqycXK8oxSwOI1AMAsUJf2nmP" %}
 
@@ -240,7 +240,7 @@ Use Exams for source of questions
 
 Check off Questions
 
-![](.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
 Dan's OH
 
