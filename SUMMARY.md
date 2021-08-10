@@ -118,6 +118,11 @@
     * [Terminal/Command Line](l2-setup-tools/assignment-walkthrough/terminal-command-line.md)
 * [HTML/CSS Course Module](https://chnn-anne.gitbook.io/html-css/)
 
+## Resources
+
+* [Snap!](https://snap.berkeley.edu/snap/snap.html)
+* [Google Classroom](https://classroom.google.com/w/MzczNjI3NDg0ODU0/t/all)
+
 ## MISC
 
 * [BJC](misc/bjc.md)
