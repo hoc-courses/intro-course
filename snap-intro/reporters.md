@@ -2,7 +2,7 @@
 
 ## Sensor Blocks
 
- At the bottom of Motion palette are three blocks shaped differently from the others. The oval-shaped ![](../.gitbook/assets/image%20%2863%29.png) and ![](../.gitbook/assets/image%20%28271%29.png) are called _reporters_. \(We don't need the third one right now.\) 
+ At the bottom of **Motion** palette are three blocks shaped differently from the others. The oval-shaped ![](../.gitbook/assets/image%20%2863%29.png) and ![](../.gitbook/assets/image%20%28271%29.png) are called _reporters_. \(We don't need the third one right now.\) 
 
 Unlike the jigsaw-puzzle-piece-shaped _command_ blocks we've used until now, reporters don't carry out an action \(such as moving the sprite or displaying a speech balloon\) by themselves. Instead they _report_ a value, usually for use in another block's input slot.
 
