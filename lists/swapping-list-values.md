@@ -15,15 +15,15 @@ Finish entering the complete script:
 
 Here is an example of how the block will be used: If we run the block with the arguments
 
-![](../.gitbook/assets/image%20%28228%29.png)
+![](../.gitbook/assets/image%20%28229%29.png)
 
 where `game board` is the list
 
-![](../.gitbook/assets/image%20%28190%29.png)
+![](../.gitbook/assets/image%20%28191%29.png)
 
 then the list should become
 
-![](../.gitbook/assets/image%20%28210%29.png)
+![](../.gitbook/assets/image%20%28211%29.png)
 
 The `replace item` blocks in this script are an example of a new technique, list _mutation_--changing items in an existing list, instead of creating a new list the way `map` and `keep` do. As in this example, mutation can be more efficient than recopying the entire list except for the two changed items. On the other hand, mutation introduces the possibility of new kinds of bugs that can't happen with _functional_ programming, the technique we've been using with lists until now. If two parts of a large program are using the same list for different purposes, and one part mutates the list, the other part will get confused. That's why we showed you functional programming first, and why functional programming should be your first instinct.
 

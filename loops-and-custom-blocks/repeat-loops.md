@@ -4,7 +4,7 @@
 
 We can use the ![](../.gitbook/assets/image%20%2835%29.png) block to make drawing shapes a lot easier! You can see below a script to draw a square. It is, of course, much easier to create this script.
 
-![](../.gitbook/assets/image%20%28290%29.png)
+![](../.gitbook/assets/image%20%28291%29.png)
 
 than to create this one:
 
@@ -30,7 +30,7 @@ Which one\(s\) of these pictures could be drawn by running the following script?
 
 ## Drawing Regular Polygons with Repeat
 
-![](../.gitbook/assets/image%20%28296%29.png)
+![](../.gitbook/assets/image%20%28297%29.png)
 
 A regular polygon is a shape in which all the sides are the same length and all the turning angles are the same. A square is a regular 4-sided polygon.
 

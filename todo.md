@@ -57,7 +57,7 @@ Labs
 
 Lab Checkoff
 
-![](.gitbook/assets/image%20%28240%29.png)
+![](.gitbook/assets/image%20%28241%29.png)
 
 ![](.gitbook/assets/image%20%28122%29.png)
 
@@ -98,7 +98,7 @@ Labs
 
 Lab-Checkoffs
 
-![](.gitbook/assets/image%20%28189%29.png)
+![](.gitbook/assets/image%20%28190%29.png)
 
 **Reading from 2015 Course**
 
@@ -168,7 +168,7 @@ Videos
 2. [BJCx Lab Intro: Abstraction and Testing](https://www.youtube.com/watch?v=nHgndGhh-Zw&list=UUFgeEw03-By2WVDMkqTDRsQ&index=92)
 3. [BJCx Lab Intro: Algorithms](https://www.youtube.com/watch?v=n3SdWdFkQB4&list=UUFgeEw03-By2WVDMkqTDRsQ&index=91)
 
-![](.gitbook/assets/image%20%28170%29.png)
+![](.gitbook/assets/image%20%28171%29.png)
 
 ### Lists all the past courses
 
@@ -216,7 +216,7 @@ All Videos
 
 
 
-![](.gitbook/assets/image%20%28288%29.png)
+![](.gitbook/assets/image%20%28289%29.png)
 
 {% embed url="https://drive.google.com/drive/folders/1aFKKrXskqycXK8oxSwOI1AMAsUJf2nmP" %}
 

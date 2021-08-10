@@ -2,9 +2,9 @@
 
 Here's a solution to our `create object` block; you'll see that we abstracted the drawing routine as its own block.
 
-![](../.gitbook/assets/image%20%28175%29.png)
+![](../.gitbook/assets/image%20%28176%29.png)
 
-![](../.gitbook/assets/image%20%28244%29.png)
+![](../.gitbook/assets/image%20%28245%29.png)
 
 Let's add our `create object` block to the end of our click detector script, so that whenever we click the board, it adds a Bug at that tile!
 

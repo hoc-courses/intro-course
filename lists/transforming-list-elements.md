@@ -2,7 +2,7 @@
 
 In the last activity we made this list of nouns:
 
-![](../.gitbook/assets/image%20%28204%29.png)
+![](../.gitbook/assets/image%20%28205%29.png)
 
 Now suppose we'd like to be able to vary our noun phrases by sometimes using one of these nouns in the plural. So we need a way to add the letter "s" to each item of the list. Find the **map** block near the bottom of the Variables palette and use it this way:
 
@@ -10,7 +10,7 @@ Now suppose we'd like to be able to vary our noun phrases by sometimes using one
 
 The first input to the `map` block has a form you haven't seen before this:
 
-![](../.gitbook/assets/image%20%28197%29.png)
+![](../.gitbook/assets/image%20%28198%29.png)
 
 The grey ring means that the input should be a function. What we mean by this is basically the same thing as the f\(x\)=3x+7 kind of function in algebra, except that it doesn't have to be a numeric function. In this case the function we want is "join the letter 's' after the given word." When you drag the `join` block into the `map` input slot, the grey ring is still visible, to remind you that the input is a function, not the word that you'd get from some particular `join`ing.
 
@@ -24,7 +24,7 @@ Here are some more examples of using `map` to compute some function of every ite
 
 ![](../.gitbook/assets/image%20%2831%29.png)
 
-![](../.gitbook/assets/image%20%28286%29.png)
+![](../.gitbook/assets/image%20%28287%29.png)
 
 ![](../.gitbook/assets/image%20%2853%29.png)
 
@@ -34,7 +34,7 @@ In that third example, there are two empty boxes in the function, so it's ☐×�
 **Try this:**  
 In the last activity we made a list of Beatles:
 
-![](../.gitbook/assets/image%20%28226%29.png)
+![](../.gitbook/assets/image%20%28227%29.png)
 
   
 Use `map` and this list to get a list of just the first names of the Beatles.

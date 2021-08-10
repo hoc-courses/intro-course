@@ -8,7 +8,7 @@ One way to think of a board is as a collection of values at \(row, column\) coor
 
 Lists are groups of things in order, and we can group coordinates on a board into rows and columns:
 
-![](../.gitbook/assets/image%20%28168%29.png)
+![](../.gitbook/assets/image%20%28169%29.png)
 
 Let's choose to think of our board as a group of rows. Notice that each row is a group of values.
 

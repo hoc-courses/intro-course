@@ -12,7 +12,7 @@ Below is our update display. Notice that every time we click it, the entire boar
 
 Here's where it gets good. To draw the objects on the board, we iterate over row and column values while moving the sprite at the same time! By reading the item at the current \(row, column\) from the board, we can stamp something if needed as we go.
 
-![draw object block contents](../.gitbook/assets/image%20%28292%29.png)
+![draw object block contents](../.gitbook/assets/image%20%28293%29.png)
 
 Let's make sure we know what's going on in the stamp block as well \(The "if object" is just a short way of saying "if something was there"\).
 

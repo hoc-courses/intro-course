@@ -11,11 +11,11 @@ Open this Snap_!_ file [SerialVsParallel](https://beautyjoy.github.io/bjc-r/prog
 
 First, a screenshot taken during computation.
 
-![](../.gitbook/assets/image%20%28310%29.png)
+![](../.gitbook/assets/image%20%28311%29.png)
 
 Second, a screenshot taken after computation has finished.
 
-![](../.gitbook/assets/image%20%28284%29.png)
+![](../.gitbook/assets/image%20%28285%29.png)
 
 It is important to form an accurate mental model of the machine/software when working with it. Hopefully you have seen here that Snap_!_ gives equal time to all the workers \(scripts\), in lock step, and that concurrency bugs can creep up very easily.
 

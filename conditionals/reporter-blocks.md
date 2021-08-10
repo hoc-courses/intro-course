@@ -18,7 +18,7 @@ The first step is, as usual, to select "make a block" from the bottom of the "va
 
 Next, we'll select "reporter" rather than the usual "command."
 
-![](../.gitbook/assets/image%20%28268%29.png)
+![](../.gitbook/assets/image%20%28269%29.png)
 
 Note: you don't have to necessarily put all reporters in the "operators" palette; it's just the most frequent place for them.
 
@@ -44,11 +44,11 @@ This block is a home-made version of the `abs` \(absolute value\) block that we 
 
 Let's try writing our own reporter block! Try writing a `max` block that takes in two numbers and reports the larger of the two. Hint: you'll need to use `if`.
 
-![](../.gitbook/assets/image%20%28283%29.png)
+![](../.gitbook/assets/image%20%28284%29.png)
 
 Here's a more complex block that we wrote. Predict what it will report when run with inputs "hello" and 
 
-![](../.gitbook/assets/image%20%28287%29.png)
+![](../.gitbook/assets/image%20%28288%29.png)
 
 "Predicates" are special kinds of reporter blocks that only report `true` or `false`. You'll see in the next slide how to write them.
 

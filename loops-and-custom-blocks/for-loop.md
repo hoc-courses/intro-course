@@ -4,7 +4,7 @@
 
 Repeating a part of your program is a very common practice in programming. We'll call this _looping_, and there many different blocks you can use to do it in many different ways.
 
-The ![](../.gitbook/assets/image%20%28208%29.png) block is appropriate if you want to repeat the same behavior for... ever.  
+The ![](../.gitbook/assets/image%20%28209%29.png) block is appropriate if you want to repeat the same behavior for... ever.  
   
 The ![](../.gitbook/assets/image%20%2835%29.png) block is great if you want to loop the same behavior a certain number of times. 
 
@@ -37,7 +37,7 @@ is the equivalent of ![](../.gitbook/assets/image%20%2837%29.png)
 
 Click this [link ](http://snap.berkeley.edu/snapsource/snap.html#open:https://beautyjoy.github.io/bjc-r/prog/loop/draw-squirral.xml)to load the script below in a new Snap_!_ window:
 
-![](../.gitbook/assets/image%20%28227%29.png)
+![](../.gitbook/assets/image%20%28228%29.png)
 
 Note that we changed the name of the variable, by clicking on the orange oval _without_ dragging it.
 

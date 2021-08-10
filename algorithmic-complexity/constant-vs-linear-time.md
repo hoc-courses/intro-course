@@ -4,7 +4,7 @@ We will now see an example where the runtime of an algorithm really does make a 
 
 [Earlier in the lab](https://beautyjoy.github.io/bjc-r/cur/programming/loops/sum-things-up.html), you made a block that returned the sum of numbers between `1` and `max`. In the `Variables` menu, you will see two blocks:
 
-![](../.gitbook/assets/image%20%28171%29.png)
+![](../.gitbook/assets/image%20%28172%29.png)
 
 The first block sums up the numbers in the `numbers` list the normal, "non-Gauss" way: walking through the list and adding the numbers one by one. The second block sums up the numbers the "Gauss" way: using the formula `(N + 1) * N/2`, where, in this case, `N` is the same as `max`. \([How did we get this formula?](https://beautyjoy.github.io/bjc-r/cur/programming/algorithms/competing-with-young-gauss.html)\) Complete the bodies of these blocks.
 

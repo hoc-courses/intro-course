@@ -4,7 +4,7 @@
 
 Let's try writing our own reporter block!  We will make a block called `max` that takes two numbers as input and reports the bigger value \(the maximum\).
 
-![](../.gitbook/assets/image%20%28273%29.png)
+![](../.gitbook/assets/image%20%28274%29.png)
 
 Click `Make a block` and select the `Operators` tab. We want a reporter block. This will give the block its round shape as shown above. As the name implies, reporter blocks can report a value. In the image below, you can see that we used the % shortcut for making input variables.
 

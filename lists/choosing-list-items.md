@@ -6,7 +6,7 @@ You've probably played Geography, the game in which one player says a place name
 
 Now we want to select a subset of the states, namely the ones whose first and last letters are the same. Here's the block we use for that:
 
-![](../.gitbook/assets/image%20%28266%29.png)
+![](../.gitbook/assets/image%20%28267%29.png)
 
 Like `map`, the `keep` block has a function as its first input. Notice, though, that this grey ring's inner boundary is hexagonal. This lets you know that you should use a predicate function, which means a function that reports `true` or `false`.We want to know whether two things are equal:
 
@@ -24,13 +24,13 @@ Finding the last letter is a little trickier; you find the length of the text an
 
 Putting all these pieces together will give us the answer we want:
 
-![](../.gitbook/assets/image%20%28307%29.png)
+![](../.gitbook/assets/image%20%28308%29.png)
 
 You can see from the "length: 4" in the result that there are four such states.
 
 But if you're playing Geography, the question you really want answered is "Which states start with such-and-such a letter?" You can define a block that takes a letter as input and gives the answer to that question:
 
-![](../.gitbook/assets/image%20%28303%29.png)
+![](../.gitbook/assets/image%20%28304%29.png)
 
 ![](../.gitbook/assets/image%20%2895%29.png)
 

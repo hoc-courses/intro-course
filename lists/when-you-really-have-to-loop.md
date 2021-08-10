@@ -4,9 +4,9 @@ Consider the following problem:
 
 Write a predicate `increasing?` that takes a list of numbers as input, and outputs `true` if the numbers are in increasing order \(equal neighbors are okay\), or `false` otherwise.
 
-![](../.gitbook/assets/image%20%28209%29.png)
+![](../.gitbook/assets/image%20%28210%29.png)
 
-![](../.gitbook/assets/image%20%28257%29.png)
+![](../.gitbook/assets/image%20%28258%29.png)
 
 Because this is a predicate, it's tempting to try to make it use `keep`:
 
@@ -32,7 +32,7 @@ You can work with the above script [here](http://snap.berkeley.edu/snapsource/sn
 
 **Try this:** Write an `expand` reporter that takes a sentence as input, and reports a sentence that's the same except that each number in the input is replaced by that many copies of the following word:
 
-![](../.gitbook/assets/image%20%28182%29.png)
+![](../.gitbook/assets/image%20%28183%29.png)
 
-![](../.gitbook/assets/image%20%28295%29.png)
+![](../.gitbook/assets/image%20%28296%29.png)
 

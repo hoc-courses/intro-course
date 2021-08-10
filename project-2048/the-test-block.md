@@ -4,7 +4,7 @@ We've provided a large number of blocks that you can use in 2048. A big part of 
 
 To understand how the testing block works, let's start by looking at its structure.
 
-![](../.gitbook/assets/image%20%28218%29.png)
+![](../.gitbook/assets/image%20%28219%29.png)
 
 Based on the structure of the block, we notice that the domain consists of a reporter \(inside the gray border, or ring\), a list, and two or more slots to pass in anything. This is very similar to the other HOFs we have already seen! The provided reporter will be the block we wish to test, the first set of slots will be for the input\(s\) to the function, and the final slot will hold the expected output of the provided reporter. Let's take a look at some examples.
 

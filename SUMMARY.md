@@ -9,16 +9,6 @@
 * [Intro Course](intro-course.md)
 * [Full Stack Course](full-stack-course.md)
 
-## Class Material
-
-* [Master Schedule](class-material/master-schedule.md)
-* [Week 1: 8/22 - 8/28](class-material/week-1-8-15-8-21/README.md)
-  * [Preparation](class-material/week-1-8-15-8-21/preparation.md)
-  * [Tuesday](class-material/week-1-8-15-8-21/tuesday.md)
-  * [Thursday](class-material/week-1-8-15-8-21/thursday.md)
-  * [Saturday](class-material/week-1-8-15-8-21/saturday.md)
-* [Week 2: 8/29 - 9/04](class-material/week-2-8-29-9-04.md)
-
 ## CS Fundamentals
 
 ---

@@ -32,7 +32,7 @@ As in most programming languages, the inputs you provide to a block in a Snap_!_
 
 If that went over your head because it's too abstract, consider this script:
 
-![](../.gitbook/assets/image%20%28202%29.png)
+![](../.gitbook/assets/image%20%28203%29.png)
 
 You wouldn't expect _that_ to change the value of `foo` to— To what? 123? 117? It just doesn't make sense to expect this to change `foo` at all. The input to the `add 20 to` block is the number 103–the _value_ of ![foo+3](https://beautyjoy.github.io/bjc-r/img/list/foo+3.png)–not the variable. The same is true in the original experiment; the input to `add 20 to` is the number 105 \(because the `add 5 to foo` block specifically changed `foo` \), not the variable `foo` itself.
 
