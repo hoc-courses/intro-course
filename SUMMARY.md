@@ -9,6 +9,10 @@
 * [Intro Course](intro-course.md)
 * [Full Stack Course](full-stack-course.md)
 
+## Class Material
+
+* [Week 1: 8/15 - 8/21](class-material/week-1-8-15-8-21.md)
+
 ## CS Fundamentals
 
 ---
