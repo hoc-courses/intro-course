@@ -24,7 +24,7 @@
   * [Experiment with Drawing](snap-intro/experiment-with-drawing.md)
   * [Forever Loops](snap-intro/forever-loops.md)
   * [Kaleidoscope](snap-intro/kaleidoscope.md)
-* [Looping & Custom Blocks](loops-and-custom-blocks/README.md)
+* [Build Your Own Blocks](loops-and-custom-blocks/README.md)
   * [Repeat Loops](loops-and-custom-blocks/repeat-loops.md)
   * [For Loop](loops-and-custom-blocks/for-loop.md)
   * [Custom Command Blocks](loops-and-custom-blocks/custom-command-blocks.md)

@@ -238,13 +238,13 @@ Use Exams for source of questions
 
 {% embed url="https://maxsonyang.github.io/cs10-react/exams" %}
 
-Check off Questions
 
-![](../.gitbook/assets/image%20%2847%29.png)
 
-Dan's OH
+### Good Checkoff list from Summer 2021
 
 {% embed url="https://drive.google.com/drive/folders/1al0NYfHtmimou\_PTGbK1Vns0DZfZW2Hh" %}
+
+{% embed url="https://cs10.org/su21/3labs/" %}
 
 
 
@@ -261,4 +261,12 @@ Dan's OH
 {% embed url="https://learning.edx.org/course/course-v1:BerkeleyX+BJC.12x+3T2017/home?utm\_source=braze&utm\_medium=email&utm\_campaign=enrollmentconfirmation" %}
 
 AP CS Course
+
+
+
+### Videos of Class Lectures - Summer 2020
+
+{% embed url="https://cs10.org/su20/lecture.html" %}
+
+
 
