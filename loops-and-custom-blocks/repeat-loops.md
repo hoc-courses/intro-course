@@ -43,11 +43,11 @@ Using a ![](../.gitbook/assets/image%20%2835%29.png) to draw the following regul
 * Hexagon
 * Octagon
 
-As you draw regular polygons with more and more sides, you are getting closer and closer to a circle. Is there a point at which is actually \(mathematically\) a circle?
-
 If you are having trouble with determining the angle to turn, think about the direction the sprite it pointing and how far it needs to rotate when it turns.
 
 ![regular polygons](https://github.com/hoc-labs/images/blob/main/racecar.gif?raw=true)
+
+As you draw regular polygons with more and more sides, you are getting closer and closer to a circle. Is there a point at which is actually \(mathematically\) a circle?
 
 {% embed url="https://beautyjoy.github.io/bjc-r/cur/programming/intro/drawing/angles-self-test.html?1&1&topic=berkeley\_bjc%2Fintro\_pair%2F2-loops-variables.topic&course=cs10\_sp19.html&novideo&noreading&noassignment" %}
 
@@ -55,7 +55,7 @@ If you are having trouble with determining the angle to turn, think about the di
 
 Complete the code below to draw a star.
 
- ![](../.gitbook/assets/image%20%28114%29.png) ![](../.gitbook/assets/image%20%28123%29.png) 
+![](../.gitbook/assets/image%20%28316%29.png) ![](../.gitbook/assets/image%20%28313%29.png) 
 
 A regular star is closely related to a pentagon. And, remember, a turning angle of `72` draws a regular pentagon.
 

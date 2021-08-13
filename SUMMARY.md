@@ -101,11 +101,16 @@
   * [Snowflake](recursion/snowflake.md)
   * [C-Curve](recursion/c-curve.md)
   * [Fractals in Nature](recursion/fractals-in-nature.md)
+* [Homework 1: Mastermind Intro](homework-1-mastermind-intro.md)
+* [Homework 2: Mastermind](homework-2-mastermind.md)
+* [Mutability](mutability.md)
+* [Untitled](untitled.md)
 
 ## HTML/CSS
 
 ---
 
+* [Untitled](untitled-1.md)
 * [Setup/Tools](l2-setup-tools/README.md)
   * [Software Installation](l2-setup-tools/software-installation.md)
   * [Git/GitHub Intro](l2-setup-tools/what-is-git-github.md)
