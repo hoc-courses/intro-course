@@ -1,6 +1,6 @@
 # Reporter Blocks
 
-So far, all of the blocks you've defined have been "command" blocks. These actual carry out an action that affects the state of the program. For example, the `move` block makes the sprite move, and the `say` block makes the sprite say something. We call these effects "side effects."
+So far, all of the blocks you've defined have been "command" blocks. Command blocks carry out an action that affects the state of the program. For example, the `move` block makes the sprite move, and the `say` block makes the sprite say something. We call these effects "side effects."
 
 Sometimes, we aren't interested in any side effects, and just want a block that performs a calculation for us. These are called "reporters," because rather than causing the program to do something, they simply give us back a value. Many blocks on the "operators" palette are reporters. Here are just a few:
 
