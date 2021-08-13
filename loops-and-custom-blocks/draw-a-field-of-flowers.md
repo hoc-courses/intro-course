@@ -10,3 +10,7 @@ Here is a custom block \(from someone who went crazy\) to give you some ideas:
 
 ![](../.gitbook/assets/image%20%28100%29.png)
 
+### Resources
+
+[herbeFoleFleurs](https://snap.berkeley.edu/snap/snap.html#present:Username=hkaza&ProjectName=herbeFoleFleurs&editMode&noRun)
+
