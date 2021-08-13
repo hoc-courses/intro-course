@@ -37,6 +37,7 @@
 * [Conditionals & Reporters](conditionals/README.md)
   * [Simple Predicates - Comparison Operators](conditionals/comparison-predicates.md)
   * [If and If-Else](conditionals/conditionals.md)
+  * [Extra Challenge](conditionals/extra-challenge.md)
   * [Complex Predicates - Comparison Operators](conditionals/complex-predicates-comparison-operators.md)
   * [Script Variables](conditionals/script-variables.md)
   * [Reporter Blocks](conditionals/reporter-blocks.md)
