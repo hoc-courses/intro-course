@@ -38,9 +38,9 @@ Use several inputs that control aspects of what the flower should look like. You
 
 To change the color of the petals, or use other advanced color tools, you will need to import the colors library.
 
-![](../.gitbook/assets/image%20%28322%29.png)
-
 ![](../.gitbook/assets/image%20%28326%29.png)
+
+![](../.gitbook/assets/image%20%28333%29.png)
 
 ### Resources
 

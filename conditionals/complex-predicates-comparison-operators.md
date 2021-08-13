@@ -21,6 +21,8 @@ We often summarize the behavior of predicates like `and`, `or`, and `not` using 
 
 Here is the truth table for **`and`**:
 
+#### A AND B
+
 | A | B | A and B |
 | :--- | :--- | :--- |
 | F | F | F |
@@ -34,12 +36,16 @@ Reading across each row tells us what `A and B` will output, given particular va
 
 Here are the truth tables for **`or`** and **`not`**:
 
+#### A OR B
+
 | A | B | A or B |
 | :--- | :--- | :--- |
 | F | F | F |
 | F | T | T |
 | T | F | T |
 | T | T | T |
+
+#### NOT A
 
 | A | not A |
 | :--- | :--- |
@@ -57,4 +63,20 @@ However, when "or" is used in a predicate, we assume that it is "inclusive"  Thi
 {% hint style="info" %}
 The exclusive version of "or," often called ["xor,"](http://en.wikipedia.org/wiki/Xor) is available in many other programming languages, but it isn't included in Snap_!_
 {% endhint %}
+
+## Extra Challenge - Predicates
+
+Read this script carefully, and make sure you understand why it produces this picture on the stage: \(click [here ](https://snap.berkeley.edu/snap/snap.html#present:Username=annechinn&ProjectName=predicate%20dots)for a copy of the script\)
+
+![](../.gitbook/assets/image%20%28332%29.png) ![](../.gitbook/assets/image%20%28320%29.png) 
+
+
+
+What predicate would generate the following:
+
+![](../.gitbook/assets/image%20%28319%29.png) ![](../.gitbook/assets/image%20%28330%29.png) 
+
+![](../.gitbook/assets/image%20%28336%29.png) ![](../.gitbook/assets/image%20%28327%29.png) 
+
+
 

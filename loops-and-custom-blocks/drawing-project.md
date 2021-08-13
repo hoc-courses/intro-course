@@ -22,7 +22,7 @@ Create a command block in the **motion** palette, named **draw polygon**, that w
 
 Create titles for the input parameters so that it is easier to use them.
 
-![](../.gitbook/assets/image%20%28315%29.png)
+![](../.gitbook/assets/image%20%28316%29.png)
 
 ## **Create Art**
 
@@ -48,7 +48,7 @@ Make your own art. Explore a few different combinations of shape and color. Take
 
 To add some randomness to your drawings try using the[ random reporter ](random-block.md)in your calls to your shape commands:
 
-![](../.gitbook/assets/image%20%28320%29.png)
+![](../.gitbook/assets/image%20%28324%29.png)
 
 Here are some ideas:
 
