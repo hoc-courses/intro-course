@@ -1,24 +1,8 @@
 # Custom Reporter Blocks
 
-## Create a Custom Reporter - max
+### Restricting Input Types <a id="input-types"></a>
 
-Let's try writing our own reporter block!  We will make a block called `max` that takes two numbers as input and reports the bigger value \(the maximum\).
-
-![](../.gitbook/assets/image%20%28274%29.png)
-
-Click `Make a block` and select the `Operators` tab. We want a reporter block. This will give the block its round shape as shown above. As the name implies, reporter blocks can report a value. In the image below, you can see that we used the % shortcut for making input variables.
-
-![](../.gitbook/assets/image%20%28135%29.png)
-
-This should give you a blank Block editor. We need to figure out what should be reported. To keep track of the value to be reported, we are going to make another variable. 
-
-There are two ways to do this: Use a `Script Variable` block. You can click on the name of the variable and change it to bigger value. Alternatively, you can just report which of the two is larger.
-
-![Dialog](http://bjc-nc.github.io/bjc-course/curriculum/03-build-your-own-blocks/labs/lab-block-18.png)
-
-![Dialog](http://bjc-nc.github.io/bjc-course/curriculum/03-build-your-own-blocks/labs/lab-block-19.png)
-
-### Input Types <a id="input-types"></a>
+Return to your max reporter block you created earlier.
 
 We want the `max` block to work only for numbers. Yet, you can type text in!
 
