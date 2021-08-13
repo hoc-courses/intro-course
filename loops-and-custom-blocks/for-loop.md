@@ -39,7 +39,9 @@ Click this [link ](http://snap.berkeley.edu/snapsource/snap.html#open:https://be
 
 ![](../.gitbook/assets/image%20%28228%29.png)
 
-Note that we changed the name of the variable, by clicking on the orange oval _without_ dragging it.
+Note that we changed the name of the variable, by clicking on the orange oval.
+
+![](../.gitbook/assets/image%20%28317%29.png)
 
 This shape is called a "squiral" — a square spiral. Do you see why it spirals outward? The length value in the ![](https://beautyjoy.github.io/bjc-r/img/blocks/move.png) varies between repetitions.
 
