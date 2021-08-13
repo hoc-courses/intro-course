@@ -12,8 +12,6 @@ This will open up the `Make a block` dialog box. There are several steps that yo
 
 ![](../.gitbook/assets/image%20%28139%29.png)
 
-First, at the top of the dialog, you should select in which palette the block will be place. This block is going to draw a square, so choose `Motion`. The `Motion` tab should highlight in blue, as in the picture below.
-
 Second, you'll want to enter a title for the block in the edit field. Type `draw square`, which should show up as in the picture below.
 
 Third, you have the option of making blocks of different shapes, corresponding to the `Command`, `Reporter`, and `Predicate` icons. By default the `Command` icon is selected, and this is the one you want. \(You will learn about the other shapes of custom blocks in the next topic\).
