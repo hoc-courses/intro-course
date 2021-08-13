@@ -55,7 +55,7 @@ As you draw regular polygons with more and more sides, you are getting closer an
 
 Complete the code below to draw a star.
 
-![](../.gitbook/assets/image%20%28321%29.png) ![](../.gitbook/assets/image%20%28313%29.png) 
+![](../.gitbook/assets/image%20%28322%29.png) ![](../.gitbook/assets/image%20%28313%29.png) 
 
 A regular star is closely related to a pentagon. And, remember, a turning angle of `72` draws a regular pentagon.
 

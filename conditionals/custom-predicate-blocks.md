@@ -26,7 +26,7 @@ If you _do_ have trouble with this problem, don't feel bad, but try to understan
 
 ## Solutions
 
-Here are four solutions to the &gt;= problem, in no particular order:
+Here are some solutions to the &gt;= problem, in no particular order:
 
 ![if &amp;lt; else if = else](https://beautyjoy.github.io/bjc-r/img/prog/ge-ifelseelse.png)
 
@@ -36,7 +36,7 @@ Here are four solutions to the &gt;= problem, in no particular order:
 
 ![ &amp;gt; or =](https://beautyjoy.github.io/bjc-r/img/prog/ge-or.png)
 
-I think this last one is the clearest, because it says in Snap_!_ the same thing you'd say in English: "A is greater than or equal to B if A is greater than B or A is equal to B."
+![](../.gitbook/assets/image%20%28318%29.png)
 
 ## Custom Predicate - between 
 

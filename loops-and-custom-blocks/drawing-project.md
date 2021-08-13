@@ -48,7 +48,7 @@ Make your own art. Explore a few different combinations of shape and color. Take
 
 To add some randomness to your drawings try using the[ random reporter ](random-block.md)in your calls to your shape commands:
 
-![](../.gitbook/assets/image%20%28324%29.png)
+![](../.gitbook/assets/image%20%28325%29.png)
 
 Here are some ideas:
 
