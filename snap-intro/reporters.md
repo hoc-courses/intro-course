@@ -4,7 +4,7 @@
 
  At the bottom of **Motion** palette are three blocks shaped differently from the others. 
 
-![](../.gitbook/assets/image%20%28324%29.png)
+![](../.gitbook/assets/image%20%28325%29.png)
 
 The oval-shaped ![](../.gitbook/assets/image%20%2863%29.png) and ![](../.gitbook/assets/image%20%28271%29.png) are called _**reporters**_. \(We don't need the third one right now.\) 
 
