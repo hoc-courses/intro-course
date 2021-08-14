@@ -49,5 +49,5 @@ Bring up the editor for the the draw square block again by right-clicking on the
 
 Now you have a more friendly block that specifies that name for the input parameter.
 
-![](../.gitbook/assets/image%20%28340%29.png)
+![](../.gitbook/assets/image%20%28342%29.png)
 

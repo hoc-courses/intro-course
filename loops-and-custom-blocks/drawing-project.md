@@ -74,13 +74,13 @@ To randomly change the colors, or use other advanced color tools, you will need 
 
 Here is one example:
 
-![](../.gitbook/assets/image%20%28341%29.png)
+![](../.gitbook/assets/image%20%28343%29.png)
 
 #### Importing Colors Extensions
 
 ![](../.gitbook/assets/image%20%28328%29.png)
 
-![](../.gitbook/assets/image%20%28335%29.png)
+![](../.gitbook/assets/image%20%28336%29.png)
 
 ### Resources
 
