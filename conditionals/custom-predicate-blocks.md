@@ -36,7 +36,7 @@ Here are some solutions to the &gt;= problem, in no particular order:
 
 ![ &amp;gt; or =](https://beautyjoy.github.io/bjc-r/img/prog/ge-or.png)
 
-![](../.gitbook/assets/image%20%28318%29.png)
+![](../.gitbook/assets/image%20%28319%29.png)
 
 ## Custom Predicate - between 
 

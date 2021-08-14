@@ -45,9 +45,9 @@ You can add a title to the input variable slot by clicking on the + sign before 
 
 Bring up the editor for the the draw square block again by right-clicking on the new block \(either in the palette or in a script\) and select `edit` .  Click on the `+` sign before the size variable. Click on the `Title text` option, and type the word `size` and click `OK`.
 
-![](../.gitbook/assets/image%20%28323%29.png)
+![](../.gitbook/assets/image%20%28324%29.png)
 
 Now you have a more friendly block that specifies that name for the input parameter.
 
-![](../.gitbook/assets/image%20%28339%29.png)
+![](../.gitbook/assets/image%20%28340%29.png)
 
