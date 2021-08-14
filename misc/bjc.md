@@ -268,5 +268,9 @@ AP CS Course
 
 {% embed url="https://cs10.org/su20/lecture.html" %}
 
+TEALS Intro CS Curriculum
+
+{% embed url="https://tealsk12.gitbook.io/intro-cs/" %}
+
 
 
