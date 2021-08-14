@@ -32,19 +32,7 @@ You might write:
   
 but don't feel constrained by this list.
 
-Use several inputs that control aspects of what the flower should look like. You might change the number of petals, the size of the petals, the shape of the petals, or something else!
-
-#### Extra Challenge
-
-To change the color of the petals, or use other advanced color tools, you will need to import the colors library.
-
-![](../.gitbook/assets/image%20%28328%29.png)
-
-![](../.gitbook/assets/image%20%28335%29.png)
-
-### Resources
-
-{% embed url="https://snap.berkeley.edu/doc/color-proposal.pdf" %}
+Use several inputs that control aspects of what the flower should look like. You might change the number of petals, the size of the petals, the shape of the petals or the color.
 
 
 
