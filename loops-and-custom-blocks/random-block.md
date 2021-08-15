@@ -21,5 +21,3 @@ Make a sprite keep moving around the screen randomly, using ![](../.gitbook/asse
 * How does your sprite's actions change if you have it move a fixed, rather than random, amount each time?
 * Keep the pen for your sprite down, and you'll see a two-dimensional [random walk](http://en.wikipedia.org/wiki/Random_walk).
 
-{% embed url="https://beautyjoy.github.io/bjc-r/cur/programming/random/Test-Yourself-random.html?1&2&3&4&5&topic=berkeley\_bjc%2Fintro\_pair%2F2-loops-variables.topic&course=cs10\_sp19.html&novideo&noreading&noassignment" %}
-
