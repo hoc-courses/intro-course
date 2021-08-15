@@ -33,5 +33,5 @@ Not unless you tell it to: Click on the stop sign icon on the upper right hand c
 
 This stop sign will stop all scripts that are running in any sprite. This is equivalent to executing the ![stop all block](https://beautyjoy.github.io/bjc-r/img/blocks/stop-all.png) in the `Control` palette.
 
-## 
+
 
