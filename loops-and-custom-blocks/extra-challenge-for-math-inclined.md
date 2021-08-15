@@ -1,4 +1,4 @@
-# Extra Challenge - For Math Inclined
+# Extra Challenge
 
 ### Curve Stitching
 
