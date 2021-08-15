@@ -33,6 +33,7 @@
   * [Composition of Blocks](loops-and-custom-blocks/composition-of-blocks.md)
   * [Random Block](loops-and-custom-blocks/random-block.md)
   * [Draw a Field of Flowers](loops-and-custom-blocks/draw-a-field-of-flowers.md)
+  * [Extra Challenge - For Math Inclined](loops-and-custom-blocks/extra-challenge-for-math-inclined.md)
 * [Conditionals & Reporters](conditionals/README.md)
   * [Simple Predicates - Comparison Operators](conditionals/comparison-predicates.md)
   * [If and If-Else](conditionals/conditionals.md)
