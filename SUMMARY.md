@@ -41,7 +41,7 @@
   * [Reporter Blocks](conditionals/reporter-blocks.md)
   * [Custom Predicate Blocks](conditionals/custom-predicate-blocks.md)
   * [Take an Umbrella Predicate](conditionals/take-an-umbrella-predicate.md)
-  * [The Guessing Game Project](conditionals/the-guessing-game-project.md)
+  * [The Guessing Game](conditionals/the-guessing-game-project.md)
 * [Abstraction](abstraction/README.md)
   * [Custom Reporter Blocks](abstraction/custom-reporter-blocks.md)
   * [Composition of Functions](abstraction/composition-of-functions.md)

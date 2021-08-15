@@ -1,4 +1,4 @@
-# The Guessing Game Project
+# The Guessing Game
 
 ## Version 1
 
