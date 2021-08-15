@@ -50,8 +50,6 @@ and also so that you can distinguish between a completely empty input slot and o
 
 ![](../.gitbook/assets/image%20%2899%29.png)
 
-{% embed url="https://beautyjoy.github.io/bjc-r/cur/programming/conditionals/complex-booleans-self-test.html?1&topic=berkeley\_bjc%2Fintro\_pair%2F3-conditionals.topic&course=cs10\_sp19.html&novideo&noreading&noassignment" %}
-
 ## Checking for Leap Years
 
 Some years in our \(Gregorian\) calendar are **leap years**. February has a 29th day and the year overall has 366. Many people think that leap years come every fourth year, and some know that this is because it takes the earth takes 365.25 days to revolve around the sun.
