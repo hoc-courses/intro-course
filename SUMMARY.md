@@ -104,7 +104,8 @@
 * [Homework 1: Mastermind Intro](homework-1-mastermind-intro.md)
 * [Homework 2: Mastermind](homework-2-mastermind.md)
 * [Mutability](mutability.md)
-* [Untitled](untitled.md)
+* [Abstraction](untitled.md)
+* [Quest](quest.md)
 
 ## HTML/CSS
 
