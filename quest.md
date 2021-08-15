@@ -1,6 +1,6 @@
 # Quest
 
-![](.gitbook/assets/image%20%28348%29.png)
+![](.gitbook/assets/image%20%28351%29.png)
 
 {% embed url="https://inst.eecs.berkeley.edu//~cs10/sp11/lab/solutions.html" %}
 
