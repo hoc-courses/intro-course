@@ -47,7 +47,6 @@
   * [Composition of Functions](abstraction/composition-of-functions.md)
   * [Debugging - Part 1](abstraction/debugging-1.md)
   * [The DRY Principle](abstraction/the-dry-principle.md)
-  * [Functional Decomposition](abstraction/functional-decomposition.md)
   * [Debugging - Part 2](abstraction/debugging-2.md)
   * [Brick Wall Project](abstraction/brick-wall-project.md)
 * [Lists](lists/README.md)
