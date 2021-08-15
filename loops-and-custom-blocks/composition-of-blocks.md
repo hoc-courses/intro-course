@@ -14,8 +14,6 @@ Create the block ![](../.gitbook/assets/image%20%28120%29.png) that will draw a 
 
 An invocation of ![](../.gitbook/assets/image%20%2898%29.png) should draw the example picture above.
 
-{% embed url="https://beautyjoy.github.io/bjc-r/cur/programming/functions/intro/buggy-house-and-square.html?1&2&3&4&topic=berkeley\_bjc%2Fintro\_pair%2F2-loops-variables.topic&course=cs10\_sp19.html&novideo&noreading&noassignment" %}
-
 ## Compose a _draw flower_ Block
 
 Write a block that draws a full flower in the middle of the stage.
