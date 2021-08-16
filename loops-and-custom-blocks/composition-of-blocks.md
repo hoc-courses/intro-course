@@ -2,9 +2,7 @@
 
 You can treat your custom-made blocks like any other block in snap, including using them within other block you define. In fact, bigger programming tasks are usually best solved by writing simple blocks that are used within slightly more complicated blocks, which are in turn used in even more complicated blocks, and so on.
 
-We'll look more closely at this sort of composition of blocks in a later topic, because it is important.
-
-For now, use the ![](../.gitbook/assets/image%20%28157%29.png) block to create a block that draws the petals of a flower, like:
+Use the ![](../.gitbook/assets/image%20%28157%29.png) block to create a block that draws the petals of a flower, like:
 
 ![](../.gitbook/assets/image%20%28295%29.png)
 
@@ -31,4 +29,8 @@ You might write:
 but don't feel constrained by this list.
 
 Use several inputs that control aspects of what the flower should look like. You might change the number of petals, the size of the petals, the shape of the petals or the color.
+
+If you're really adventurous, you can extend the type of flower pattern you draw to include other geometric designs, such as the one in this topic.
+
+{% page-ref page="extra-challenge-optional.md" %}
 

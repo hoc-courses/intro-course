@@ -18,5 +18,3 @@ What do the following predicates return?
 
 ![](../.gitbook/assets/image%20%28108%29.png) 
 
-
-

@@ -1,4 +1,4 @@
-# Debugging - Part 1
+# Debugging
 
 Now let's consider a slightly more complicated block that makes use of a loop. It accepts two numbers as inputs \(`start` and `end`\) and finds the sum of all of the numbers in the range from `start` to `end`, inclusive. ![](../.gitbook/assets/image%20%28234%29.png) 
 

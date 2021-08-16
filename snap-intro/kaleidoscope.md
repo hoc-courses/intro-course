@@ -22,8 +22,7 @@ For this activity, your job is to make a \(kind of\) kaleidoscope, that has four
 
 **Some tips:**
 
-* You will need four sprites. \(We haven't used more than one sprite up to now, but having more than one allows for more interesting projects, as you'll see.\) The easiest way to create three more is to _duplicate_ the one you have. Right-click the sprite in the sprite corral, and select **duplicate** from the _context menu_ that appears. Each duplicated sprite will have exactly the same scripts as the original, which is why we suggest duplication rather than just creating more sprites from scratch. \(**These have already been created in the drawing program provided**\)
-* You can change the color of each sprite by clicking the color input in that sprite's ![](../.gitbook/assets/image%20%2844%29.png) block \(found under the **Pen** tab\), choosing a color, and then clicking on the the block itself \(to run the block and actually set the color\). Don't worry about matching the colors in the animation exactly!
+* There are four sprites. \(We haven't used more than one sprite up to now\) 
 * Pay close attention to what each of the other sprites is doing in the animation above. You will need to modify the **x** and **y** inputs in each sprite's ![](../.gitbook/assets/image%20%28215%29.png) block using simple formulas, with ![](../.gitbook/assets/image%20%28156%29.png) and ![](../.gitbook/assets/image%20%2841%29.png) .
-* Hint: All the sprites are reflecting in different ways around the \(x=0, y=0\) origin point of the stage. \(Notice that one sprite is following the mouse.\)
+* All the sprites are reflecting in different ways around the \(x=0, y=0\) origin point of the stage. \(Notice that one sprite is following the mouse.\)
 

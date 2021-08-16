@@ -4,15 +4,15 @@ Draw a field of flowers, and give each flower a different color, size, shape, po
   
 Use ![](../.gitbook/assets/image%20%2835%29.png) to draw lots of flowers, flowers with lots of petals, and so forth.  
   
-Use ![](../.gitbook/assets/image%20%28149%29.png) as much as you can to make the flowers interesting and different.
+The ![](../.gitbook/assets/image%20%28357%29.png)  block generates numbers with about equal likelihood, and can generate the both the lower and upper bounds that you give it. So, ![](../.gitbook/assets/image%20%28149%29.png) can generate 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10. This block \(and others with round edges\) is a **reporter** block—it _reports_ a value. Use this block inside other blocks that take a numeric input:
+
+Use ![](../.gitbook/assets/image%20%28149%29.png) to make the flowers interesting and different. 
 
 ![](../.gitbook/assets/image%20%28349%29.png)
 
-Here is a custom block \(from someone who went crazy\) to give you some ideas:
+### 
 
-![](../.gitbook/assets/image%20%28100%29.png)
-
-And another example...
+### Some Inspiration
 
 [herbeFoleFleurs](https://snap.berkeley.edu/snap/snap.html#present:Username=annechinn&ProjectName=herbeFoleFleurs)
 
