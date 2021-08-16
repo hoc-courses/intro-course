@@ -60,11 +60,3 @@ However, when "or" is used in a predicate, we assume that it is "inclusive"  Thi
 
  If we were out of both eggs and milk, we'd almost certainly still want to go to the store\). 
 
-{% hint style="info" %}
-The exclusive version of "or," often called ["xor,"](http://en.wikipedia.org/wiki/Xor) is available in many other programming languages, but it isn't included in Snap_!_
-{% endhint %}
-
-
-
-
-

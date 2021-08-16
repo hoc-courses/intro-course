@@ -30,7 +30,3 @@ but don't feel constrained by this list.
 
 Use several inputs that control aspects of what the flower should look like. You might change the number of petals, the size of the petals, the shape of the petals or the color.
 
-If you're really adventurous, you can extend the type of flower pattern you draw to include other geometric designs, such as the one in this topic.
-
-{% page-ref page="extra-challenge-optional.md" %}
-
