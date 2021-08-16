@@ -1,4 +1,4 @@
-# Extra Challenge
+# Extra Challenge \(Optional\)
 
 ### Curve Stitching
 

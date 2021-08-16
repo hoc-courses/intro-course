@@ -39,15 +39,5 @@ As you draw regular polygons with more and more sides, you are getting closer an
 
 {% embed url="https://beautyjoy.github.io/bjc-r/cur/programming/intro/drawing/angles-self-test.html?1&1&topic=berkeley\_bjc%2Fintro\_pair%2F2-loops-variables.topic&course=cs10\_sp19.html&novideo&noreading&noassignment" %}
 
-## Drawing a Star
-
-Complete the code below to draw a star.
-
-![](../.gitbook/assets/image%20%28323%29.png) ![](../.gitbook/assets/image%20%28314%29.png) 
-
-A regular star is closely related to a pentagon. And, remember, a turning angle of `72` draws a regular pentagon.
-
-Use the `turn` block before the `repeat` block so that the star isn't drawn tilted. But, don't worry about this until you got the other `turn` block figured out.
-
 {% embed url="https://beautyjoy.github.io/bjc-r/cur/programming/intro/drawing/angles-self-test-2.html?1&topic=berkeley\_bjc%2Fintro\_pair%2F2-loops-variables.topic&course=cs10\_sp19.html&novideo&noreading&noassignment" %}
 
