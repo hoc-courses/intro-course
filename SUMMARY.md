@@ -46,7 +46,6 @@
   * [Take an Umbrella Predicate](conditionals/take-an-umbrella-predicate.md)
   * [The Guessing Game](conditionals/the-guessing-game-project.md)
 * [Abstraction](abstraction/README.md)
-  * [Composition of Functions](abstraction/composition-of-functions.md)
   * [The DRY Principle](abstraction/the-dry-principle.md)
   * [Brick Wall Project](abstraction/brick-wall-project.md)
 * [Lists](lists/README.md)
