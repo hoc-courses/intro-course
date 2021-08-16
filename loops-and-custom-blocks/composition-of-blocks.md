@@ -32,5 +32,3 @@ but don't feel constrained by this list.
 
 Use several inputs that control aspects of what the flower should look like. You might change the number of petals, the size of the petals, the shape of the petals or the color.
 
-
-

@@ -1,8 +1,8 @@
-# Extra Challenge \(Optional\)
+# Geometric Designs \(Optional\)
 
 Write the code to draw the geometric design shown below.
 
-![](../.gitbook/assets/image%20%28349%29.png) 
+![](../.gitbook/assets/image%20%28352%29.png) 
 
 You can watch this animation to get some ideas.
 
@@ -14,5 +14,5 @@ Now that you can draw a circle, you can generate the Daisy Design by rotating yo
 
 Extend it further to create these patterns:
 
-![](../.gitbook/assets/image%20%28351%29.png) ![](../.gitbook/assets/image%20%28355%29.png) ![](../.gitbook/assets/image%20%28350%29.png) ![](../.gitbook/assets/image%20%28354%29.png) 
+![](../.gitbook/assets/image%20%28354%29.png) ![](../.gitbook/assets/image%20%28360%29.png) ![](../.gitbook/assets/image%20%28353%29.png) ![](../.gitbook/assets/image%20%28358%29.png) 
 

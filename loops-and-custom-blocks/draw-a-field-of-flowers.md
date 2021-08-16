@@ -6,7 +6,7 @@ Use ![](../.gitbook/assets/image%20%2835%29.png) to draw lots of flowers, flower
   
 Use ![](../.gitbook/assets/image%20%28149%29.png) as much as you can to make the flowers interesting and different.
 
-![](../.gitbook/assets/image%20%28347%29.png)
+![](../.gitbook/assets/image%20%28349%29.png)
 
 Here is a custom block \(from someone who went crazy\) to give you some ideas:
 

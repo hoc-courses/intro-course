@@ -240,10 +240,6 @@ Use Exams for source of questions
 
 
 
-### Good Checkoff list from Summer 2021
-
-{% embed url="https://drive.google.com/drive/folders/1al0NYfHtmimou\_PTGbK1Vns0DZfZW2Hh" %}
-
 {% embed url="https://cs10.org/su21/3labs/" %}
 
 
