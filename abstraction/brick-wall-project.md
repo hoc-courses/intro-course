@@ -1,6 +1,6 @@
 # Brick Wall Project
 
-Sometimes, when we write programs and scripts, it feels like we have hit a brick wall. \(This is a good sign; if a project isn't hard, you're not stretching your mind!\) Now, you are going to draw this brick wall:
+You are going to draw this brick wall:
 
 ![Sample image of brick wall](https://beautyjoy.github.io/bjc-r/img/abstraction/new-brickwall/wall.png)
 
@@ -12,7 +12,9 @@ In this problem, you will build an abstraction for drawing a brick wall, first b
 
 ### Drawing One Brick
 
-A brick is a solid red rectangle \("brick red," i.e., not a bright primary-color red but somewhat darker\). There's no "draw rectangle" block in Snap_!_, but we can fake it by thinking of a rectangle as a very thick line. You know how to draw a line, with the **move** block. In the **Pen** palette there's a **set pen size** block. We can use it to draw a thick line:![Code for draw brick](https://beautyjoy.github.io/bjc-r/img/abstraction/new-brickwall/draw-brick-code.png)
+A brick is a solid red rectangle \("brick red," i.e., not a bright primary-color red but somewhat darker\). There's no "draw rectangle" block in Snap_!_, but we can fake it by thinking of a rectangle as a very thick line. You know how to draw a line, with the **move** block. In the **Pen** palette there's a **set pen size** block. W can use it to draw a thick line:
+
+![Code for draw brick](https://beautyjoy.github.io/bjc-r/img/abstraction/new-brickwall/draw-brick-code.png)
 
 If you try out this block, you'll notice that your brick has rounded ends. These ends stick out beyond the length of the line you asked to draw. Here's a picture of the rounded brick with a regular line \(pen size 1\) inside it:![Round brick](https://beautyjoy.github.io/bjc-r/img/abstraction/new-brickwall/round-brick.png)
 
@@ -24,28 +26,46 @@ Consider this line of code that was used to create the brick wall:
 
 ![draw-brick-wall-7](https://beautyjoy.github.io/bjc-r/img/abstraction/new-brickwall/draw-brick-wall-7.png)
 
-If you were to ask a mason to make a brick wall with seven rows, he would surely understand your meaning and make it happen. A computer, however, doesn't know what that means, so you have to fill in the details. This means going from the abstract \(draw a brick wall\) to the concrete \(pardon the pun\), which involves problem decomposition.
+If you were to ask a mason to make a brick wall with seven rows, he would surely understand your meaning and make it happen. A computer, however, doesn't know what that means, so you have to fill in the details. This means going from the abstract \(draw a brick wall\) to the concrete, which involves problem decomposition.
 
 A quick observation shows that there are two kinds of rows of bricks:
 
 * **Row A**: ![Row A](https://beautyjoy.github.io/bjc-r/img/abstraction/new-brickwall/row-a.png)
 * **Row B**: ![Row B](https://beautyjoy.github.io/bjc-r/img/abstraction/new-brickwall/row-b.png)
 
-Make blocks ![Row A](https://beautyjoy.github.io/bjc-r/img/abstraction/new-brickwall/rowa-block.png) and ![Row B](https://beautyjoy.github.io/bjc-r/img/abstraction/new-brickwall/rowb-block.png). Think about what helper blocks besides ![Draw Brick](https://beautyjoy.github.io/bjc-r/img/abstraction/new-brickwall/draw-brick.png) you might want.
+**At the lowest level of abstraction \(Level 3\):** 
 
-It's possible to go overboard on abstraction, so that you have a gazillion blocks and it's hard to find where the work actually gets done. But, on the other hand, sometimes it's useful to make a custom block even if its definition is just one primitive block. For example, to draw the mortar \(the white space\) between blocks in a row, all you have to do \(since the ![Draw Brick](https://beautyjoy.github.io/bjc-r/img/abstraction/new-brickwall/draw-brick.png) block picks up the pen at the end of its script\) is move forward:![Move 4 Steps](https://beautyjoy.github.io/bjc-r/img/abstraction/new-brickwall/move4.png)
+* You need to figure out how to draw individual bricks, small bricks and spaces. The bricks are simply thick lines.
+* This level of abstraction contains the following blocks: 
+* The **Draw Brick** block, which draws a single brick. 
+* The **Draw Small Brick** block, which draws the small brick for the edges of row B. Note that this brick will not be exactly half as long as the full brick. Part of this assignment is figuring out how long the “small brick” should be. 
+* The **Draw Space** block, which draws a space between each brick or small brick.
 
-You could just use that **move** block inside your **Row A** block. But you might instead want to define a **Draw Mortar** block. Why? Maybe later you'll decide that four steps is the wrong thickness for mortar, and you'd rather have five steps. If there are a dozen **Move** blocks scattered through your program to draw mortar, you might not find them all. With a **Draw Mortar** block, you can just change its definition, and all the mortar in your picture will be changed.
+**At the middle level of abstraction \(Level 2\):** 
 
-Notice that the two kinds of rows should be exactly the same length. Your first try at drawing a Row B will probably be a little too long. Why? Row A has six whole bricks. Row B has five whole bricks plus two half-bricks, which adds up to six whole bricks. To understand the bug, think about the amount of mortar in each kind of row.
+* You can use the functionality provided by the bottom level of abstraction to make entire rows of bricks. 
+* The rows referred to as “Row A” and “Row B” should look like the rows shown above. 
+* This level of abstraction contains the following blocks: 
+* The **Initialize Pen** block, which should initialize the pen color and size.
+*  The **Initialize Character Position and Direction** block, which should initialize the position and direction of the character. 
+* The **Draw Row A** block, which should draw a single copy of Row A. 
+* The **Draw Row B** block, which should draw a single copy of Row B. 
+* The **Transition between Row A and B with space** block, which should transition between the end of Row A and the beginning of Row B, leaving a space as wide as the number of pixels specified by the input argument. 
 
-How are you going to fix it? Should a Row B have different-size bricks, different-size mortar gaps, or different-size half-bricks? If you're not sure, try all the possibilities and see which looks right in the finished wall. \(There's really only one good answer.\)
+**HINT**: You will need to determine if there is an even number of rows or an odd number of rows to be drawn as well as if the row being drawn is an even number or odd number one. You can use the `mod` block to help.
 
-Once you have the two kinds of rows the same length, you can write the ![Draw a Brick Wall with \( \) Rows](https://beautyjoy.github.io/bjc-r/img/abstraction/new-brickwall/draw-brick-wall-num.png) block. Remember that it should work for both even and odd numbers of rows, which means that sometimes you'll have to draw an extra Row A.
+**At the highest level of abstraction \(level 1\) :**
 
-\(How do you know if a number is odd? You'll find the ![Mod](https://beautyjoy.github.io/bjc-r/img/blocks/mod.png) block helpful.\)
+* You will put together the full brick wall using only the functionality provided by the middle level of abstraction. 
+* This level of abstraction contains only the **Draw a Brick Wall with \_\_ rows** block, which draws a brick wall with the specified number of rows. 
 
-### Additional Exercises
+In summary, you should implement the following blocks:
+
+![](../.gitbook/assets/image%20%28362%29.png)
+
+Note: Whenever you need to refer to a number in the program, use a variable. This is generally considered good style, because you can use the same variable in multiple places in your program, and you only need to change the value of the variable to change it in multiple places at once.
+
+### Extra  Challenge
 
 After you've drawn the picture at the top of this page, add more inputs to the **Draw a Brick Wall** block:
 

@@ -1,12 +1,10 @@
 # Custom Predicate Blocks
 
-{% hint style="info" %}
-Predicate blocks return a true or false value
-{% endhint %}
+"Predicates" are special kinds of reporter blocks that only report `true` or `false`. 
 
 ## Custom Predicate  &gt;=
 
-We want to make our own _predicate_, a kind of block that reports either `true` or `false`. We have a "greater than" operator \(`>`\), an "equal" operator \(`=`\), and a "less than" operator \(`<`\), but we want a new "greater than or equal to" \(`>=`\) operator.
+We're going to make our own _predicate_, a kind of block that reports either `true` or `false`. Snap! has a "greater than" operator \(`>`\), an "equal" operator \(`=`\), and a "less than" operator \(`<`\), but we want a new "greater than or equal to" \(`>=`\) operator.
 
 ![](../.gitbook/assets/image%20%28148%29.png) ![](../.gitbook/assets/image%20%28300%29.png) ![](../.gitbook/assets/image%20%28154%29.png) 
 
@@ -21,8 +19,6 @@ You'll probably find the Boolean operators helpful, although they're not entirel
 ![](../.gitbook/assets/image%20%2885%29.png)
 
 There are several correct ways to do this! It's okay if your answer is different from another group's answer, as long as it gives the right `true` and `false` answers.
-
-If you _do_ have trouble with this problem, don't feel bad, but try to understand what's getting in the way, and when you see a solution, learn from it!
 
 ## Solutions
 
@@ -51,8 +47,4 @@ Now we're going to write some blocks that utilize predicates like `and`, `or`, a
 Write a ![](../.gitbook/assets/image%20%28239%29.png) block that reports whether a given day is a weekend. Let's assume that only Saturday and Sunday are part of the weekend.
 
 Write a ![](../.gitbook/assets/image%20%28144%29.png) block. You could write this with or without your ![](../.gitbook/assets/image%20%28239%29.png) block, but it'll be much easier if you do.
-
-Here is a block definition. Give it a more descriptive name, then re-write using no `if` blocks.
-
-![](../.gitbook/assets/image%20%28301%29.png)
 

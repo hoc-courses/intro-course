@@ -14,5 +14,5 @@ Now that you can draw a circle, you can generate the Daisy Design by rotating yo
 
 Extend it further to create these patterns:
 
-![](../.gitbook/assets/image%20%28355%29.png) ![](../.gitbook/assets/image%20%28362%29.png) ![](../.gitbook/assets/image%20%28354%29.png) ![](../.gitbook/assets/image%20%28360%29.png) 
+![](../.gitbook/assets/image%20%28355%29.png) ![](../.gitbook/assets/image%20%28363%29.png) ![](../.gitbook/assets/image%20%28354%29.png) ![](../.gitbook/assets/image%20%28360%29.png) 
 

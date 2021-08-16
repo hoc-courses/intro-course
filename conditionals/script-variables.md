@@ -16,7 +16,7 @@ The `script variables` block creates a variable called `sides` \(click on the or
 
 The script will draw a regular polygon with that number of sides. The value of `sides` is used twice, first in the `repeat` block to say how many times the `move`-and-`turn` combination should be done, and again in computing the angle through which to `turn` for each side.
 
-Try re-creating the script andunning the script \(by clicking the green flag\) several times to see what shapes it draws.
+Try re-creating the script and running the script \(by clicking the green flag\) several times to see what shapes it draws.
 
 **Self-test question**: Why did we start the range of possible random numbers at 3?
 

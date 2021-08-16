@@ -10,8 +10,6 @@ Notice how all of these are rounded, and can't be attached directly to other blo
 
 ![](../.gitbook/assets/image%20%28116%29.png)
 
-\(I'm sure you've been doing things like this since you started using Snap_!_\)
-
 Let's learn how to make our own reporter blocks!
 
 The first step is, as usual, to select "make a block" from the bottom of the "variables" palette.
@@ -49,6 +47,4 @@ Let's try writing our own reporter block! Try writing a `max` block that takes i
 Here's a more complex block that we wrote. Predict what it will report when run with inputs "hello" and 
 
 ![](../.gitbook/assets/image%20%28288%29.png)
-
-"Predicates" are special kinds of reporter blocks that only report `true` or `false`. You'll see in the next slide how to write them.
 
