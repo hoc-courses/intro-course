@@ -33,11 +33,8 @@ Using a ![](../.gitbook/assets/image%20%2835%29.png) to draw the following regul
 
 If you are having trouble with determining the angle to turn, think about the direction the sprite it pointing and how far it needs to rotate when it turns.
 
-![regular polygons](https://github.com/hoc-labs/images/blob/main/racecar.gif?raw=true)
+### Questions
 
-As you draw regular polygons with more and more sides, you are getting closer and closer to a circle. Is there a point at which is actually \(mathematically\) a circle?
-
-{% embed url="https://beautyjoy.github.io/bjc-r/cur/programming/intro/drawing/angles-self-test.html?1&1&topic=berkeley\_bjc%2Fintro\_pair%2F2-loops-variables.topic&course=cs10\_sp19.html&novideo&noreading&noassignment" %}
-
-{% embed url="https://beautyjoy.github.io/bjc-r/cur/programming/intro/drawing/angles-self-test-2.html?1&topic=berkeley\_bjc%2Fintro\_pair%2F2-loops-variables.topic&course=cs10\_sp19.html&novideo&noreading&noassignment" %}
+* Through how many degrees did your sprite turn _altogether_ \(not per side\) when you drew a triangle? \(That is, ignore the `move` blocks and focus on only the `turn` blocks\).
+* Through how many degrees did your sprite turn _altogether_ when you drew a pentagon?
 

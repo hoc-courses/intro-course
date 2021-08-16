@@ -51,9 +51,3 @@ Also, try changing the turning angle and the move length to see how close you ca
   
 ![spiral](https://beautyjoy.github.io/bjc-r/img/prog/spiral.png)
 
-## Challenge Yourself - Nested For Loops
-
-Predict what the following script will produce and then build the script to test your hypothesis.
-
-![](../.gitbook/assets/image%20%2822%29.png)
-
