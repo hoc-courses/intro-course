@@ -52,7 +52,7 @@ We are going to apply that principle here to create a **command** block \(no ret
 
 And now the code has been greatly simplified. We no longer need to think about the individual instructions necessary to draw a square. We can simply use the `drawSquare` command to perform the instructions whenever we need to draw a square.
 
-### Procedures allow Re-use
+### Procedures allow Re-use through Generalization
 
 Another important feature of writing procedures is that they can receive input that allows them to work in a wider range of circumstances.
 
