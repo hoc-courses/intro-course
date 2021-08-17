@@ -23,11 +23,3 @@ In your own program, you would likely use this block within a `say` block, like 
 
 ![](../.gitbook/assets/image%20%28306%29.png)
 
-Consider why it's best to make the block a reporter, rather than directly `say`ing the result.
-
-Write a reporter `exaggerate` that takes a sentence as input and reports an exaggerated version:
-
-![](../.gitbook/assets/image%20%28132%29.png)
-
-It should replace "good" with "great," "bad" with "terrible," "like" with "love," etc. And it should replace every number with twice the number.
-

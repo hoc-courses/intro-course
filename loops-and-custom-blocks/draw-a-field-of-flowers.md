@@ -2,7 +2,7 @@
 
 **mod block**  
   
-The ![](../.gitbook/assets/image%20%28358%29.png)  block generates numbers with about equal likelihood, and can generate the both the lower and upper bounds that you give it. So, ![](../.gitbook/assets/image%20%28149%29.png) can generate 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10. This block \(and others with round edges\) is a **reporter** block—it _reports_ a value. Use this block inside other blocks that take a numeric input:
+The ![](../.gitbook/assets/image%20%28359%29.png)  block generates numbers with about equal likelihood, and can generate the both the lower and upper bounds that you give it. So, ![](../.gitbook/assets/image%20%28149%29.png) can generate 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10. This block \(and others with round edges\) is a **reporter** block—it _reports_ a value. Use this block inside other blocks that take a numeric input:
 
 
 

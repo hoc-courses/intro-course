@@ -61,7 +61,7 @@ A quick observation shows that there are two kinds of rows of bricks:
 
 In summary, you should implement the following blocks:
 
-![](../.gitbook/assets/image%20%28363%29.png)
+![](../.gitbook/assets/image%20%28365%29.png)
 
 Note: Whenever you need to refer to a number in the program, use a variable. This is generally considered good style, because you can use the same variable in multiple places in your program, and you only need to change the value of the variable to change it in multiple places at once.
 

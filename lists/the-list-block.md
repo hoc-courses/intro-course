@@ -35,6 +35,8 @@ What happens if you drag a `list` block into an input slot that expects a number
 
 Let's say you're writing a program to generate English sentences. Your starting point might be various lists of words:
 
+Click [here ](https://snap.berkeley.edu/snap/snap.html#open:https://bjc.edc.org/Sept2015/bjc-r/prog/3-lists/U3Lab1Sentence.xml)to see the script in Snap!.
+
 ![](../.gitbook/assets/image%20%28160%29.png)
 
 You could build up a sentence out of phrases. For example, to make a noun phrase, you want to pick one item from the `articles` list, one from the `adjectives` list, and one from the `nouns` list. To select one item from a list, use the `item` block:

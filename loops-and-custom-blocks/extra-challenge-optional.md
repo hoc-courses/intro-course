@@ -2,7 +2,7 @@
 
 Write the code to draw the geometric design shown below.
 
-![](../.gitbook/assets/image%20%28354%29.png) 
+![](../.gitbook/assets/image%20%28355%29.png) 
 
 You can watch this animation to get some ideas.
 
@@ -14,5 +14,5 @@ Now that you can draw a circle, you can generate the Daisy Design by rotating yo
 
 Extend it further to create these patterns:
 
-![](../.gitbook/assets/image%20%28356%29.png) ![](../.gitbook/assets/image%20%28364%29.png) ![](../.gitbook/assets/image%20%28355%29.png) ![](../.gitbook/assets/image%20%28361%29.png) 
+![](../.gitbook/assets/image%20%28357%29.png) ![](../.gitbook/assets/image%20%28366%29.png) ![](../.gitbook/assets/image%20%28356%29.png) ![](../.gitbook/assets/image%20%28363%29.png) 
 

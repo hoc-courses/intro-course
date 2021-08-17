@@ -58,7 +58,7 @@
   * [When You Really Have to Loop](lists/when-you-really-have-to-loop.md)
   * [Swapping List Values](lists/swapping-list-values.md)
   * [Mutation of Variables](lists/mutation-of-variables.md)
-  * [Days in Month Reporter](lists/days-in-month-reporter.md)
+  * [Magic Squares](lists/magic-squares.md)
 * [Algorithms](algorithms/README.md)
   * [Everybody's Got Algorithms](algorithms/everybodys-got-algorithms.md)
   * [Trash or Treasure?](algorithms/trash-or-treasure.md)
