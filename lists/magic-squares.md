@@ -2,7 +2,7 @@
 
 ### Getting Started
 
-In this lab, you will write ![green predicate: is a magic square?](https://bjc.edc.org/Sept2015/bjc-r/img/3-lists/isamagicsquare_block.png) that reports whether or not a set of numbers forms a _magic square_. In a magic square, the sum of the numbers in each row, column, and diagonal must be equal.
+In this exercise, you will write ![green predicate: is a magic square?](https://bjc.edc.org/Sept2015/bjc-r/img/3-lists/isamagicsquare_block.png) that reports whether or not a set of numbers forms a _magic square_. In a magic square, the sum of the numbers in each row, column, and diagonal must be equal.
 
 The data in this list: ![square\_12,13,14,10,18,11,17,15,16](https://bjc.edc.org/Sept2015/bjc-r/img/3-lists/square_12_13_14.png) corresponds to this 3-by-3 grid of numbers:  
 ![square\_12,13,14,10,18,11,17,15,16](https://bjc.edc.org/Sept2015/bjc-r/img/3-lists/magic_square.png)

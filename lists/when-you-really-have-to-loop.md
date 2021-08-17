@@ -26,10 +26,6 @@ Note that the `for each item` block has the word "item" in a round orange block.
 
 You can work with the above script [here](http://snap.berkeley.edu/snapsource/snap.html#open:https://beautyjoy.github.io/bjc-r/prog/loop/increasing.xml).
 
-### Try these
-
-**Try this:** Display a longish list using time instead of space on the screen by ![say](https://beautyjoy.github.io/bjc-r/img/blocks/say-fragment.png)ing each item for two seconds.
-
 **Try this:** Write an `expand` reporter that takes a sentence as input, and reports a sentence that's the same except that each number in the input is replaced by that many copies of the following word:
 
 ![](../.gitbook/assets/image%20%28183%29.png)

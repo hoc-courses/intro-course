@@ -1,4 +1,4 @@
-# Combining List Items
+# Combine - Combining List Items
 
 Let's say you have a list of numbers, such as all the students' grades on a quiz. You want to find the average grade. There are two steps: First, add up all the numbers; then divide that sum by the number of numbers - that is, by the length of the list.
 

@@ -1,4 +1,4 @@
-# Choosing List Items
+# Keep - Choosing List Items
 
 You've probably played Geography, the game in which one player says a place name and the next player has to name another place whose first letter is the last letter of the previous place: Newark, Kentucky, Yonkers, San Francisco, Oklahoma. Have you ever gotten stuck on the letter "A"? Oklahoma, Alabama, Asia, Alaska, America, Alameda... and so on, forever.How many states start and end with the same letter? To find out, we first need a list of all the states:
 
@@ -40,8 +40,4 @@ But if you're playing Geography, the question you really want answered is "Which
 **Try this:**
 
 Write an expression that will select all the words of at least five letters from a list. For example, if the words in the list are `being`, `for`, `the`, `benefit`, `of`, `mister`, and **`kite`**, then your block should choose the words `being`, `benefit`, and `mister`.
-
-Write an expression that takes a list of mixed words and numbers, and selects just the numbers, \(Hint: Look for `is` in the Operators palette.\)
-
-Write an expression that selects from a list of words the ones that start with a vowel. \(Hint: Use `contains` in the Variables palette.\)
 
