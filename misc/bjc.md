@@ -55,14 +55,6 @@ Labs
 1. Build Your Own Blocks
 2. Conditionals and Reporters
 
-Lab Checkoff
-
-![](../.gitbook/assets/image%20%28241%29.png)
-
-![](../.gitbook/assets/image%20%28122%29.png)
-
-![](../.gitbook/assets/image%20%2819%29.png)
-
 Worksheet
 
 1. Worksheet - [Number Representation](https://drive.google.com/file/d/12n30_kl_aWY73e-r5vmiQLM0x59986pJ/view)
@@ -94,19 +86,9 @@ Labs
 1. Abstraction
 2. Lists
 
-![](../.gitbook/assets/image%20%2846%29.png)
-
-Lab-Checkoffs
-
-![](../.gitbook/assets/image%20%28190%29.png)
-
 **Reading from 2015 Course**
 
 [Is Abstraction the Key to Computing?](https://bcourses.berkeley.edu/courses/1371647/files/folder/Readings?preview=59744797)
-
-
-
-
 
 #### Week 3
 
@@ -141,8 +123,6 @@ Discussion
 * [Andrew](https://docs.google.com/presentation/d/1QUzGDz-khRlBozrlN70PUeSSWvYkJ-9UGISgHqxsBRw/edit)
 * [Yolanda](https://docs.google.com/presentation/d/1s52AdHCiYae0IhqAfYVAwinss4hNYGbY60pLz7JTlyw/edit#slide=id.g96998d0cd1_0_741)
 
-![](../.gitbook/assets/image%20%28121%29.png)
-
 Videos
 
 1. [BJC.1x Abstraction: Welcome](https://www.youtube.com/watch?v=K_I9lfpCjSo&list=UUFgeEw03-By2WVDMkqTDRsQ&index=15)
@@ -174,12 +154,6 @@ Videos
 
 {% embed url="https://inst.eecs.berkeley.edu/~cs10/archives.html" %}
 
-### Best one containing all of the material
-
-
-
-### 
-
 {% embed url="https://cs10.org/su19/" %}
 
 ### Really good slides for each lecture
@@ -203,10 +177,6 @@ Videos
 {% embed url="https://cs10.org/su16/" %}
 
 
-
-
-
-![](../.gitbook/assets/image%20%2864%29.png)
 
 All Videos
 

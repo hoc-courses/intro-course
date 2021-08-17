@@ -32,7 +32,7 @@ In that third example, there are two empty boxes in the function, so it's ☐×�
 
   
 **Try this:**  
-In the last activity we made a list of Beatles:
+Start with this list of Beatles:
 
 ![](../.gitbook/assets/image%20%28227%29.png)
 

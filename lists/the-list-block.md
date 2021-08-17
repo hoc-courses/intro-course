@@ -22,14 +22,7 @@ Like any reporter block, the `list` block can be dragged into an input slot of a
 
 The grey rounded rectangle with red rounded rectangles inside it is the visual representation of a list. Each red rectangle is one list item.
 
-The list picture has several extra widgets: a + button, the downarrow, and so on. When a list value is seen in a variable watcher, you can use these controls to modify the contents of the list directly. But we're not doing that for a while, so for now just focus on the values in the red rectangles.  
-  
-**Try these:**  
-What value do you get if you call the `list` block with no inputs? \(Use the left arrow to delete the original input slot.\)
-
-Can you drag other reporters into `list` input slots to compute the list items?
-
-What happens if you drag a `list` block into an input slot that expects a number as input, such as the inputs to the arithmetic operators?
+The list picture has several extra widgets: a + button, the downarrow, and so on. When a list value is seen in a variable watcher, you can use these controls to modify the contents of the list directly. But we're not doing that for a while, so for now just focus on the values in the red rectangles.
 
 ## Why do we Need Lists?
 
@@ -54,12 +47,4 @@ Use the `item random` feature to make a noun phrase by choosing a random article
 Because of the random item choices, we get a different result each time we call `noun phrase`:
 
 ![](../.gitbook/assets/image%20%28174%29.png)
-
-**Try this:**
-
-Create blocks `prepositional phrase`, `verb phrase`, and anything else you need, ending with a `sentence` block that reports sentences like "the little elephant runs excitedly around the big pizza." Can you improve on this so that the sentence structure varies, sometimes including people's names instead of article-adjective-noun phrases, for example? You might want different sentence structures for transitive and intransitive verbs. This is an open-ended project!
-
-Besides lists of words, you'll find uses for lists of numbers, to keep track of your grades in this course, for example, or to represent a sprite's position as a single vector \(list\) containing the X and Y position numbers. And you can even use lists of lists for more complicated data structures:
-
-![](../.gitbook/assets/image%20%2878%29.png)
 
