@@ -1,6 +1,8 @@
 # Curve Stitching \(Optional\)
 
-In this project you will create a mathematical art design and explore its variations.  
+In this project you will create a mathematical art design and explore its variations.
+
+  
 ![Curve stitching design being drawn line by line in each quadrant](https://bjc.edc.org/bjc-r/img/3-lists/Astrid_img/AstridAnimation.gif)
 
 This design uses straight lines to make shapes that look curved and is sometimes sewn with thread or drawn on paper. 
@@ -22,7 +24,11 @@ Below is a partial table of coordinates for the first quadrant of the design, sh
 | \(0, 10\) | \(140, 0\) |
 | \(0, 0\) | \(150, 0\) |
 
-There are many possible approaches to this problem. One approach could use a repeat block adjusting x1,y1 and x2, y2 with each iteration. 
+There are many possible approaches to this problem. One approach is to use a repeat block adjusting x1,y1 and x2, y2 with each iteration. 
+
+Try creating the design in a single quadrant, and then create a curve block that generalizes the solution for any quadrant so that you can build the entire design.
+
+### Extensions
 
 Using the same principles, create a surrounding frame for your design. Both the original curve and the frame are made of four quarter-pictures.  
 ![Curve stitching design with its perimeter frame](https://bjc.edc.org/bjc-r/img/3-lists/Astrid_img/AstridwithPerim.png)
