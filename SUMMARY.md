@@ -59,6 +59,7 @@
   * [Swapping List Values](lists/swapping-list-values.md)
   * [Mutation of Variables](lists/mutation-of-variables.md)
   * [Magic Squares](lists/magic-squares.md)
+  * [Number Cruncher](lists/number-cruncher.md)
 * [Algorithms](algorithms/README.md)
   * [Everybody's Got Algorithms](algorithms/everybodys-got-algorithms.md)
   * [Trash or Treasure?](algorithms/trash-or-treasure.md)
