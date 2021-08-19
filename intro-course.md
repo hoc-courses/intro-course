@@ -1,15 +1,5 @@
 # Intro Course
 
-Prior to their full course, Code Your Future is using available curriculum from the web, and has the students proceed at their own pace independently to cover the introductory topics. The students attend weekly workshops with mentors available to keep them from getting stuck.  Students must successfully complete the Introductory material to proceed to the Full Stack course.
-
-This is the curriculum that they use for the Introductory course.
-
-* Khan Academy - [Intro to JavaScript: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming) 
-* Code.org - [Intro to Programming Course 3](https://studio.code.org/s/course3) 
-* FreeCodeCamp.org - [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
-
-While these resources are good, I will use my own curriculum for this portion of the course, as I think it will be more engaging and I will be able to better meet the needs of students completely new to web development, as well as those that have had prior experience.
-
 ## Curriculum 
 
 Here is a rough outline of the topics that we will cover in the Introductory course. 

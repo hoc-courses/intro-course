@@ -1,19 +1,10 @@
 # Course Overview
 
-I have decided to base the curriculum on the open source project from [Code Your Future](https://codeyourfuture.io/).  It is a coding school based in the UK, that is run by volunteers and targeted toward bringing coding skills to refugees and disadvantaged populations. 
+This course is an introduction to HTML/CSS and programming. It will give you a feel for what web development and programming is all about and allow you to assess whether it is something that you are interested in pursuing in the longer full-stack course that will follow this one. 
 
-Beyond its noble mission, their curriculum, and organization of the content, is top-notch and curated and updated regularly to contain the most relevant and up-to-date material.  It also covers the technologies that are the most important for today's market if you want to have skills that will help you get a job at the end of this course.
+For the introductory course we will focus on fundamental HTML/CSS skills and an introduction to programming using Snap!, a visual programming language created at UC Berkeley. It is based on the Scratch programming language, but has more features to support advanced Computer Science topics and is used in their Introduction to Computer Science course.
 
-![](.gitbook/assets/image%20%2888%29.png)
+For the full stack course, I will be using my curriculum in combination with an open source project, called  [Code Your Future](https://codeyourfuture.io/).  It is a coding school based in the UK, that is run by volunteers and targeted toward bringing coding skills to refugees and disadvantaged populations. 
 
-![](.gitbook/assets/image%20%28102%29.png)
-
-They offer three phases to their program. It isn't until the third phase, the Full Stack Development Course, where they are using their own curriculum. 
-
-I will follow their schedule and start with a four week course that blends their _Intro to Coding Course_ and their _Fundamentals Course_ together.
-
-* [Intro Course Overview](intro-course.md)
-* [Full Stack Course Overview](full-stack-course.md)
-
-At the end of the Intro Course, it will be a good point to re-assess whether you want to continue and are committed to the longer, more intense Full Stack Course. We'll likely take a short break \(a week or two\) and then continue.
+Beyond its noble mission, their curriculum, and organization of the content, is top-notch and curated and updated regularly to contain the most relevant and up-to-date material.  It covers the technologies that are the most important for today's market if you want to have skills that will help you get a job at the end of this course.
 
