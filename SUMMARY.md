@@ -34,6 +34,7 @@
   * [Composition of Blocks](loops-and-custom-blocks/composition-of-blocks.md)
   * [Draw a Field of Flowers](loops-and-custom-blocks/draw-a-field-of-flowers.md)
   * [Geometric Designs \(Optional\)](loops-and-custom-blocks/extra-challenge-optional.md)
+  * [Composition of Blocks \(Optional\)](loops-and-custom-blocks/composition-of-blocks-optional.md)
 * [Conditionals & Reporters](conditionals/README.md)
   * [Simple Predicates - Comparison Operators](conditionals/comparison-predicates.md)
   * [If and If-Else](conditionals/conditionals.md)

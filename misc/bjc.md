@@ -238,5 +238,35 @@ TEALS Intro CS Curriculum
 
 {% embed url="https://tealsk12.gitbook.io/intro-cs/" %}
 
+Vanderbilt Version
+
+{% embed url="https://github.com/cliffordanderson/cs1000" %}
+
+Snap Concepts
+
+Good questions for loops quiz
+
+{% embed url="https://www.g-wlearning.com/informationtechnology/0565/ch06/extension.htm" %}
+
+
+
+{% embed url="https://www.dummies.com/programming/coding-for-kids/teach-kids-code-nesting-loops/" %}
+
+
+
+{% embed url="http://www.clausentech.com/lchs/dclausen/intro\_programming/Lectures/Scratch/Selection%20Branching%20IF%20If%20Else%20DC.pdf" %}
+
+
+
+{% embed url="http://www.truncale.net/scratch-loops-and-ifs.html" %}
+
+
+
+{% embed url="https://apprize.best/programming/scratch/index.html" %}
+
+
+
+{% embed url="https://apprize.best/programming/scratch/8.html" %}
+
 
 
