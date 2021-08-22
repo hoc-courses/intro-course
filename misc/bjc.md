@@ -242,7 +242,39 @@ Vanderbilt Version
 
 {% embed url="https://github.com/cliffordanderson/cs1000" %}
 
+Another Curriculum
+
+{% embed url="http://opensask.ca/index.html" %}
+
+Scratch to Snap! Converter
+
+{% embed url="https://snapinator.github.io/\#" %}
+
+
+
 Snap Concepts
+
+{% embed url="http://code-it.co.uk/goldgame/" %}
+
+FizzBuzz in Scratch
+
+{% embed url="https://www.futurelearn.com/info/courses/block-to-text-based-programming/0/steps/39492" %}
+
+
+
+Really good practice loops for lecture
+
+{% embed url="https://docs.google.com/forms/d/10nssykL8UL-px0nlot\_FZHd\_DdVrKFKEQd6w9mIrjxc/edit" %}
+
+
+
+{% embed url="http://code-it.co.uk/wp-content/uploads/2019/01/sequencerepetitionactivities2A5v2.pdf" %}
+
+
+
+{% embed url="http://code-it.co.uk/2d-shapes/" %}
+
+
 
 Good questions for loops quiz
 

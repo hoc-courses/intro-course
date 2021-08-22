@@ -18,7 +18,7 @@ Make your own art. Explore a few different combinations of shape and color. Take
 
 ## Random Shapes
 
-To add some randomness to your drawings try using the[ random reporter ]()in your calls to your shape commands:
+To add some randomness to your drawings try using the[ ]()random reporter in your calls to your shape commands:
 
 ![](../.gitbook/assets/image%20%28326%29.png)
 
@@ -26,43 +26,5 @@ Here are some ideas:
 
 _\*\*\*\*_![](https://github.com/hoc-labs/images/blob/main/random-polys-2.png?raw=true) ![](https://github.com/hoc-labs/images/blob/main/random-polys-3.png?raw=true) ![](https://github.com/hoc-labs/images/blob/main/random-polys-4.png?raw=true) ![](https://github.com/hoc-labs/images/blob/main/just-reds.png?raw=true) ![](https://github.com/hoc-labs/images/blob/main/AbstractArtReflect.png?raw=true) 
 
-## Nested Squares
 
-Build a **nest squares** block that uses a **for loop** block and your **draw square** block to draw nested squares. 
-
-Give it the following input parameters:
-
-* num squares: how many squares to draw
-* initial length: the starting size of the squares
-* increase: how much to increase the size of the square on each iteration
-
-![](https://github.com/hoc-labs/images/blob/main/concentric-squares.png?raw=true)
-
-Extend it to fill the squares:
-
-![](../.gitbook/assets/image%20%28313%29.png)
-
-To randomly change the colors, or use other advanced color tools, you will need to import the colors library, which offers many ways to change colors. A color is made up of three values between 1-255, representing the amount of red, green, and blue in the color.
-
-Here is one example:
-
-![](../.gitbook/assets/image%20%28343%29.png)
-
-#### Importing Colors Extensions
-
-![](../.gitbook/assets/image%20%28328%29.png)
-
-![](../.gitbook/assets/image%20%28336%29.png)
-
-### Resources
-
-{% embed url="https://snap.berkeley.edu/doc/color-proposal.pdf" %}
-
-
-
-#### Some interesting drawing projects
-
-* [Art Horns](https://snap.berkeley.edu/snap/snap.html#present:Username=bh&ProjectName=art-horns&editMode&noRun)
-* [Filography](https://snap.berkeley.edu/snap/snap.html#present:Username=xleroy&ProjectName=19-filography&editMode&noRun)
-* [BridgetRiley](https://snap.berkeley.edu/snap/snap.html#present:Username=uoc_tpi&ProjectName=BridgetRiley_&editMode&noRun)
 

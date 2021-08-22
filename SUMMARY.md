@@ -30,11 +30,15 @@
   * [Custom Command Blocks](loops-and-custom-blocks/custom-command-blocks.md)
   * [Input Parameters](loops-and-custom-blocks/input-parameters.md)
   * [Drawing Polygons Project](loops-and-custom-blocks/drawing-project.md)
-  * [More Art \(Optional\)](loops-and-custom-blocks/more-art-optional.md)
   * [Composition of Blocks](loops-and-custom-blocks/composition-of-blocks.md)
   * [Draw a Field of Flowers](loops-and-custom-blocks/draw-a-field-of-flowers.md)
   * [Geometric Designs \(Optional\)](loops-and-custom-blocks/extra-challenge-optional.md)
   * [Composition of Blocks \(Optional\)](loops-and-custom-blocks/composition-of-blocks-optional.md)
+  * [Nested Squares Art \(Optional\)](loops-and-custom-blocks/nested-squares-art-optional.md)
+  * [Optical Illusion \(Optional\)](loops-and-custom-blocks/optical-illusion-optional.md)
+  * [Draw Horns \(Optional\)](loops-and-custom-blocks/draw-horns-optional.md)
+  * [Filography Thread Designs \(Optional\)](loops-and-custom-blocks/filography-thread-designs-optional.md)
+  * [More Art \(Optional\)](loops-and-custom-blocks/more-art-optional.md)
 * [Conditionals & Reporters](conditionals/README.md)
   * [Simple Predicates - Comparison Operators](conditionals/comparison-predicates.md)
   * [If and If-Else](conditionals/conditionals.md)
@@ -126,6 +130,7 @@
 ## Resources
 
 * [Snap Resources](resources/snap-resources.md)
+* [Advance Colors in Snap!](resources/advance-colors-in-snap.md)
 * [Snap!](https://snap.berkeley.edu/snap/snap.html)
 * [Google Classroom](https://classroom.google.com/w/MzczNjI3NDg0ODU0/t/all)
 

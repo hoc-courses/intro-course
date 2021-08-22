@@ -9,9 +9,9 @@ From our earlier work we have several scripts that perform very similar instruct
 * Hexagon
 * Octagon
 
-Due to the nature of how the exterior angles of a regular polygon add up to 360 degrees, we can calculate the amount of rotation for any regular polygon by dividing 360 by the number of sides.
+The exterior angles of a regular polygon add up to 360 degrees. So we can calculate the amount of rotation for any regular polygon by dividing 360 by the number of sides.
 
-![](../.gitbook/assets/image%20%28368%29.png)
+![](../.gitbook/assets/image%20%28369%29.png)
 
 ![](../.gitbook/assets/image%20%28307%29.png)
 
