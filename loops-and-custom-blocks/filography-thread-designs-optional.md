@@ -1,4 +1,4 @@
-# Filography Thread Designs \(Optional\)
+# Thread Designs -Trigonometry \(Optional\)
 
 ![](../.gitbook/assets/image%20%28371%29.png)
 

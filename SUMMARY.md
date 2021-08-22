@@ -37,7 +37,7 @@
   * [Nested Squares Art \(Optional\)](loops-and-custom-blocks/nested-squares-art-optional.md)
   * [Optical Illusion \(Optional\)](loops-and-custom-blocks/optical-illusion-optional.md)
   * [Draw Horns \(Optional\)](loops-and-custom-blocks/draw-horns-optional.md)
-  * [Filography Thread Designs \(Optional\)](loops-and-custom-blocks/filography-thread-designs-optional.md)
+  * [Thread Designs -Trigonometry \(Optional\)](loops-and-custom-blocks/filography-thread-designs-optional.md)
   * [More Art \(Optional\)](loops-and-custom-blocks/more-art-optional.md)
 * [Conditionals & Reporters](conditionals/README.md)
   * [Simple Predicates - Comparison Operators](conditionals/comparison-predicates.md)
