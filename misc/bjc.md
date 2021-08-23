@@ -300,5 +300,9 @@ Good questions for loops quiz
 
 {% embed url="https://apprize.best/programming/scratch/8.html" %}
 
+Another University Course using Scratch
+
+{% embed url="http://pages.cs.wisc.edu/~dusseau/Classes/CS202-F11/index.html" %}
+
 
 
