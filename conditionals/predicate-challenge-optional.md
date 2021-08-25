@@ -1,6 +1,6 @@
 # Predicate Challenge \(Optional\)
 
-Read this script carefully, and make sure you understand why it produces this picture on the stage: \(click [here ](https://snap.berkeley.edu/snap/snap.html#present:Username=annechinn&ProjectName=predicate%20dots)for a copy of the script\)
+Read this script carefully, and make sure you understand why it produces this picture on the stage: \(click [here ](https://snap.berkeley.edu/snap/snap.html#present:Username=annechinn&ProjectName=predicate%20dots%20starter)for a copy of the script\)
 
 ![](../.gitbook/assets/image%20%28335%29.png) ![](../.gitbook/assets/image%20%28322%29.png) 
 
