@@ -30,8 +30,6 @@ Let's try making a few blocks that use if and if-else.
 
 * Make a ![](../.gitbook/assets/image%20%28216%29.png) block that when given a light color, makes the sprite say the appropriate action. For example ![](../.gitbook/assets/image%20%28244%29.png) should say "go!"
 * Make a ![](../.gitbook/assets/image%20%28230%29.png) block that takes in a percentage and makes the sprite say the associated letter grade. For example, ![](../.gitbook/assets/image%20%28260%29.png) should say "C."
-  * &lt; 60: F
-  * 60-69: D
   * 70-79: C
   * 80-89: B
   * 90-100: A
