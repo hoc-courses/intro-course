@@ -60,3 +60,9 @@ However, when "or" is used in a predicate, we assume that it is "inclusive"  Thi
 
  If we were out of both eggs and milk, we'd almost certainly still want to go to the store\). 
 
+### Resources
+
+{% embed url="https://www.youtube.com/watch?v=9EY\_XoEImjM" %}
+
+
+
