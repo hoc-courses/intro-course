@@ -36,9 +36,6 @@ Using the same principles, create a surrounding frame for your design. Both the 
 Add another copy of the design slanted at 45° as shown below.  
 ![8 spiked curve stitching design](https://bjc.edc.org/bjc-r/img/3-lists/Astrid_img/Astrid2.png)
 
-You could use the Pythagorean Theorem:  
-![First quadrant triangle with hypotenuse 1 in a unit circle](https://bjc.edc.org/bjc-r/img/3-lists/Astrid_img/Pythagoras1.png) ![Application of Pythagorean Theorem to triangle with hypotenuse 1 using algebra to show that other sides are each square root\(2\)/2](https://bjc.edc.org/bjc-r/img/3-lists/Astrid_img/Pythagoras2.png)
-
 Here are some more variations that employ color and more complex geometric arrangements. Create these and your own variations in Snap_!_.  
 ![Colored 12 spike curve stitching design](https://bjc.edc.org/bjc-r/img/3-lists/Astrid_img/30-60Astrid.png) ![Multi-colored 8 spike curve stitching design in a perimeter frame](https://bjc.edc.org/bjc-r/img/3-lists/Astrid_img/ColoredAstrid.png) ![Constellation of curve stitching design](https://bjc.edc.org/bjc-r/img/3-lists/Astrid_img/AstridVariation.png)
 
