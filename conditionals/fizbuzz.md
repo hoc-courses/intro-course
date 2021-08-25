@@ -1,4 +1,4 @@
-# FizBuzz
+# FizBuzz \(Optional\)
 
 Write the code to iterate through the numbers 1 to 100 and do the following:
 
