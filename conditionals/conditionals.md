@@ -22,7 +22,7 @@ A **nested conditional statement** is an `if` or `if else` statement inside the 
 
 Describe what this code segment will do.
 
-![](../.gitbook/assets/image%20%28294%29.png)
+![](../.gitbook/assets/image%20%28370%29.png)
 
 ## Create If If-Else Blocks
 
