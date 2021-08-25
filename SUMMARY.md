@@ -49,6 +49,7 @@
   * [Custom Predicate Blocks](conditionals/custom-predicate-blocks.md)
   * [Take an Umbrella Predicate](conditionals/take-an-umbrella-predicate.md)
   * [The Guessing Game](conditionals/the-guessing-game-project.md)
+  * [FizBuzz](conditionals/fizbuzz.md)
 * [Abstraction](abstraction/README.md)
   * [The DRY Principle](abstraction/the-dry-principle.md)
   * [Brick Wall Project](abstraction/brick-wall-project.md)

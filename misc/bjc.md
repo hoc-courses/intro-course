@@ -2,10 +2,6 @@
 
 {% embed url="http://cs10.org/su19/assign.html?https://docs.google.com/document/d/e/2PACX-1vQ2e81m2AavsfmzaZjU\_3w2s67nJecsKhpPDrQ2CrYOXqYY8v18-wycUsMhFPUhofnjjLBtewrNXTgr/pub" %}
 
-Lab work is designed to be completed during your lab sections, but can be worked on at any time. You are highly highly encouraged to complete lab work with a partner! In order to get credit for your lab, you will complete a lab check off, during which a staff member will ask you short questions that assess your progress and help you review material. Completion of the corresponding lab check off will count as a submission for the lab. Lab check offs must be done in-person, either during lab or office hours.
-
-Every lab is due two lab periods after it’s assigned, so if a lab is assigned during the Monday lab, it is due at the end of the Wednesday lab. Completing a lab check off on time will get you 3 points on the lab. If you miss the deadline, you can still get points on the lab: no matter how late you get it checked off, you will receive 1.5 points for a late check-off. At the end of the semester, we will drop your lowest lab score, and automatically convert two late labs to full credit.
-
 **Week 1**
 
 **Slides**
@@ -256,7 +252,21 @@ Snap Concepts
 
 {% embed url="http://code-it.co.uk/goldgame/" %}
 
+Translation into JavaScript
+
+{% embed url="https://forum.snap.berkeley.edu/t/can-i-translate-my-snap-project-to-a-text-based-language/4541" %}
+
+AP Computer Science Teacher Youtube video playlist
+
+{% embed url="https://www.youtube.com/watch?v=0AUYaLo64iI&list=PLB4QHW2Xn52YRhA-youspDttJjz4ERUDM" %}
+
+
+
 FizzBuzz in Scratch
+
+{% embed url="https://www.youtube.com/watch?v=E8nDF\_wO7ds" %}
+
+
 
 {% embed url="https://www.futurelearn.com/info/courses/block-to-text-based-programming/0/steps/39492" %}
 
