@@ -6,7 +6,7 @@ Read this script carefully, and make sure you understand why it produces this pi
 
 
 
-What predicate would generate the following:
+Modify the script to generate the following:
 
 ![](../.gitbook/assets/image%20%28333%29.png) 
 
