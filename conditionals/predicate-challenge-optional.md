@@ -8,7 +8,7 @@ Read this script carefully, and make sure you understand why it produces this pi
 
 Modify the script to generate the following:
 
-![](../.gitbook/assets/image%20%28333%29.png) 
+![](../.gitbook/assets/image%20%28333%29.png) ![](../.gitbook/assets/image%20%28367%29.png) 
 
 ![](../.gitbook/assets/image%20%28339%29.png)![](../.gitbook/assets/image%20%28329%29.png) 
 
