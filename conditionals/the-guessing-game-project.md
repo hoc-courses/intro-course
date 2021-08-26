@@ -12,7 +12,7 @@ In the code sample below, we have implemented a simple number-guessing game. The
 
 **Challenge \#1**: The sprite should welcome the player and ask for their name before beginning. Something like the following:
 
-![](../.gitbook/assets/image%20%28372%29.png)
+![](../.gitbook/assets/image%20%28373%29.png)
 
 **Challenge \#2**: If they guess incorrectly, the sprite should tell them that they are incorrect, using their name. For example, if Colleen is playing the game, the sprite should say something like `Sorry Colleen, that is not the right answer.` before asking them to guess again.  
   
