@@ -21,14 +21,7 @@ We often summarize the behavior of predicates like `and`, `or`, and `not` using 
 
 Here is the truth table for **`and`**:
 
-#### A AND B
-
-| A | B | A and B |
-| :--- | :--- | :--- |
-| F | F | F |
-| F | T | F |
-| T | F | F |
-| T | T | T |
+![](../.gitbook/assets/image%20%28369%29.png)
 
 Here, A and B are the two inputs to the `and` block. The `and` block only accepts boolean values, so A and B are either `true` \(T\) or `false` \(F\). 
 
@@ -36,14 +29,7 @@ Reading across each row tells us what `A and B` will output, given particular va
 
 Here are the truth tables for **`or`** and **`not`**:
 
-#### A OR B
-
-| A | B | A or B |
-| :--- | :--- | :--- |
-| F | F | F |
-| F | T | T |
-| T | F | T |
-| T | T | T |
+![](../.gitbook/assets/image%20%28377%29.png)
 
 #### NOT A
 

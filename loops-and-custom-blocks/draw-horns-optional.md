@@ -1,6 +1,6 @@
 # Draw Horns \(Optional\)
 
-![](../.gitbook/assets/image%20%28372%29.png)
+![](../.gitbook/assets/image%20%28374%29.png)
 
 To work with more advanced color setting, see this [resource](../resources/advance-colors-in-snap.md).
 
