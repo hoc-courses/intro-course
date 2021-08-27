@@ -39,5 +39,9 @@ Add another copy of the design slanted at 45° as shown below.
 Here are some more variations that employ color and more complex geometric arrangements. Create these and your own variations in Snap_!_.  
 ![Colored 12 spike curve stitching design](https://bjc.edc.org/bjc-r/img/3-lists/Astrid_img/30-60Astrid.png) ![Multi-colored 8 spike curve stitching design in a perimeter frame](https://bjc.edc.org/bjc-r/img/3-lists/Astrid_img/ColoredAstrid.png) ![Constellation of curve stitching design](https://bjc.edc.org/bjc-r/img/3-lists/Astrid_img/AstridVariation.png)
 
+### Resources
+
+{% embed url="https://www.youtube.com/watch?v=RiDoN5nxyKE&t=1319s" %}
+
 
 
