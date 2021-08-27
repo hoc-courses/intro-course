@@ -10,7 +10,7 @@ You are going to draw this brick wall:
 * mortar \(space in between\): 4
 * six blocks per row
 
-Calculations
+**Calculations**
 
 * Row A: 30x6 = 180 for full blocks + 4x5 for mortar = 200
 * Row B: 30x5 = 150 for full blocks + 4x6 for mortar = 174 for full blocks, 200 - 174 = 26/2, or 13 for each half block.
