@@ -4,6 +4,17 @@ You are going to draw this brick wall:
 
 ![Sample image of brick wall](https://beautyjoy.github.io/bjc-r/img/abstraction/new-brickwall/wall.png)
 
+#### Initial Specification
+
+* full block: 30
+* mortar \(space in between\): 4
+* six blocks per row
+
+Calculations
+
+* Row A: 30x6 = 180 for full blocks + 4x5 for mortar = 200
+* Row B: 30x5 = 150 for full blocks + 4x6 for mortar = 174 for full blocks, 200 - 174 = 26/2, or 13 for each half block.
+
 ### Abstraction
 
 In this problem, you will build an abstraction for drawing a brick wall, first by creating ![draw-brick](https://beautyjoy.github.io/bjc-r/img/abstraction/new-brickwall/draw-brick.png), then blocks for drawing rows, and ultimately the goal: ![draw-brick-wall-n](https://beautyjoy.github.io/bjc-r/img/abstraction/new-brickwall/draw-brick-wall-num.png).
@@ -20,9 +31,9 @@ For this project you're going to turn off the rounded ends. Click on the setting
 
 You need to build the following blocks:
 
-* **Draw Brick:** which draws a single brick. 
+* **Draw Brick:** which draws a single brick. Let's start with 30 units.
 * **Draw Small Brick:** which draws the small brick for the edges of row B. Note that this brick will not be exactly half as long as the full brick. Part of this assignment is figuring out how long the “small brick” should be. 
-* **Draw Mortar:** which draws a space between each brick or small brick.
+* **Draw Mortar:** which draws a space between each brick or small brick. Lets start with 4 units.
 
 ### **Level 2: Drawing Rows: \(middle level of abstraction\)** 
 
