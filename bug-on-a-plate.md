@@ -4,7 +4,7 @@
 
 **Step 1 -** **Respond to left, right, up and down arrows.** 
 
-For example, here is the event handler for the left-arrow key being pressed:  ![](.gitbook/assets/image%20%28390%29.png) You will need to make sure that the bug is not moving beyond the boundary of the stage. For example, if the left-arrow is clicked, then the bug should only move if the bug's x-position is greater than then left edge of the main playing area \(have to take into account the left margin that has the game stats\).
+For example, here is the event handler for the left-arrow key being pressed:  ![](.gitbook/assets/image%20%28391%29.png) You will need to make sure that the bug is not moving beyond the boundary of the stage. For example, if the left-arrow is clicked, then the bug should only move if the bug's x-position is greater than then left edge of the main playing area \(have to take into account the left margin that has the game stats\).
 
 * left edge: -160
 * right edge: 230
@@ -55,7 +55,7 @@ Go to the Timer sprite and remove the hide command, make sure it is visible, by 
 
 Initialize the stage to start with the click to start costume. Then, respond to the click event on the stage, and if it's still set to the click to start costume, then switch to the "game" costume, and start the countdown timer. Once the countdown timer reaches 0, switch the costume back to "click to start".
 
-![](.gitbook/assets/image%20%28383%29.png)
+![](.gitbook/assets/image%20%28381%29.png)
 
 * only allow the the bug to crawl if countdown timer is greater than 0
 * only allow the check to see if the fruit is touching the bug to occur if the countdown timer &gt; 0.
