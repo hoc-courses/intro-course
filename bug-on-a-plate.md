@@ -1,5 +1,7 @@
 # Bug on a Plate
 
+Click [here ](https://snap.berkeley.edu/snap/snap.html#present:Username=annechinn&ProjectName=BugOnAPlate%20-%20Starter)for starter project.
+
 ## Move Bug Around on Stage
 
 **Step 1 -** **Respond to left, right, up and down arrows.** 
@@ -59,4 +61,14 @@ Initialize the stage to start with the click to start costume. Then, respond to 
 
 * only allow the the bug to crawl if countdown timer is greater than 0
 * only allow the check to see if the fruit is touching the bug to occur if the countdown timer &gt; 0.
+
+### Solutions
+
+Try not to look at the solutions before working through as much as you can on your own.
+
+* [Moving bug on stage](https://snap.berkeley.edu/snap/snap.html#present:Username=annechinn&ProjectName=BugOnAPlate%20-%20Step%201%20-%20Move%20Bug%20on%20Stage)
+* [Move fruit to new location on hit](https://snap.berkeley.edu/snap/snap.html#present:Username=annechinn&ProjectName=BugOnAPlate%20-%20Step%202%20-%20Move%20Fruit%20on%20Hit)
+* [Keeping score](https://snap.berkeley.edu/snap/snap.html#present:Username=annechinn&ProjectName=BugOnAPlate%20-%20Step%203%20-%20Keep%20Score)
+* [Countdown timer](https://snap.berkeley.edu/snap/snap.html#present:Username=annechinn&ProjectName=BugOnAPlate%20-%20Step%204%20-%20Keep%20Time)
+* [Game state](https://snap.berkeley.edu/snap/snap.html#present:Username=annechinn&ProjectName=BugOnAPlate%20-%20Step%205%20-%20Game%20is%20Running)
 
