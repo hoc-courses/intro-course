@@ -26,6 +26,7 @@ Go to the Fruit sprite and remove the hide command, make sure it is visible by c
 * a forever loop to continually check to see if the fruit is touching the bug.
 * if it is, then
   * hide the fruit
+  * play the "pop" sound
   * go to a random x,y position on the screen
     * x should be between -160 and 230
     * y should be between -170 and 170.
