@@ -79,6 +79,11 @@ We're going to add the capability to our game to display the top score across se
 * Use the **max** reporter and the **combine** block to get the max score out of the scores list.
 * Assign the max score to the top score variable.
 
+## Extra Challenge
+
+* have the bug draw a trail as it crawls and if it crosses the trail it gets a point subtracted.
+* add the dustbin sprite to the left and allow the user to click it three times to erase the trail.
+
 ### Solutions
 
 Try not to look at the solutions before working through as much as you can on your own.
