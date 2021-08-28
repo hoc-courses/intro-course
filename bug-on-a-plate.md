@@ -95,5 +95,3 @@ Try not to look at the solutions before working through as much as you can on yo
 * [Game state](https://snap.berkeley.edu/snap/snap.html#present:Username=annechinn&ProjectName=BugOnAPlate%20-%20Step%205%20-%20Game%20is%20Running)
 * [Top Score](https://snap.berkeley.edu/snap/snap.html#present:Username=annechinn&ProjectName=BugOnAPlate%20-%20Step%206%20-%20Top%20Scores)
 
-
-
