@@ -55,7 +55,9 @@ Go to the Timer sprite and remove the hide command, make sure it is visible, by 
 
 ## Keep track of Game State
 
-Initialize the stage to start with the click to start costume. Then, respond to the click event on the stage, and if it's still set to the click to start costume, then switch to the "game" costume, and start the countdown timer. Once the countdown timer reaches 0, switch the costume back to "click to start".
+The stage has two costumes. One that says "Bug on Plate" and the other that says "Click to start". We want to start off with the "Click to Start" costume, and then if the user clicks the stage when that one is active, switch to the other one, and then start the countdown timer sequence.
+
+Once the countdown timer reaches 0, switch the costume back to "click to start".
 
 ![](.gitbook/assets/image%20%28381%29.png)
 
@@ -71,4 +73,6 @@ Try not to look at the solutions before working through as much as you can on yo
 * [Keeping score](https://snap.berkeley.edu/snap/snap.html#present:Username=annechinn&ProjectName=BugOnAPlate%20-%20Step%203%20-%20Keep%20Score)
 * [Countdown timer](https://snap.berkeley.edu/snap/snap.html#present:Username=annechinn&ProjectName=BugOnAPlate%20-%20Step%204%20-%20Keep%20Time)
 * [Game state](https://snap.berkeley.edu/snap/snap.html#present:Username=annechinn&ProjectName=BugOnAPlate%20-%20Step%205%20-%20Game%20is%20Running)
+
+
 
