@@ -6,7 +6,7 @@ Click [here ](https://snap.berkeley.edu/snap/snap.html#present:Username=annechin
 
 **Step 1 -** **Respond to left, right, up and down arrows.** 
 
-For example, here is the event handler for the left-arrow key being pressed:  ![](.gitbook/assets/image%20%28391%29.png) You will need to make sure that the bug is not moving beyond the boundary of the stage. For example, if the left-arrow is clicked, then the bug should only move if the bug's x-position is greater than then left edge of the main playing area \(have to take into account the left margin that has the game stats\).
+For example, here is the event handler for the left-arrow key being pressed:  ![](.gitbook/assets/image%20%28392%29.png) You will need to make sure that the bug is not moving beyond the boundary of the stage. For example, if the left-arrow is clicked, then the bug should only move if the bug's x-position is greater than then left edge of the main playing area \(have to take into account the left margin that has the game stats\).
 
 * left edge: -160
 * right edge: 230
@@ -64,6 +64,20 @@ Once the countdown timer reaches 0, switch the costume back to "click to start".
 
 * only allow the the bug to crawl if countdown timer is greater than 0
 * only allow the check to see if the fruit is touching the bug to occur if the countdown timer &gt; 0.
+
+## Top Score
+
+We're going to add the capability to our game to display the top score across several games. We'll display it in the upper right corner.
+
+![](.gitbook/assets/image%20%28389%29.png)
+
+* Create a variable of type list, called scores, to keep all of the scores for each game as they are played.
+* Create a variable, called top score, to keep the top score across multiple runs of the game. This is just clicking the "Click to Start" button multiple times, not the Green Flag.
+* Display the top score variable in the upper right of the stage.
+* Each time after the countdown timer runs out, add the current score to the list of scores.
+* Create a reporter, called max, that returns the max of two numbers.
+* Use the **max** reporter and the **combine** block to get the max score out of the scores list.
+* Assign the max score to the top score variable.
 
 ### Solutions
 
