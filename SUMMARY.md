@@ -50,6 +50,7 @@
   * [Take an Umbrella Predicate](conditionals/take-an-umbrella-predicate.md)
   * [The Guessing Game](conditionals/the-guessing-game-project.md)
   * [FizBuzz \(Optional\)](conditionals/fizbuzz.md)
+* [Bug on a Plate](bug-on-a-plate.md)
 * [Abstraction](abstraction/README.md)
   * [The DRY Principle](abstraction/the-dry-principle.md)
   * [Brick Wall Project](abstraction/brick-wall-project.md)
