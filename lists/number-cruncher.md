@@ -1,16 +1,23 @@
 # Number Cruncher
 
+Click on this [starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=annechinn&ProjectName=test%20lists%20-%20starter).
+
+Your tasks is to implement each of the list functions below:
+
+![](../.gitbook/assets/image%20%28394%29.png)
+
+There are a series of tests that you should run to make sure all of your functions work correctly.
+
 ### Summarizing Numbers <a id="summarizing-numbers"></a>
 
-1. Write a custom SNAP reporter block called "sum" that takes a list as an argument and reports the sum of all the numbers in the list. You can assume that all items in the list passed as the argument will be numbers, though you should not assume anything else.
-2. Write a custom SNAP reporter block called "average" that takes a list as an argument and reports the average of all the numbers in the list. As above, you can assume that all items in the list passed as the argument will be numbers, but you should not assume anything else.
-3. Write a custom SNAP predicate block called "includes negative" that takes a list as an argument and reports true if the list contains at least one negative number, and false if all numbers are non-negative.
-4. Write a custom SNAP predicate block called "increasing?" that takes a list of numbers as an argument and reports true if each value in the list is greater than or equal to the one before it.
-5. Write a custom SNAP reporter block called "maximum" that takes a list as an argument and reports the largest number in the list.
+* Implement the custom SNAP reporter block called "**sum of**" that takes a list as an argument and reports the sum of all the numbers in the list. 
+* Implement the custom SNAP reporter block called "**average of**" that takes a list as an argument and reports the average of all the numbers in the list.
+* Implement the custom SNAP reporter block called "**max of**" that takes a list as an argument and reports the largest number in the list.
+* Implement the custom SNAP predicate block called "**is increasing**" that takes a list of numbers as an argument and reports true if each value in the list is greater than or equal to the one before it.
 
 ### Transforming Lists <a id="transforming-lists"></a>
 
-1. Write a custom SNAP reporter block called "make all positive" that takes a list of numbers as an argument and reports a new list that is the same as the argument, except all negative numbers have been replaced by their absolute value.
-2. Write a custom SNAP reporter block called "only evens" that takes a list of integers as an argument and reports a new list that contains only the even numbers from the argument list. The result list should have its values in the same order as the original list, but with the odd integers removed. \(Remember that "mod" block can be useful in determining whether or not a number is even.\)
-3. BONUS: Write a custom SNAP reporter block called "add all" that takes two list of numbers as arguments and returns a new list that contains the sum of the corresponding values in each argument list. For example, if the arguments to "add all" are \(1, 4, 6\) and \(2, 2, 3\), the result should be \(3, 6, 9\). You can assume the two lists will be the same size.
+* Implement the custom SNAP reporter block called "**filter less than num**" that takes a number and a list of numbers as arguments and reports a new list that contains only those elements in the original list that are less than the number provided.
+* Implement the custom SNAP reporter block called "**reverse list**" that takes a list of numbers and returns a list that contains the same elements, but in the reverse order.
+* **Extra challenge**: implement reverse list in-place, meaning that you do not create a new list, but instead replace the items in the list passed in. **hint**: you will need a temporary variable.
 
