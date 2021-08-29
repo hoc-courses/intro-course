@@ -6,7 +6,7 @@ First, we're going to create a list of words from which we will randomly pick a 
 
 Here is the [starter project ](https://snap.berkeley.edu/snap/snap.html#present:Username=annechinn&ProjectName=Guess%20My%20Word%20-%20Starter)that contains the list of words.
 
-* create a variable called **word to guess** and initialize it a list of the characters from one of the words in the world-list. Use the **item \[random\] of list** block. And then use the split operator to break it up into a list of letters.
+* create a variable called **word to guess** and initialize it a list of the characters from one of the words in the world-list. Use the **item \[random\] of list** block. And then use the split operator to break it up into a list of letters. having both the word to guess and the word progress both be lists of characters will make the processing easier.
 
 ## Track Word Progress and Guessed Letters
 
