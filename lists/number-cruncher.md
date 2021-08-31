@@ -21,3 +21,7 @@ There are a series of tests that you should run to make sure all of your functio
 * Implement the custom SNAP reporter block called "**reverse list**" that takes a list of numbers and returns a list that contains the same elements, but in the reverse order.
 * **Extra challenge**: implement reverse list in-place, meaning that you do not create a new list, but instead replace the items in the list passed in. **hint**: you will need a temporary variable.
 
+Solutions
+
+Here's a [link ](https://snap.berkeley.edu/snap/snap.html#present:Username=annechinn&ProjectName=test%20lists%20-%20solution)to the solution for these problems.
+
