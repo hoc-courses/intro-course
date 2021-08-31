@@ -32,6 +32,8 @@ Create a **repeat until** block that asks for a new guess, stores the result in 
 
 ![](../.gitbook/assets/image%20%28399%29.png)
 
+## Further Enhancements
+
 Add say blocks to inform the player of their progress after each guess.
 
 * if they guess the same letter again
@@ -40,10 +42,7 @@ Add say blocks to inform the player of their progress after each guess.
 
 ![](../.gitbook/assets/image%20%28398%29.png)
 
-## Further Enhancements
+Add a max guess count and track how many incorrect guesses they have made, and exit the main loop if they reach the max guess count.
 
-* add a max guess count and track how many incorrect guesses they have made, and exit the main loop if they reach the max guess count.
-* add an outer loop that asks the player if he wants to play again after reaching max guess count, or getting all the letters correct.
-
-## 
+Add an outer loop that asks the player if he wants to play again after reaching max guess count, or getting all the letters correct.
 
