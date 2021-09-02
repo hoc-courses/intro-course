@@ -32,7 +32,7 @@ write a function that returns the sum of the items in a list using for and combi
 
 add to lists lecture
 
-![](.gitbook/assets/image%20%28351%29.png)
+![](../../.gitbook/assets/image%20%28351%29.png)
 
 {% embed url="https://learning.edx.org/course/course-v1:BerkeleyX+BJC.34x+3T2017/block-v1:BerkeleyX+BJC.34x+3T2017+type@sequential+block@aad0dead27c14d37a663ce01261f89e5/block-v1:BerkeleyX+BJC.34x+3T2017+type@vertical+block@f25bb50cb78d4673975e53bb8e36c16a" %}
 
@@ -54,5 +54,5 @@ Find duplicates
 
 
 
-![](.gitbook/assets/image%20%28354%29.png)
+![](../../.gitbook/assets/image%20%28354%29.png)
 

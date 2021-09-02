@@ -1,6 +1,6 @@
 # Trash or Treasure?
 
-![](../.gitbook/assets/image%20%28155%29.png)
+![](../../../.gitbook/assets/image%20%28155%29.png)
 
  There will very often be more than one way to solve a particular problem. Let's consider a chef's algorithms: recipes. [foodnetwork.com](http://foodnetwork.com/) has 261 different recipes \(when we wrote this page!\) for making apple pie. If you're trying to make a delicious apple pie for someone, you will have multiple recipes that you can use to achieve that goal, but not all of the outcomes will be the same. Many of the recipes will be inferior to others, but you will likely have several high quality recipes to choose from. Does that make them exactly the same? Nope! Different recipes have different trade-offs. Some recipes, for example, may take significantly longer to prepare than others. Others may use more expensive ingredients, or ingredients that you don't have access to, or obscene amounts of sugar, or a variety of other conditions that impact their usefulness to you.  
   

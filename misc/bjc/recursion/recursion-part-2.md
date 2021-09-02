@@ -11,7 +11,7 @@ Note that the tree blocks inside this `tree2` script are `tree1` blocks, not `tr
 
 5. Make a `tree3` block that uses the `tree2` block, on the same pattern. Don't forget about the "duplicate" feature in Snap!, which will save you a bunch of time making tree3. Once you're done, try out `tree3` and you should see output that looks something like the following:
 
-![](../.gitbook/assets/image%20%28221%29.png)
+![](../../../.gitbook/assets/image%20%28221%29.png)
 
 6. If you can stand it, make a `tree4` block that uses the `tree3` block and try it out.
 
@@ -21,7 +21,7 @@ Note that the tree blocks inside this `tree2` script are `tree1` blocks, not `tr
 
 In the earlier steps, `tree3` used `tree2`; `tree2` used `tree1`. If you actually had the patience to work up to a `tree437` block, what block would it call for its two branches? To generalize the pattern, `tree` will use `tree`, but reducing the number of levels by 1:
 
-![](../.gitbook/assets/image%20%28192%29.png)
+![](../../../.gitbook/assets/image%20%28192%29.png)
 
 For example, given a `levels` input of 5, `tree` will call two trees with a `levels` input of 4. Those two trees in turn will each call two more trees with a `levels` input of 3. This pattern continues on and on, with the `levels` and `size` inputs getting smaller and smaller. Ideally, we want the `levels` input to eventually reach and finish at 1, signifying our most basic tree.
 

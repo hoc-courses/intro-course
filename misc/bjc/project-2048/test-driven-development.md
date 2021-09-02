@@ -17,9 +17,9 @@ Once you finish writing a test for an unfinished block you should always verify 
 
 Another advantage of failing tests is that it gives you reassurance that the test is doing it's job. It turns out that it's just as easy to write buggy tests, as it is to write buggy code. A test case that can never fail is not very helpful! By having test cases change from failing to passing, you can verify that both your code and your tests are progressing in sync with one another.
 
-![](../.gitbook/assets/image%20%28235%29.png)
+![](../../../.gitbook/assets/image%20%28235%29.png)
 
 **For You To Do:**
 
-As the final step in this short lab, write a test for the ![](../.gitbook/assets/image%20%286%29.png) ****block. You should have at least TWO boards as input test cases \(whereas our test for rotate clockwise only tried out one input board\). Make sure you have your lab TA check off your test before you leave.
+As the final step in this short lab, write a test for the ![](../../../.gitbook/assets/image%20%286%29.png) ****block. You should have at least TWO boards as input test cases \(whereas our test for rotate clockwise only tried out one input board\). Make sure you have your lab TA check off your test before you leave.
 

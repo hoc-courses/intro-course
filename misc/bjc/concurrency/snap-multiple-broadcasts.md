@@ -4,11 +4,11 @@ This section is to help you understand the machine model some more, so that you 
 
 Read the following _Snap!_ scripts:
 
-![](../.gitbook/assets/image%20%28225%29.png)
+![](../../../.gitbook/assets/image%20%28225%29.png)
 
-![](../.gitbook/assets/image%20%28222%29.png)
+![](../../../.gitbook/assets/image%20%28222%29.png)
 
-![](../.gitbook/assets/image%20%28175%29.png)
+![](../../../.gitbook/assets/image%20%28175%29.png)
 
 What do you think the list `some list` will look like if we press `b`? What about if we press `w`? Discuss with your neighbor. When you're ready, move on to the next page.
 

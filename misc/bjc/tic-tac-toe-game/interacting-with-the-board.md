@@ -28,7 +28,7 @@ How big should the `Step`, a.k.a. the width and height of the tiles be? We know 
 
 Now that we've set `Step` to work with any `Size`, we can set `Size` to however large we'd like! Let's try 8 for now. While we're at it, let's create and store our board.
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](../../../.gitbook/assets/image%20%2845%29.png)
 
 So that's everything we really need to start drawing the board. `Draw Square Board` is a basic block that draws the borders of our new board according to the global variables we just defined! Try changing the `Size` variable.
 
@@ -40,15 +40,15 @@ For this portion, we'll use a bit of math to convert the \(mouse x, mouse y\) co
 
 Here is how we can convert `mouse x` into `column`:
 
-![](../.gitbook/assets/image%20%2879%29.png)
+![](../../../.gitbook/assets/image%20%2879%29.png)
 
 Here is how we can convert `mouse y` into `row`:
 
-![](../.gitbook/assets/image%20%28249%29.png)
+![](../../../.gitbook/assets/image%20%28249%29.png)
 
 Let's put it all together to get a functioning click detector!
 
-![](../.gitbook/assets/image%20%28248%29.png)
+![](../../../.gitbook/assets/image%20%28248%29.png)
 
 Try clicking on a spot outside of the board. What coordinates do we get? Does this make sense?
 
@@ -58,5 +58,5 @@ Write the `inside board` block as described.
 
 Once you have that ready, put them together like this to finish off our neat click detector.
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](../../../.gitbook/assets/image%20%2852%29.png)
 

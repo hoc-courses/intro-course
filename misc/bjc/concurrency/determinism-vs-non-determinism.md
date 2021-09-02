@@ -6,7 +6,7 @@ In the last Snap_!_ exercise, it was a little artificial; the sprites were in lo
 
 Make a very small change to Fill Screen - have each sprite wait a random value between 1 and 1/10 seconds before stamping. \(this involves the introduction of a very simple command right before the "stamp" call in `Fill Screen`: "wait \(1 / \(pick random \[1\] to \[10\]\)\) secs"\). Run it a few times; now what happens? \(Answer: Four "threads" take off, and the slowest \(i.e., last\) color at each time step is that one who colors that 60x60 square\). Save this project as a Snap_!_ file called `NonDeterminism.xml`.
 
-![](../.gitbook/assets/image%20%28166%29.png)
+![](../../../.gitbook/assets/image%20%28166%29.png)
 
 ### What are the Possible Values?
 
@@ -14,13 +14,13 @@ If we run the following Snap_!_ code, we'll see that `result` variable will have
 
 ![](https://beautyjoy.github.io/bjc-r/img/lab-9/subset-race-main.png)
 
-![](../.gitbook/assets/image%20%2886%29.png)
+![](../../../.gitbook/assets/image%20%2886%29.png)
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../../../.gitbook/assets/image%20%2892%29.png)
 
-![](../.gitbook/assets/image%20%28262%29.png)
+![](../../../.gitbook/assets/image%20%28262%29.png)
 
-![](../.gitbook/assets/image%20%2857%29.png)
+![](../../../.gitbook/assets/image%20%2857%29.png)
 
 ### These are the Possible Values
 

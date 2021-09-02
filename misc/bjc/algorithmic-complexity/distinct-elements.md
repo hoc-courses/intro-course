@@ -13,7 +13,7 @@ Consider the following problem: I have a list of numbers and I want to know if t
 
 Take a moment to understand the algorithm, and ask any questions that you may have. Using the algorithm above, complete the body of the following block in the `Variables` menu:
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../../../.gitbook/assets/image%20%2817%29.png)
 
 Once we are done with the block, we need to figure out the **worst-case** running time of the algorithm: how long will this algorithm take on the worst possible input? By "worst", we mean an input that will cause the algorithm to work the most, or to run through the most steps. For this algorithm, for example, what is the worst possible input?
 

@@ -14,7 +14,7 @@ There are three important models of the machine you should develop:
 
 ### Try it out
 
-![](../.gitbook/assets/image%20%28103%29.png) ![](../.gitbook/assets/image%20%28105%29.png) ![](../.gitbook/assets/image%20%2868%29.png) 
+![](../../../.gitbook/assets/image%20%28103%29.png) ![](../../../.gitbook/assets/image%20%28105%29.png) ![](../../../.gitbook/assets/image%20%2868%29.png) 
 
 First, to understand the idea of two things happening at once, download and open this Snap_!_ file [`LaunchTutorial`](https://beautyjoy.github.io/bjc-r/prog/Snap/LaunchTutorial.xml) \(shown above\). After you click the green flag, let it run for a bit, then hit the space bar once. Then hit it again, and again. Talk with your partner about what is happening, and why.
 
